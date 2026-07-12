@@ -82,3 +82,4 @@ git -c core.sshCommand="ssh -o ProxyCommand='nc -X connect -x 127.0.0.1:6468 %h 
 
 **Q: 想绑定自定义域名？**
 Vercel 项目 → Settings → Domains → 添加域名并按提示配置 DNS。
+
