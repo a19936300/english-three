@@ -71,14 +71,20 @@ export default function App() {
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center text-gray-500">
+      <div
+        className="min-h-screen flex items-center justify-center"
+        style={{ color: 'var(--color-text-secondary)' }}
+      >
         加载中...
       </div>
     );
   }
   if (error) {
     return (
-      <div className="min-h-screen flex items-center justify-center text-red-500">
+      <div
+        className="min-h-screen flex items-center justify-center"
+        style={{ color: 'var(--color-danger)' }}
+      >
         加载失败：{error.message}
       </div>
     );
@@ -86,7 +92,7 @@ export default function App() {
   if (!levelsBySection) return null;
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen" style={{ background: 'var(--color-bg)' }}>
       {/* Header - hidden during lesson and result */}
       {view !== 'lesson' && view !== 'result' && (
         <Header gameState={gameState} onReset={handleHome} />

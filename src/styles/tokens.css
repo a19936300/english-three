@@ -1,0 +1,197 @@
+/* ============================================
+   DESIGN TOKENS — Duolingo-inspired
+   Light theme is the default on :root.
+   Dark / High-contrast override seed tokens via [data-theme].
+   ============================================ */
+:root {
+  /* ---- Seed Tokens (overridden by themes) ---- */
+  --seed-bg: #ffffff;
+  --seed-fg: #ffffff;
+  --seed-text: #3c3c3c;
+  --seed-text-secondary: #777777;
+  --seed-primary: #58cc02;
+  --seed-primary-shadow: #58a700;
+  --seed-primary-text: #89e219;
+  --seed-accent: #1cb0f6;
+  --seed-accent-shadow: #1899d6;
+  --seed-surface: #ffffff;
+  --seed-surface-alt: #f7f7f7;
+  --seed-border: #e5e5e5;
+  --seed-border-strong: #afafaf;
+  --seed-danger: #ff4b4b;
+  --seed-danger-shadow: #ea2b2b;
+  --seed-warning: #ff9600;
+  --seed-warning-shadow: #cc7a00;
+  --seed-radius: 12px;
+
+  /* ---- Primitive Colors (brand palette, theme-independent) ---- */
+  --duo-green: #58cc02;
+  --duo-green-deep: #58a700;
+  --duo-green-light: #89e219;
+  --duo-green-pale: #d7f858;
+  --duo-orange: #ff9600;
+  --duo-orange-deep: #cc7a00;
+  --duo-red: #ff4b4b;
+  --duo-red-deep: #ea2b2b;
+  --duo-blue: #1cb0f6;
+  --duo-blue-deep: #1899d6;
+  --duo-purple: #ce82ff;
+  --duo-purple-deep: #a366cc;
+  --duo-yellow: #ffc800;
+  --duo-yellow-deep: #d4a600;
+
+  /* ---- Surface aliases ---- */
+  --snow: #ffffff;
+  --eel: #f7f7f7;
+  --swan: #e5e5e5;
+  --wolf: #777777;
+
+  /* ---- Ink aliases ---- */
+  --eel-black: #3c3c3c;
+  --wolf-text: #777777;
+  --hare: #afafaf;
+
+  /* ---- Extended utility tokens ---- */
+  --green-pale-bg: #f0fbe0;
+  --green-pale-bg-end: #e8f8d0;
+  --green-pale-bg-deep: #e0f5c8;
+  --green-pale-border: #d7f858;
+  --green-bright: #d7f858;
+  --duo-green-pale: #d7f858;
+  --correct-bg: #d7f858;
+  --wrong-bg: #ffe0e0;
+  --wrong-bg-solid: #ffe0e0;
+  --xp-bg-start: #fff9e6;
+  --xp-bg-end: #fff3cc;
+  --badge-earned-bg: #fff9e6;
+  --hover-blue-bg: #f0f9ff;
+  --streak-bg: #fff3e0;
+  --tab-active-shadow: rgba(0, 0, 0, 0.1);
+
+  /* ---- Owl mascot palette ---- */
+  --owl-body-dark: #89e219;
+  --owl-belly: #d7f858;
+  --owl-beak: #ff9600;
+  --owl-wing: #58a700;
+  --owl-feet: #ff9600;
+  --owl-eye-pupil: #3c3c3c;
+  --owl-eye-highlight: #ffffff;
+
+  /* ---- Semantic Tokens (what components consume) ---- */
+  --color-bg: var(--seed-bg);
+  --color-bg-secondary: var(--seed-surface-alt);
+  --color-surface: var(--seed-surface);
+  --color-text: var(--seed-text);
+  --color-text-secondary: var(--seed-text-secondary);
+  --color-primary: var(--seed-primary);
+  --color-primary-hover: var(--seed-primary-text);
+  --color-primary-shadow: var(--seed-primary-shadow);
+  --color-danger: var(--seed-danger);
+  --color-danger-shadow: var(--seed-danger-shadow);
+  --color-warning: var(--seed-warning);
+  --color-warning-shadow: var(--seed-warning-shadow);
+  --color-info: var(--seed-accent);
+  --color-info-shadow: var(--seed-accent-shadow);
+  --color-border: var(--seed-border);
+  --color-border-strong: var(--seed-border-strong);
+  --color-on-primary: var(--seed-fg);
+
+  /* ---- Skill Tokens (per-section colors) ---- */
+  --skill-vocab: #58cc02;
+  --skill-vocab-shadow: #58a700;
+  --skill-grammar: #1cb0f6;
+  --skill-grammar-shadow: #1899d6;
+  --skill-reading: #ff9600;
+  --skill-reading-shadow: #cc7a00;
+  --skill-exam: #ce82ff;
+  --skill-exam-shadow: #a366cc;
+
+  /* ---- Typography ---- */
+  --font-display: 'Nunito', 'PingFang SC', -apple-system, sans-serif;
+  --font-body: 'Noto Sans SC', 'Nunito', -apple-system, sans-serif;
+
+  /* ---- Spacing ---- */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+
+  /* ---- Radius ---- */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-pill: 9999px;
+
+  /* ---- Shadows ---- */
+  --shadow-btn: 0 4px 0 var(--color-primary-shadow);
+  --shadow-btn-danger: 0 4px 0 var(--color-danger-shadow);
+  --shadow-btn-warning: 0 4px 0 var(--color-warning-shadow);
+  --shadow-btn-info: 0 4px 0 var(--color-info-shadow);
+  --shadow-btn-disabled: 0 4px 0 var(--swan);
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-raised: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+  /* ---- Transitions ---- */
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --duration-fast: 180ms;
+  --duration-normal: 320ms;
+}
+
+/* ============================================
+   DARK THEME
+   ============================================ */
+[data-theme='dark'] {
+  --seed-bg: #1a1a2e;
+  --seed-fg: #f0f0f0;
+  --seed-text: #e0e0e0;
+  --seed-text-secondary: #a0a0b0;
+  --seed-primary: #58cc02;
+  --seed-primary-shadow: #3d8f01;
+  --seed-primary-text: #89e219;
+  --seed-accent: #1cb0f6;
+  --seed-accent-shadow: #0e7ea8;
+  --seed-surface: #232340;
+  --seed-surface-alt: #1e1e36;
+  --seed-border: #3a3a5c;
+  --seed-border-strong: #5a5a7c;
+  --seed-danger: #ff4b4b;
+  --seed-danger-shadow: #b83535;
+  --seed-warning: #ff9600;
+  --seed-warning-shadow: #b36a00;
+
+  --owl-eye-pupil: #e0e0e0;
+
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-raised: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+/* ============================================
+   HIGH-CONTRAST THEME
+   ============================================ */
+[data-theme='high-contrast'] {
+  --seed-bg: #000000;
+  --seed-fg: #ffffff;
+  --seed-text: #ffffff;
+  --seed-text-secondary: #cccccc;
+  --seed-primary: #4caf00;
+  --seed-primary-shadow: #2e7d00;
+  --seed-primary-text: #7fd022;
+  --seed-accent: #2196f3;
+  --seed-accent-shadow: #1565c0;
+  --seed-surface: #111111;
+  --seed-surface-alt: #0a0a0a;
+  --seed-border: #555555;
+  --seed-border-strong: #888888;
+  --seed-danger: #ff1744;
+  --seed-danger-shadow: #b71228;
+  --seed-warning: #ff9600;
+  --seed-warning-shadow: #b36a00;
+
+  --owl-eye-pupil: #ffffff;
+
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.6);
+  --shadow-raised: 0 4px 16px rgba(0, 0, 0, 0.8);
+}

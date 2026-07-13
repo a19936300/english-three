@@ -1,12 +1,16 @@
 import { useState, useCallback } from 'react';
-import { ArrowLeft, Volume2, Check, X, Heart } from 'lucide-react';
+import { ArrowLeft, Volume2, Check, X, Heart, ChevronRight, RotateCw } from 'lucide-react';
 import ProgressBar from './ProgressBar';
+import Flashcard from './ui/Flashcard';
+import DuolingoButton from './ui/DuolingoButton';
+
+const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
 export default function VocabLesson({ level, gameState, maxLevels, onComplete, onExit }) {
   const { words } = level;
-  const [phase, setPhase] = useState('learn'); // 'learn' | 'quiz'
+  const [phase, setPhase] = useState('learn');
   const [currentIdx, setCurrentIdx] = useState(0);
-  const [showAnswer, setShowAnswer] = useState(false);
+  const [flipped, setFlipped] = useState(false);
   const [quizQuestions, setQuizQuestions] = useState([]);
   const [quizIdx, setQuizIdx] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
@@ -26,10 +30,10 @@ export default function VocabLesson({ level, gameState, maxLevels, onComplete, o
   }, []);
 
   const startQuiz = useCallback(() => {
-    const questions = words.map(word => {
+    const questions = words.map((word) => {
       const otherMeanings = words
-        .filter(w => w.en !== word.en)
-        .map(w => w.cn)
+        .filter((w) => w.en !== word.en)
+        .map((w) => w.cn)
         .sort(() => Math.random() - 0.5)
         .slice(0, 3);
       const options = [...otherMeanings, word.cn].sort(() => Math.random() - 0.5);
@@ -53,45 +57,72 @@ export default function VocabLesson({ level, gameState, maxLevels, onComplete, o
     const correct = idx === quizQuestions[quizIdx].answerIdx;
     setFeedback(correct ? 'correct' : 'wrong');
     if (correct) {
-      setQuizCorrectCount(c => c + 1);
+      setQuizCorrectCount((c) => c + 1);
     } else {
-      setQuizWrongCount(c => c + 1);
-      setHearts(h => Math.max(0, h - 1));
+      setQuizWrongCount((c) => c + 1);
+      setHearts((h) => Math.max(0, h - 1));
       gameState.loseHeart();
     }
   };
 
   const nextQuestion = () => {
     if (quizIdx + 1 < quizQuestions.length) {
-      setQuizIdx(i => i + 1);
+      setQuizIdx((i) => i + 1);
       setSelectedAnswer(null);
       setFeedback(null);
     } else {
       const stars = quizWrongCount === 0 ? 3 : quizWrongCount <= 2 ? 2 : 1;
-      gameState.completeLevel('vocabulary', level.id, quizCorrectCount, quizQuestions.length, quizWrongCount, maxLevels);
+      gameState.completeLevel(
+        'vocabulary',
+        level.id,
+        quizCorrectCount,
+        quizQuestions.length,
+        quizWrongCount,
+        maxLevels,
+      );
       onComplete(stars, quizCorrectCount, quizQuestions.length, quizWrongCount);
     }
   };
 
-  // Out of hearts
+  const advanceFlashcard = () => {
+    setFlipped(false);
+    if (currentIdx + 1 < words.length) {
+      setCurrentIdx((i) => i + 1);
+    } else {
+      startQuiz();
+    }
+  };
+
   if (hearts === 0 && phase === 'quiz') {
     return (
-      <div className="fixed inset-0 z-50 bg-white flex items-center justify-center px-4">
-        <div className="text-center">
-          <Heart className="w-16 h-16 text-red-500 fill-red-500 mx-auto mb-4" />
-          <h2 className="text-xl font-bold text-gray-800 mb-2">体力用完了！</h2>
-          <p className="text-gray-500 text-sm mb-6">用宝石可以恢复体力，继续闯关</p>
-          <button
+      <div className="empty-hearts">
+        <div>
+          <Heart className="empty-hearts__icon" fill="currentColor" />
+          <h2 className="empty-hearts__title">体力用完了！</h2>
+          <p className="empty-hearts__desc">用宝石可以恢复体力，继续闯关</p>
+          <DuolingoButton
+            variant="info"
+            disabled={gameState.gems < 30}
             onClick={() => {
               gameState.refillHearts();
               setHearts(gameState.maxHearts);
             }}
-            disabled={gameState.gems < 30}
-            className="btn-3d bg-blue-500 text-white px-6 py-3 rounded-xl font-bold disabled:opacity-40 mb-3"
+            style={{ marginBottom: 12 }}
           >
             💎 30 恢复体力
-          </button>
-          <button onClick={onExit} className="block w-full text-gray-500 text-sm mt-2">
+          </DuolingoButton>
+          <button
+            onClick={onExit}
+            style={{
+              display: 'block',
+              width: '100%',
+              color: 'var(--color-text-secondary)',
+              fontSize: '0.875rem',
+              padding: '8px 0',
+              background: 'none',
+              border: 'none',
+            }}
+          >
             退出关卡
           </button>
         </div>
@@ -99,94 +130,93 @@ export default function VocabLesson({ level, gameState, maxLevels, onComplete, o
     );
   }
 
-  // Learning phase - flashcards
   if (phase === 'learn') {
     const word = words[currentIdx];
     return (
-      <div className="fixed inset-0 z-50 bg-white flex flex-col">
-        <div className="flex items-center justify-between p-4 border-b border-gray-100">
-          <button onClick={onExit} className="text-gray-400">
-            <ArrowLeft className="w-5 h-5" />
+      <div className="lesson-shell">
+        <div className="lesson-shell__header">
+          <button className="lesson-shell__back" onClick={onExit} aria-label="退出">
+            <ArrowLeft />
           </button>
-          <span className="text-sm text-gray-500">
-            学习卡片 {currentIdx + 1} / {words.length}
+          <span className="lesson-shell__title">
+            闪卡 {currentIdx + 1} / {words.length}
           </span>
-          <div className="flex items-center gap-1">
-            <Heart className="w-4 h-4 text-red-500 fill-red-500" />
-            <span className="text-sm font-bold text-gray-600">{hearts}</span>
+          <div className="lesson-shell__hearts">
+            <Heart width={16} height={16} fill="currentColor" />
+            <span>{hearts}</span>
           </div>
         </div>
 
-        <div className="px-4 py-2">
-          <ProgressBar progress={(currentIdx + 1) / words.length} color="#58cc02" height={6} />
+        <div className="lesson-shell__progress">
+          <ProgressBar progress={(currentIdx + 1) / words.length} color="var(--skill-vocab)" />
         </div>
 
-        <div className="flex-1 flex items-center justify-center px-4 overflow-y-auto">
-          <div className="w-full max-w-md">
-            <div className="bg-green-50 rounded-3xl p-8 text-center shadow-lg border-2 border-green-200">
-              <button
-                onClick={() => speak(word.en)}
-                className="w-12 h-12 rounded-full bg-green-500 flex items-center justify-center mb-4 mx-auto btn-3d"
-              >
-                <Volume2 className="w-6 h-6 text-white" />
-              </button>
-
-              <h2 className="text-3xl font-bold text-gray-800 mb-2">{word.en}</h2>
-              <p className="text-gray-400 text-sm mb-4">{word.phonetic}</p>
-
-              {showAnswer && (
-                <div className="bg-white rounded-2xl p-4 mb-3">
-                  <p className="text-xl font-bold text-green-600 mb-2">{word.cn}</p>
-                  <div className="border-t border-gray-100 pt-3">
-                    <p className="text-sm text-gray-600">{word.example}</p>
-                    <p className="text-xs text-gray-400 mt-1">{word.exampleCn}</p>
+        <div className="lesson-shell__body">
+          <Flashcard
+            flipped={flipped}
+            onFlip={() => setFlipped((f) => !f)}
+            front={
+              <>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    speak(word.en);
+                  }}
+                  style={{
+                    width: 48,
+                    height: 48,
+                    borderRadius: '50%',
+                    background: 'var(--skill-vocab)',
+                    border: 'none',
+                    color: 'var(--color-on-primary)',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    marginBottom: 12,
+                  }}
+                  aria-label="发音"
+                >
+                  <Volume2 width={24} height={24} />
+                </button>
+                <div className="flashcard__word">{word.en}</div>
+                <div className="flashcard__phonetic">{word.phonetic}</div>
+                <div className="flashcard__hint">点击卡片查看释义</div>
+              </>
+            }
+            back={
+              <>
+                <div className="flashcard__meaning">{word.cn}</div>
+                {word.example && (
+                  <div className="flashcard__example">
+                    {word.example}
+                    {word.exampleCn && (
+                      <>
+                        <br />
+                        <span style={{ color: 'var(--color-text-secondary)' }}>{word.exampleCn}</span>
+                      </>
+                    )}
                   </div>
-                </div>
-              )}
-
-              {!showAnswer && (
-                <p className="text-gray-400 text-sm">点击下方按钮查看释义</p>
-              )}
-            </div>
-          </div>
+                )}
+              </>
+            }
+          />
         </div>
 
-        <div className="p-4 border-t border-gray-100">
-          {!showAnswer ? (
-            <button
-              onClick={() => setShowAnswer(true)}
-              className="btn-3d w-full bg-green-500 text-white py-4 rounded-2xl font-bold text-lg"
-            >
+        <div className="lesson-shell__footer">
+          {!flipped ? (
+            <DuolingoButton variant="primary" onClick={() => setFlipped(true)}>
               查看释义
-            </button>
+            </DuolingoButton>
           ) : (
-            <div className="flex gap-3">
-              <button
-                onClick={() => {
-                  setShowAnswer(false);
-                  if (currentIdx + 1 < words.length) {
-                    setCurrentIdx(i => i + 1);
-                  } else {
-                    startQuiz();
-                  }
-                }}
-                className="flex-1 btn-3d bg-gray-200 text-gray-600 py-3 rounded-2xl font-bold"
-              >
-                再看一次
-              </button>
-              <button
-                onClick={() => {
-                  setShowAnswer(false);
-                  if (currentIdx + 1 < words.length) {
-                    setCurrentIdx(i => i + 1);
-                  } else {
-                    startQuiz();
-                  }
-                }}
-                className="flex-1 btn-3d bg-green-500 text-white py-3 rounded-2xl font-bold"
-              >
-                下一个
-              </button>
+            <div className="flashcard__actions">
+              <DuolingoButton variant="secondary" onClick={() => setFlipped(false)}>
+                <RotateCw width={16} height={16} />
+                再看
+              </DuolingoButton>
+              <DuolingoButton variant="primary" onClick={advanceFlashcard}>
+                {currentIdx + 1 < words.length ? '下一个' : '开始测试'}
+                <ChevronRight width={16} height={16} />
+              </DuolingoButton>
             </div>
           )}
         </div>
@@ -194,100 +224,117 @@ export default function VocabLesson({ level, gameState, maxLevels, onComplete, o
     );
   }
 
-  // Quiz phase
   const q = quizQuestions[quizIdx];
   const progress = (quizIdx + 1) / quizQuestions.length;
 
   return (
-    <div className="fixed inset-0 z-50 bg-white flex flex-col">
-      <div className="flex items-center justify-between p-4 border-b border-gray-100">
-        <button onClick={onExit} className="text-gray-400">
-          <ArrowLeft className="w-5 h-5" />
+    <div className="lesson-shell">
+      <div className="lesson-shell__header">
+        <button className="lesson-shell__back" onClick={onExit} aria-label="退出">
+          <ArrowLeft />
         </button>
-        <span className="text-sm text-gray-500">测试 {quizIdx + 1} / {quizQuestions.length}</span>
-        <div className="flex items-center gap-1">
-          <Heart className="w-4 h-4 text-red-500 fill-red-500" />
-          <span className="text-sm font-bold text-gray-600">{hearts}</span>
+        <span className="lesson-shell__title">
+          测试 {quizIdx + 1} / {quizQuestions.length}
+        </span>
+        <div className="lesson-shell__hearts">
+          <Heart width={16} height={16} fill="currentColor" />
+          <span>{hearts}</span>
         </div>
       </div>
 
-      <div className="px-4 py-2">
-        <ProgressBar progress={progress} color="#58cc02" height={6} />
+      <div className="lesson-shell__progress">
+        <ProgressBar progress={progress} color="var(--skill-vocab)" />
       </div>
 
-      <div className="flex-1 flex flex-col items-center justify-center px-4 overflow-y-auto">
-        <div key={quizIdx} className="w-full max-w-md">
-          <p className="text-center text-gray-400 text-sm mb-2">这个单词是什么意思？</p>
-          <div className="bg-green-50 rounded-2xl p-6 text-center mb-6 border-2 border-green-200">
+      <div className="lesson-shell__body">
+        <div style={{ width: '100%', maxWidth: 400 }} key={quizIdx}>
+          <p
+            style={{
+              textAlign: 'center',
+              color: 'var(--color-text-secondary)',
+              fontSize: '0.875rem',
+              marginBottom: 8,
+            }}
+          >
+            这个单词是什么意思？
+          </p>
+          <div
+            className="quiz__question-card"
+            style={{ marginBottom: 24, background: 'var(--green-pale-bg)', borderColor: 'var(--green-pale-border)' }}
+          >
             <button
               onClick={() => speak(q.word)}
-              className="inline-flex items-center gap-2 text-2xl font-bold text-gray-800 hover:text-green-600 transition-colors"
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: 8,
+                background: 'none',
+                border: 'none',
+                color: 'var(--duo-green-deep)',
+                fontSize: '1.5rem',
+                fontWeight: 800,
+                fontFamily: 'var(--font-display)',
+              }}
             >
               {q.word}
-              <Volume2 className="w-5 h-5 text-green-500" />
+              <Volume2 width={20} height={20} />
             </button>
-            <p className="text-gray-400 text-sm mt-1">{q.phonetic}</p>
+            <div className="flashcard__phonetic" style={{ marginTop: 4 }}>
+              {q.phonetic}
+            </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3">
+          <div className="quiz__options">
             {q.options.map((option, idx) => {
               const isSelected = selectedAnswer === idx;
               const isCorrect = idx === q.answerIdx;
-              let bgClass = 'bg-white border-gray-200 text-gray-700';
-              let borderClass = 'border-2';
-
+              let stateClass = '';
               if (feedback) {
-                if (isCorrect) {
-                  bgClass = 'bg-green-50 border-green-400 text-green-600';
-                } else if (isSelected) {
-                  bgClass = 'bg-red-50 border-red-400 text-red-600';
-                } else {
-                  bgClass = 'bg-white border-gray-200 text-gray-400 opacity-50';
-                }
-              } else if (isSelected) {
-                bgClass = 'bg-blue-50 border-blue-400 text-blue-600';
+                if (isCorrect) stateClass = 'quiz__option--correct';
+                else if (isSelected) stateClass = 'quiz__option--wrong';
+                else stateClass = 'quiz__option--muted';
               }
-
               return (
                 <button
                   key={idx}
+                  className={`quiz__option ${stateClass}`}
                   onClick={() => handleAnswer(idx)}
                   disabled={!!feedback}
-                  className={`${bgClass} ${borderClass} rounded-2xl py-4 px-3 font-medium text-sm transition-all ${!feedback ? 'btn-3d' : ''}`}
                 >
-                  {option}
-                  {feedback && isCorrect && <Check className="inline w-4 h-4 ml-1" />}
-                  {feedback && isSelected && !isCorrect && <X className="inline w-4 h-4 ml-1" />}
+                  <span className="quiz__option-letter">{LETTERS[idx]}</span>
+                  <span style={{ flex: 1 }}>{option}</span>
+                  {feedback && isCorrect && <Check width={20} height={20} />}
+                  {feedback && isSelected && !isCorrect && <X width={20} height={20} />}
                 </button>
               );
             })}
           </div>
 
           {feedback && (
-            <div className={`mt-4 rounded-2xl p-4 ${feedback === 'correct' ? 'bg-green-50' : 'bg-red-50'}`}>
-              <p className={`font-bold ${feedback === 'correct' ? 'text-green-600' : 'text-red-600'}`}>
-                {feedback === 'correct' ? '✓ 回答正确！' : '✗ 正确答案：' + q.correctAnswer}
-              </p>
+            <div className={`quiz__feedback quiz__feedback--${feedback}`} style={{ marginTop: 16 }}>
+              <div className="quiz__feedback-icon">
+                {feedback === 'correct' ? <Check width={18} height={18} /> : <X width={18} height={18} />}
+              </div>
+              <div className="quiz__feedback-text">
+                <strong>
+                  {feedback === 'correct' ? '回答正确！' : '正确答案：' + q.correctAnswer}
+                </strong>
+              </div>
             </div>
           )}
         </div>
       </div>
 
-      <div className="p-4 border-t border-gray-100">
+      <div className="lesson-shell__footer">
         {feedback ? (
-          <button
-            onClick={nextQuestion}
-            className="btn-3d w-full bg-green-500 text-white py-4 rounded-2xl font-bold text-lg"
-          >
+          <DuolingoButton variant="primary" onClick={nextQuestion}>
             {quizIdx + 1 < quizQuestions.length ? '下一题' : '完成测试'}
-          </button>
+            <ChevronRight width={16} height={16} />
+          </DuolingoButton>
         ) : (
-          <button
-            disabled
-            className="w-full bg-gray-200 text-gray-400 py-4 rounded-2xl font-bold text-lg"
-          >
+          <DuolingoButton variant="secondary" disabled>
             选择答案
-          </button>
+          </DuolingoButton>
         )}
       </div>
     </div>
