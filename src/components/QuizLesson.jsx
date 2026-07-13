@@ -2,7 +2,7 @@ import { useState, useCallback } from 'react';
 import { ArrowLeft, Check, X, Heart, Volume2 } from 'lucide-react';
 import ProgressBar from './ProgressBar';
 
-export default function QuizLesson({ level, section, gameState, onComplete, onExit }) {
+export default function QuizLesson({ level, section, gameState, maxLevels, onComplete, onExit }) {
   const hasLesson = !!level.lesson;
   const hasPassage = !!level.passage;
   const questions = level.quiz || level.questions || [];
@@ -55,7 +55,7 @@ export default function QuizLesson({ level, section, gameState, onComplete, onEx
       setFeedback(null);
     } else {
       const stars = wrongCount === 0 ? 3 : wrongCount <= 2 ? 2 : 1;
-      gameState.completeLevel(section, level.id, correctCount, questions.length, wrongCount);
+      gameState.completeLevel(section, level.id, correctCount, questions.length, wrongCount, maxLevels);
       onComplete(stars, correctCount, questions.length, wrongCount);
     }
   };

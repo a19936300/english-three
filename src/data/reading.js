@@ -1,3 +1,5 @@
+// @deprecated 数据已迁移到 Supabase，本文件保留仅供回滚和 seed 脚本使用。
+// 详见 docs/SUPABASE_MIGRATION.md
 // PETS-3 阅读理解练习数据
 // 难度递增：从简短对话到 PETS-3 真题难度
 // 适用于英语接近零基础、备考 PETS-3 的学习者

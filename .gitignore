@@ -16,9 +16,14 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+.trae/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Browser-harness debug artifacts
+_bh_*
+_bh_shots/

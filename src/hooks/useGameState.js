@@ -90,7 +90,7 @@ export function useGameState() {
   }, [])
 
   // Complete a level
-  const completeLevel = useCallback((section, levelId, score, total, wrongCount) => {
+  const completeLevel = useCallback((section, levelId, score, total, wrongCount, maxLevels = 0) => {
     const stars = wrongCount === 0 ? 3 : wrongCount <= 2 ? 2 : 1
     const xpEarned = Math.round((score / total) * 20) + (stars === 3 ? 10 : 0)
     const today = new Date().toDateString()
@@ -114,13 +114,6 @@ export function useGameState() {
 
       // Update section progress
       const newSectionProgress = { ...prev.sectionProgress }
-      const sectionLevels = {
-        vocabulary: 10,
-        grammar: 8,
-        reading: 6,
-        exam: 5,
-      }
-      const maxLevels = sectionLevels[section] || 0
       if (levelId <= maxLevels && levelId > newSectionProgress[section]) {
         newSectionProgress[section] = levelId
       }

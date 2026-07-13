@@ -1,3 +1,5 @@
+// @deprecated 数据已迁移到 Supabase，本文件保留仅供回滚和 seed 脚本使用。
+// 详见 docs/SUPABASE_MIGRATION.md
 export const vocabularyLevels = [
   {
     id: 1,

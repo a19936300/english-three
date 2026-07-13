@@ -1,9 +1,6 @@
 import { useState, useCallback } from 'react';
 import { useGameState } from './hooks/useGameState';
-import { vocabularyLevels } from './data/vocabulary';
-import { grammarLevels } from './data/grammar';
-import { readingLevels } from './data/reading';
-import { examLevels } from './data/exam';
+import { useLevelData } from './hooks/useLevelData';
 import Header from './components/Header';
 import Home from './components/Home';
 import PathMap from './components/PathMap';
@@ -11,15 +8,9 @@ import VocabLesson from './components/VocabLesson';
 import QuizLesson from './components/QuizLesson';
 import ResultScreen from './components/ResultScreen';
 
-const SECTION_DATA = {
-  vocabulary: vocabularyLevels,
-  grammar: grammarLevels,
-  reading: readingLevels,
-  exam: examLevels,
-};
-
 export default function App() {
   const gameState = useGameState();
+  const { levelsBySection, loading, error } = useLevelData();
   const [view, setView] = useState('home');
   const [section, setSection] = useState(null);
   const [currentLevel, setCurrentLevel] = useState(null);
@@ -46,7 +37,7 @@ export default function App() {
       setView('home');
       return;
     }
-    const levels = SECTION_DATA[section] || [];
+    const levels = levelsBySection[section] || [];
     const nextLevel = levels.find(l => l.id === currentLevel.id + 1);
     if (nextLevel) {
       setCurrentLevel(nextLevel);
@@ -55,7 +46,7 @@ export default function App() {
     } else {
       setView('path');
     }
-  }, [section, currentLevel]);
+  }, [section, currentLevel, levelsBySection]);
 
   const handleRetry = useCallback(() => {
     setResult(null);
@@ -78,6 +69,22 @@ export default function App() {
     setView('path');
   }, []);
 
+  if (loading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center text-gray-500">
+        加载中...
+      </div>
+    );
+  }
+  if (error) {
+    return (
+      <div className="min-h-screen flex items-center justify-center text-red-500">
+        加载失败：{error.message}
+      </div>
+    );
+  }
+  if (!levelsBySection) return null;
+
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header - hidden during lesson and result */}
@@ -93,7 +100,7 @@ export default function App() {
       {view === 'path' && section && (
         <PathMap
           section={section}
-          levels={SECTION_DATA[section] || []}
+          levels={levelsBySection[section] || []}
           gameState={gameState}
           onSelectLevel={handleSelectLevel}
           onBack={handleBackToHome}
@@ -105,6 +112,7 @@ export default function App() {
           <VocabLesson
             level={currentLevel}
             gameState={gameState}
+            maxLevels={(levelsBySection.vocabulary || []).length}
             onComplete={handleLessonComplete}
             onExit={handleBackToPath}
           />
@@ -113,6 +121,7 @@ export default function App() {
             level={currentLevel}
             section={section}
             gameState={gameState}
+            maxLevels={(levelsBySection[section] || []).length}
             onComplete={handleLessonComplete}
             onExit={handleBackToPath}
           />

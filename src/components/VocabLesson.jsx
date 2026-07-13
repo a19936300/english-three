@@ -2,7 +2,7 @@ import { useState, useCallback } from 'react';
 import { ArrowLeft, Volume2, Check, X, Heart } from 'lucide-react';
 import ProgressBar from './ProgressBar';
 
-export default function VocabLesson({ level, gameState, onComplete, onExit }) {
+export default function VocabLesson({ level, gameState, maxLevels, onComplete, onExit }) {
   const { words } = level;
   const [phase, setPhase] = useState('learn'); // 'learn' | 'quiz'
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -68,7 +68,7 @@ export default function VocabLesson({ level, gameState, onComplete, onExit }) {
       setFeedback(null);
     } else {
       const stars = quizWrongCount === 0 ? 3 : quizWrongCount <= 2 ? 2 : 1;
-      gameState.completeLevel('vocabulary', level.id, quizCorrectCount, quizQuestions.length, quizWrongCount);
+      gameState.completeLevel('vocabulary', level.id, quizCorrectCount, quizQuestions.length, quizWrongCount, maxLevels);
       onComplete(stars, quizCorrectCount, quizQuestions.length, quizWrongCount);
     }
   };
