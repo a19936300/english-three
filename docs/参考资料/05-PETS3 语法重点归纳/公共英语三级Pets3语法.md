@@ -1,0 +1,3113 @@
+## 目录
+
+第一章 名词 …… (1)
+第二章 冠词 …… (5)
+第三章 代词 …… (7)
+第四章 形容词和副词 …… (13)
+第五章 介词和介词短语 …… (20)
+第六章 动词和动词短语 …… (23)
+第七章 情态动词和虚拟语气 …… (35)
+第八章 动词的时态和语态 …… (41)
+第九章 非谓语动词 …… (47)
+第十章 名词性从句 …… (60)
+第十一章 状语从句 …… (70)
+第十二章 定语从句 …… (81)
+第十三章 主谓一致 …… (88)
+第十四章 特殊句式 …… (96)
+
+## 第一章 名词
+
+## (一)名词的分类
+
+名词可以分为专有名词和普通名词。普通名词又分为个体名词、集体名词、物质名词和抽象名词四类。个体名词和集体名词可以用数目来计算，称为可数名词，物质名词和抽象名词一般无法用数目计算，称为不可数名词。
+
+## (二)名词的数
+
+1. 可数名词复数的规则变化
+
+<table><tr><td>类别</td><td>变化规则</td><td>典例</td></tr><tr><td>一般情况</td><td>加-s</td><td>map→mapsgirl→girls</td></tr><tr><td>以s,z,x,ch,sh结尾</td><td>加-es</td><td>bus→busesbox→boxesbuzz→buzzes</td></tr><tr><td>以“辅音字母+y”结尾</td><td>变y为i加-es</td><td>family→familiescountry→countries</td></tr><tr><td>以f或fe结尾</td><td>变f或fe为v加-es</td><td>knife→kniveswife→wives</td></tr></table>
+
+【注意】以 o 结尾的名词变复数时,一般直接加-s。如: kilo, piano, kangaroo, photo 等。但 tomato(西红柿), potato(土豆), negro(黑人), hero(英雄)要加-es。
+
+## 2. 可数名词复数的不规则变化
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+# 终身学习社群
+
+创业 | 职场 | 投资 | 学习 | 资源
+
+早读：新闻早报
+
+晚读：每天听一本书（约30分钟）
+
+经济学人、财新周刊等国内外优质报刊
+
+最新顶级策划方案、行业报告
+
+最新影视、软件、趣站
+
+最新电子书、音频书、读书笔记
+
+追剧.资料.学习.课程.教程
+
+![](images/758351a2ab9470562f4878c3d0c129384238a172c76df6efc7ac6445ec8974a7.jpg)  
+获取更多资源 截图扫码进群
+
+(2) 改变名词中的元音字母。如: man→men, woman→women, mouse→mice, foot→feet, goose→geese, crisis→crises
+
+## (3) 单复数同形的名词有：
+
+craft, headquarters, means, deer, fish, means, sheep, species, Chinese, Japanese
+
+## (三) 不可数名词
+
+## 1. 不可数名词的数量表示形式
+
+不可数名词可以通过在名词前加表示数量的词(如much, little, a little, a lot of 等)来表示数量概念, 也可以用“计量词 + of”表示。如:
+
+a piece of paper 一张纸 a bottle of orange 一瓶橘子汁
+
+a cup of tea 一杯茶 a bag of rice 一袋米
+
+a loaf of bread 一块面包 a grain of sand 一粒沙子
+
+an ear of corn 一穗玉米 a lump of sugar 一块方糖
+
+a cake of soap 一块肥皂 a bar of chocolate 一条巧克力
+
+The rich man has a lot of money. 那个富有的男人有很多钱。
+
+## 2. 可以具体化的不可数名词
+
+一些不可数名词可具体化,与不定冠词连用,常见的有:
+
+beauty 美,美貌→a beauty 一个美人,一件美好的事物
+
+danger 危险→a danger 一件危险的事或一个危险的人
+
+success 成功,胜利→a success 一件成功的事,一个成功的人
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+surprise 惊奇 → a surprise 一件令人惊哥的事物
+
+## (四) 名词的所有格
+
+名词所有格用来表示人或物的所属关系。包括's 所有格, of 所有格和双重所有格。基本用法为：
+
+(1) 表示有生命的名词的所有格其单数形式是加's，其复数形式是加 $s'$ 。如：
+
+Milton's poems, Mother's Day, my uncle's arrival, Teachers' Day
+
+(2) 结尾不是 s 的复数名词仍加's。如：
+
+Children's Day, Women's Day
+
+(3) 表示时间、距离、长度、重量、价格、世界、国家等的名词的所有格要用's。如：
+
+today's newspaper, thirty minutes' walk, three hours' ride
+
+(4)无生命名词的所有格则必须用 of 结构。如：
+
+a map of England
+
+(5)双重所有格。如：
+
+a friend of my father's 我爸爸的一位朋友, a friend of mine 我的一位朋友
+
+(6) 如果两个名词并列, 并且分别有's, 则表示“分别有”; 两个名词并列, 只有一个's, 则表示“共有”。如:
+
+John's and Mary's rooms(约翰和玛丽各有一间,共两间)
+
+John and Mary's room(约翰和玛丽共有一间)
+关注公众号[英语主播皮卡丘]获取PETS 章题及私域备考资料
+Tom and Mary's mother(刘Toh与Mary是兄妹)
+
+(7)'s 还可以表示某人的家或者某个店铺。如：my aunt's 我阿姨家，the doctor's 诊所
+
+(五)名词的句法作用
+
+<table><tr><td>功能</td><td>例句</td></tr><tr><td>主语</td><td>My family is now in New York. 我家现在在纽约。</td></tr><tr><td>表语</td><td>His father is a businessman. 他父亲是个商人。</td></tr><tr><td>宾语</td><td>We love our great motherland. 我们热爱我们伟大的祖国。</td></tr><tr><td>宾语补足语</td><td>He made London the base for his work. 他把伦敦作为工作的基地。</td></tr><tr><td>定语</td><td>The girls are making paper flowers. 女孩们在做纸花。</td></tr><tr><td>同位语</td><td>Mr. Green, a famous novelist, will come here. 格林先生,一个著名小说家,要来这里。</td></tr><tr><td>状语</td><td>He returned last night. 他昨天晚上回来了。</td></tr></table>
+
+## 第二章 冠词
+
+## 1. 定冠词的用法
+
+(1) 表示说话双方都了解的或上文提到过的人或事，表示“特指”。
+
+(2) 表示一类人或事物。
+
+(3)用于表示世纪、年代、朝代的名词以及逢十的复数名词前(指某个年代)。
+
+(4)指世界上独一无二的事物。
+
+(5)用在序数词、形容词/副词最高级以及形容词 only, very, same 等前面。
+
+(6)表示西洋乐器的名词前常加定冠词。
+
+(7)用在表示姓氏的复数名词之前,表示“一家人”或“夫妇”。
+
+(8)用在表示江河、湖泊、海洋、山脉、岛屿、海湾、海峡、报纸、书籍、杂志、会议、条约等专有名词前。
+
+(9)用于方位名词、身体部位名词及表示时间的词组前。
+
+(10)用在某些固定词组中。
+
+2. 不定冠词的用法
+
+(1) 表示数量“一”的意思, 与 one 相近。
+
+(2)用在可数名词单数前,泛指一类人或事物。
+关注公众号[英语主播皮皮后]获取PETS真题及私域备考资料
+(3)用于第一次提及的某人或某物制,非特指。
+
+(4) 表示“每一”，相当于 every, one。
+
+(5) 表示不特定的“某一个”。
+
+(6)用于某些具体化的抽象名词前。
+
+(7)用于有形容词修饰的表示一日三餐的名词和专有名词前。
+
+(8)用于序数词前表示“又一,再一”,相当于 another。
+
+(9)用于固定词组中。
+
+## 3. 零冠词的用法
+
+(1) 不可数名词、物质名词和抽象名词前通常不用冠词。
+
+(2) 表示泛指的复数名词前不用冠词。
+
+(3) 在“by + 交通工具”的短语里不用冠词
+
+(4) 在学科名称、球类、棋类名词前不用冠词。
+
+(5)在一日三餐等名词前,一般不用冠词。
+
+(6) 在年份、季节、月份、节日、假日、日期、星期等表示时间的名词之前不加冠词。
+
+(7) 表示正式的或独一无二的职位、头衔的名词前用零冠词。
+
+(8) 名词前已有 this, my, whose, some, no, each, every 等词修饰时不用冠词。
+
+(9)道路、广场、车站、机场、公园、桥梁等名称一般不带定冠词。
+
+(10)在某些固定短语中,要求使用零冠词。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第三章 代词
+
+## 1. 人称代词的用法
+
+表示“我”“你”“他”“我们”“你们”“他们”的词叫人称代词。人称代词并不全指人，也指物。人称代词有主格和宾格之分，也有人称、数和格的变化，见下表：
+
+<table><tr><td rowspan="2">人称</td><td colspan="2">单数</td><td colspan="2">复数</td></tr><tr><td>主格</td><td>宾格</td><td>主格</td><td>宾格</td></tr><tr><td>第一人称</td><td>I</td><td>me</td><td>we</td><td>us</td></tr><tr><td>第二人称</td><td>you</td><td>you</td><td>you</td><td>you</td></tr><tr><td>第三人称</td><td>he,she,it</td><td>him,her,it</td><td>they</td><td>them</td></tr></table>
+
+## 2. 物主代词的用法
+
+表示所有关系的代词,它与人称代词一样,也分第一人称、第二人称、第三人称,每个人称分单数和复数。物主代词有形容词性和名词性两种。
+
+形容词性物主代词
+
+<table><tr><td>人称</td><td colspan="2">单数</td><td colspan="2">复数</td></tr><tr><td>第一人称</td><td>my</td><td>我的</td><td>our</td><td>我们的</td></tr><tr><td>第二人称</td><td>your</td><td>你的</td><td>your</td><td>你们的</td></tr><tr><td rowspan="3">第三人称</td><td>his</td><td>他的</td><td rowspan="3">their</td><td>他们的</td></tr><tr><td>her</td><td>她的</td><td>她们的</td></tr><tr><td></td><td></td><td>及私域备考</td></tr></table>
+
+## 名词性物主代词
+
+<table><tr><td>人称</td><td colspan="2">单数</td><td colspan="2">复数</td></tr><tr><td>第一人称</td><td>mine</td><td>我的</td><td>ours</td><td>我们的</td></tr><tr><td>第二人称</td><td>yours</td><td>你的</td><td>yours</td><td>你们的</td></tr><tr><td rowspan="3">第三人称</td><td>his</td><td>他的</td><td rowspan="3">theirs</td><td>他们的</td></tr><tr><td>hers</td><td>她的</td><td>她们的</td></tr><tr><td>its</td><td>它的</td><td>它们的</td></tr></table>
+
+## 3. 反身代词
+
+## (1) 反身代词的形式
+
+如人称代词一样,反身代词的人称和数要和它所指代的名词或代词一致。
+
+<table><tr><td>人称</td><td colspan="2">单数</td><td colspan="2">复数</td></tr><tr><td>第一人称</td><td>myself</td><td>我自己</td><td>ourselves</td><td>我们自己</td></tr><tr><td>第二人称</td><td>yourself</td><td>你自己</td><td>yourselves</td><td>你们自己</td></tr><tr><td rowspan="3">第三人称</td><td>himself</td><td>他自己</td><td rowspan="3">themselves</td><td>他们自己</td></tr><tr><td>herself</td><td>她自己</td><td>她们自己</td></tr><tr><td>itself</td><td>它自己</td><td>它们自己</td></tr></table>
+
+## (2) 反身代词的句法功能
+
+\* 反身代词可用作宾语、同位语、表语等。用作同位语时，主要用于加强被修饰词的语气，可紧跟在被修饰名词后致的录。
+
+\* 反身代词常见于某些成语中,也可以作有些动词(如 enjoy, hurt, introduce, seat, dress, amuse, behave, teach, help 等)的宾语。
+
+## 4. 相互代词的用法
+
+英语的相互代词只有 each other 和 one another, 它们在句中通常只用作宾语, 不能用作主语或状语等。相互代词可以有所有格形式(each other's, one another's)。
+
+## 5. 指示代词的用法
+
+指示代词有 this, that, these 和 those 等, 使用时要注意以下六点:
+
+(1) 在时间或空间上近指用 this 或 these, 远指用 that 或 those。
+
+(2) 指上文提到的事一般用 that, 有时也用 this, 指下文的事用 this。
+
+(3) 打电话时通常用 this 表示自己, that 表示对方。
+
+(4) this 和 that 还可作副词用, 表示程度, 相当于 so。
+
+(5) that 和 those 可代替前面提到过的名词, 以避免重复, 但 this 和 these 不行。
+
+(6) that 和 those 可作定语从句的先行词, 但 this 和 these 不能, 同时, 在作先行词时, 只有 those 可指人。
+
+## 6. 疑问代词的用法
+
+疑问代词引导的疑问句为特殊疑问句，疑问代词一般放在疑问句的句首。疑问代词有：who（谁，主格），whom（谁，美格），whose（谁的），what（什么），which（哪个）。其中 who, whom, whose 只能指人, what 和 which 可指人或者物。
+
+## 7. 连接代词的用法
+
+## (1) 连接代词
+
+主要包括 who, whom, what, which, whose, whoever, whatever, whichever, whomever 等，它们在句中可用作主语、宾语、表语、定语等（但 who, whom, whoever 等不用于名词前作定语），主要用于引导主语从句、宾语从句和表语从句等名词性从句。
+
+## (2) whatever, whoever, whomever 与 whichever
+
+可用于引导主语从句和宾语从句等,也可用于引导让步状语从句。
+
+## 8. 不定代词的用法
+
+如 some, any, many, much, each 等, 凡不是用来指明代替任何特定名词的代词叫作不定代词。大多数不定代词还可以作形容词, 用法比较复杂。有必要把意义相近而用法不同的不定代词进行比较。
+
+## (1) some, any
+
+\* some, any 既可以指代或修饰可数名词,也可以指代或修饰不可数名词, some 常用在肯定句中; any 多用于否定句、疑问句及条件句中。
+
+\* some 用于疑问句时,表示请求,希望得到对方肯定的回答;any 用于肯定句时表示“任何”或“无论哪一个”。
+
+关注公众号[英语主播库卡丘]获取PETS嘉题及私域备考资料
+A some 和 any 柱字中还可用作副高,作秋语,some 表
+
+示“大约”,any 意为“稍微”。
+
+\* some 修饰单数名词时,表示“某一个”。
+
+## (2) many, much, few, little, a few, a little
+
+\* many(很多), a few(有几个), few(很少)用来代替或修饰可数名词, 而 much(很多), a little(有一些), little(很少)用来代替或修饰不可数名词。a few 和 a little 含肯定意义, few 和 little 则表示没有多少, 含否定意义。一般说来 only, just, still, quite 等词可与 a few 或 a little 连用; very, so, some 等词可与 few 或 little 连用。
+
+## (3) each, every
+
+\* each 和 every 都可表示“每个”，但含义和用法有所不同。each 指两个或两个以上的人或物中的每一个，强调个体，而 every 指三个或三个以上的人或物中的每一个，侧重整体；each 指若干固定数目中的每一个（特指），而 every 指任何一个（泛指）；each 兼有代词和形容词特点，可作主语、同位语、定语和宾语，而 every 是形容词，只能作定语。
+
+\* each 作同位语时,不影响谓语动词的数。
+
+\* every 和 one 可构成合成代词 everyone 与 every one。everyone 仅指人，后面常跟 in...；every one 既可指人也可指物，后面常接介词 of。
+
+## (4) none, no one, nothing
+
+\* none 既可指人也可指物,常暗示一定范围,因此多与表示范围的介词短语 of... 连用; no one 只能指人,不能关注公众号 [南语主播皮卡丘] 获取 PETS 真题及私域备考资料。
+
+有关,可回答 how many 或 how much,表示“一个也没有”; no one 表示“什么人也没有”,可回答 who;nothing 表示“什么也没有”,用来否定一切,可回答 what。
+
+(5) all, both, neither, either
+
+\* all 指三者以上“都”。both, neither 和 either 都涉及两个人或事物的关系, both 意为“两者都”, neither 意为“两者都不”, either 表示“两者中任何一个”。all 和 both 与 not 连用表示部分否定。
+
+(6) other, the other, others, the others, another
+
+\* other 表示“其他的；别的；另外的”，常用作定语，修饰复数可数名词。但如果 other 前有 some, any, every, no 等词，可与单数可数名词连用；another 相当于 an other，一般泛指三者或三者以上中的另一个，代替或修饰单数可数名词。如果 another 后有 few 或数词，可接复数名词。
+
+\* the other 是指两者中余下的那个, 可与 one 构成 “one...the other...” 结构。
+
+\* others 表示“其他的人或物”，常与 some 搭配构成 “some...others...” 结构；the others 指特定范围内“其余的人或物”。
+
+## 9. 代词的特殊用法
+
+代词还涉及 it, one, that 等的替代问题。替代现象一般出现在上下文相同的语境中，目的都是避免重复，使句子言简意赅。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第四章 形容词和副词
+
+## 1. 形容词
+
+## (1)形容词的语法作用
+
+<table><tr><td>语法作用</td><td>例句</td></tr><tr><td>定语</td><td>You can see beautiful flowers in the garden.你可以在花园里看到美丽的花。</td></tr><tr><td>表语</td><td>Your coat is too small. 你的外套太小了。</td></tr><tr><td>状语</td><td>He came over, eager to help. 他走过来,急于想帮忙。</td></tr><tr><td>宾语补足语</td><td>He keeps everything clean and tidy. 他让一切都干净整洁。</td></tr></table>
+
+## (2)形容词的位置
+
+\*形容词用来修饰 something, anything, nothing, everything 等不定代词时, 要放在后面。如:
+
+Nothing suspicious was found when the flight returned to Beijing. 航班被迫返回北京后并没有发现任何可疑之处。
+
+\* 形容词短语作定语时要后置。如：
+
+They are the students easy to teach. 他们是很容易教的学生。
+
+\* 多个形容词修饰同一个名词时,一般按照下列顺序排列:
+
+the(a,an,one's)(限定词)+数词(序数词、基数词)+表示观点的描绘性形容词+size(大小、长短、高低)+关注公众号[英语主播皮击丘]获取PETS真题及私域备考资料shape(形状)+age(时间、年龄)+Colour(颜色)+origin(国籍、出处) + material(材料) + purpose(目的、用途) + 被修饰的名词(中心词)。如：
+
+two big round new Chinese wooden tables 两张新的中国式木制大圆桌
+
+his large new black foreign car 他那辆新的大型黑色外国进口汽车
+
+(3) 以-ly 结尾的形容词
+
+(1) 大部分形容词加-ly 可构成副词。但 friendly, deadly, lovely, lonely, likely, lively, ugly, brotherly 等仍为形容词。如：
+
+Her singing was lovely. 她歌唱得很好听。
+
+(2)有些以-ly结尾的词既为形容词,也为副词,如daily,weekly,monthly,yearly,early等。如:
+
+The Times is a weekly paper.《时代周刊》为周刊。
+
+The Times is published weekly.《时代周刊》每周发行一期。
+
+## (4)形容词表示类别和整体
+
+（1）某些形容词加上定冠词可以泛指一类人，作主语时谓语动词用复数，如 the dead, the living, the rich, the poor, the blind, the hungry 等。如：
+
+The poor are losing hope. 穷人行将失去希望。
+
+(2) 有关国家和民族的形容词加上定冠词指这个民族的整体,与动词的复数连用,如 the British, the English, the French, the Chinese 等。如:
+
+The English have wonderful sense of humor. 英国人颇有幽默感。
+
+## 2. 副词
+
+(1) 副词的语法作用
+
+<table><tr><td>语法作用</td><td>例句</td></tr><tr><td>状语</td><td>They work hard. 他们努力工作。(副词修饰动词)</td></tr><tr><td>定语</td><td>The students here are all from Hubei. 这儿的学生都来自湖北。</td></tr><tr><td>表语</td><td>What is on this evening? 今晚上演什么节目?</td></tr><tr><td>宾语补足语</td><td>Don’t let him in. 别让他进来。</td></tr></table>
+
+## (2) 副词的排序
+
+\*时间、地点副词，小单位的在前，大单位的在后。
+
+\*方式副词,短的在前,长的在后,并用 and 或 but 等连词连接。
+
+\* 多个不同副词排列顺序: 程度 + 地点 + 方式 + 时间副词。
+
+【注意】副词 enough 要放在形容词或副词的后面,形容词 enough 放在名词前后都可以。如: I don't know him well enough. 我对他不是很不熟。
+
+## (3) 兼有两种形式的副词
+
+\* close 与 closely
+
+close 意思是“靠近”; closely 意思是“仔细地”。如:
+
+He is sitting close to me. 他就坐在我边上。Watch him closely. 仔细盯着他。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+deep 意思是“深”，表示空间深度；deeply 时常表示感情上的深度，“深深地”。如：
+
+He pushed the sword deep into the stone. 他把剑深深插进石头里。
+
+## \* direct 与 directly
+
+direct 表示时间、路程和方式等概念; directly 多用于借喻, 有时还可用来表示“立即、马上”的意思。如:
+
+The plane goes direct from London to Beijing without stopping. 飞机由伦敦直飞北京，中途不停。
+
+I must set off to Zhengzhou directly. 我必须马上出发去郑州。Even father was deeply moved by the film. 老爸也被电影深深打动了。
+
+## \* free 与 freely
+
+free 的意思是 “免费”; freely 的意思是 “无限制地”。如:
+
+You can eat free in my restaurant whenever you like. 无论什么时候,我这饭店都免费对你开放。
+
+George was spending very freely. 乔治花钱大手大脚。
+
+\* high 与 highly
+
+high 表示空间高度; highly 表示程度, 相当于 much。如:
+
+The plane was flying high. 这架飞机飞得很高。
+
+I think highly of your opinion. 我对你的看法评价很高。关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料late 意思是“晚”; lately 意思是“最近”。如:
+
+You have come too late. 你来得太晚了。
+
+What have you been doing lately? 最近你在忙些什么？
+
+\* wide 与 widely
+
+wide 表示空间宽度; widely 意思是“广泛地”。如:
+
+He opened the door wide. 他把门开得大大的。
+
+English is widely used in the world. 英语在世界范围内广泛使用。
+
+\* dead 与 deadly
+
+dead 意思是“突然地,完全地”, deadly 意思是“死一般地,非常”。如:
+
+She stopped dead. 她突然停下了。
+
+This problem is deadly serious. 这个问题极端严重。
+
+\* easy 与 easily
+
+easy 只能用在某些固定搭配中作副词,除此之外用 easily。如:
+
+Easy come, easy go. 来得容易花得快。/Stand easy! 稍息！/Take it easy. 别急，慢慢来。
+
+## 3. 形容词和副词的等级
+
+大多数形容词和副词有三个等级:原级,即原形,如:small(小的);比较级,表示“更…一些”或“比较…”的意思,如:smaller(更小,比较小);最高级,表示“最”的意思,如:smallest(最小)。
+
+关注公众号[菜谱主播库卡丘]获取PETS真题及私藏备忘资料
+
+<table><tr><td></td><td>规则</td><td>原级</td><td>比较级</td><td>最高级</td></tr><tr><td rowspan="4">单音节词和部分双音节词</td><td>一般在词尾加-r或-st</td><td>talllong</td><td>tallerlonger</td><td>tallestlongest</td></tr><tr><td>以字母e结尾的加-r或-st</td><td>largelate</td><td>largerlater</td><td>largestlatest</td></tr><tr><td>以重读闭音节结尾,且末尾只有一个辅音字母,要先双写这一字母,再加-er或-est</td><td>fatbigthin</td><td>fatterbiggerthinner</td><td>fattestbiggestthinner</td></tr><tr><td>以“辅音字母+y”结尾的将y改为i,再加-er或-est</td><td>happyheavy</td><td>happierheavier</td><td>happiestheaviest</td></tr><tr><td>双音节词和多音节词</td><td>在形容词、副词前加more或most</td><td>deliciousimportantexpensiveinterestingdangerous</td><td>more deliciousmore importantmore expensivemore interestingmore dangerous</td><td>most deliciousmost importantmost expensivemost interestingmost dangerous</td></tr></table>
+
+(2) 形容词和副词的比较级和最高级的不规则变化表
+
+<table><tr><td>原型</td><td>good/well</td><td>many/much</td><td>bad/ill</td><td>little</td><td>far</td></tr><tr><td>比较级</td><td>better</td><td>more</td><td>worse</td><td>less</td><td>farther/further</td></tr><tr><td>最高级</td><td>best</td><td>most</td><td>worst</td><td>least</td><td>farthest/furthest</td></tr></table>
+
+## (3) 形容词和副词的原级比较
+
+表示两者在某一方面程度相同,用 “as + 形容词(副词)原形 + as” 的句型。表示 A 在某一方面不及 B 时,用 “not as (so) + 形容词(副词)原形 + as” 的句型。如:
+
+Henry is a worker as good as Peter(is). 亨利和彼得一样关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料都是好工人。
+
+# 终身学习社群
+
+创业 | 职场 | 投资 | 学习 | 资源
+
+早读：新闻早报
+
+晚读：每天听一本书（约30分钟）
+
+经济学人、财新周刊等国内外优质报刊
+
+最新顶级策划方案、行业报告
+
+最新影视、软件、趣站
+
+最新电子书、音频书、读书笔记
+
+追剧.资料.学习.课程.教程
+
+![](images/dd7d43ce094f3c3f2117d506aef65b7e6f797a3601e5fb6bf0ea8da35c1edcb0.jpg)  
+获取更多资源 截图扫码进群
+
+He didn't come as (so) early as Wang Lin. 他不如王林来得早。
+
+## (4)形容词和副词的比较级
+
+\*用来比较两个人或两个物。一般用“... 比较级 + than...”和“... 比较级（特殊疑问句），... or...”句型。如：
+
+Which is bigger, the sun or the moon? 太阳大还是月亮大?
+
+The sun is much bigger than the moon. 太阳比月亮大多了。
+
+\*在形容词、副词的比较级前,可以用 much, a little, still, even, far, a bit, a lot 等来修饰。如:
+
+Lisa was sick yesterday; today she is much better. 莉萨昨天病了,今天她好多了。
+
+\* 比较级与否定词连用时表最高级含义。如：
+
+I can't agree more. 我非常同意。
+
+## (5)形容词和副词的最高级
+
+最高级用于三者或三者以上的人或事物之间的比较，表示在众多人或事物中，其中一个“最…”。一般都带有一个由 of 或 in 构成的表示范围的介词短语。如：
+
+My ruler is the longest of all. 我的尺子是最长的。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第五章 介词和介词短语
+
+## (一)介词的分类
+
+介词按照其结构可分为简单介词、分词介词和成语介词。介词按其词义还可分为时间介词、地点介词和其他介词。
+
+## 1. 时间介词
+
+表示时间的介词有: about, after, around, as, at, before, behind, between, by, during, for, from, in, into, of, on, over, past, since, through, throughout, till (until), to, towards, within 等。
+
+## 2. 地点介词
+
+表示地点(或动向)的介词有: above, across, after, a-long, among, around, at, before, behind, below, beneath, beside, between, beyond, by, down, from, in, into, near, off, on, over, through, throughout, to, towards, under, up, upon, with, within, without 等。
+
+## (二)介词的搭配
+
+## 1. 介词与形容词搭配
+
+有些形容词要求与一定的介词搭配使用。有些形容词后面跟不同的介词，表示的意义也不同；有些形容词后面跟不同的介词，形容词的意义也不改变。如：
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+
+羞愧了。
+
+The cat is alive with(充满)lice. 那只猫身上都是虱子。
+
+Joe was very disappointed at not finding her at home. Joe 发现她没在家他很失望。
+
+His parents will be disappointed with him if he fails the exam. 如果考试失败,他父母会对他失望的。
+
+## 2. 介词与动词的搭配
+
+介词与动词的搭配通常有四种情况,也就构成了动词短语。
+
+## (1) 动词 + 介词
+
+You can appeal to a higher court and appeal for a fresh trial. 你可以向上一级法院申诉并要求二次审判。
+
+## (2) 动词 + 宾语 + 介词
+
+They took me into their confidence. 他们信任我。
+
+(3) 动词 + 副词 + 介词
+
+Their company came up against fresh problems. 他们的公司遇到了新问题。
+
+## (4) 动词 + 宾语 + 副词 + 介词
+
+You shouldn't take your anger out on me. 你不能把怒气撒到我身上。
+
+## 3. 介词与名词的搭配
+
+介词与名词的搭配有以下两种情况：
+
+(1)介词用在某些名词之后。如：关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 There seems to be a solution to this problem! 好像有解决
+
+这个问题的方法了。
+
+## (2)介词用在某些名词之前。如：
+
+To my delight, he passed the entrance examination. 令我高兴的是，他通过了入学考试。
+
+## (三)介词短语
+
+介词和其他代词或名词搭配形成介词短语。介词短语是由“介词 + 宾语”或“短语介词 + 宾语”构成的短语，在词性上相当于形容词或副词，在句中可以独立担当成分。如：in the bag, near the door, in front of the house 等。短语介词相当于一个介词的词组，它不能单独作句子成分。如：in front of, at the back of, next to, on behalf of, according to 等。
+
+## 第六章 动词和动词短语
+
+## （一）动词的分类
+
+根据意义和句法作用,英语动词可分为四类。
+
+1. 实义动词(Notional Verb)
+
+(1) 按性质分, 实义动词又分成及物动词和不及物动词, 表示动作或状态, 在句中独立作谓语。及物动词后须跟宾语; 不及物动词后不跟宾语。
+
+【注意】①英语里及物动词和不及物动词不是截然分开的，有的动词既可以是及物动词也可以是不及物动词。如：
+
+Can you write your composition when your can write? (第一个write是及物动词,后面有宾语your composition;第二个write是不及物动词。)你会写作文吗?
+
+②不及物动词向及物动词转化需要借助介词、副词等构成短语动词。如：
+
+He is working hard at English. 他学习英语很努力。
+
+(2)按时限分,实义动词又分成延续性动词和非延续性动词(短暂性动词)。
+
+延续性动词动作可以延续，可以与一段时间连用。如：wait, walk, read, drink, live, study, work, stay, keep, sleep 等。非延续性动词(短暂性动词)动作瞬间完成，不能与一并注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料段时的连用。如：step, shot, enter, reach, love, finish, come,
+
+open, bring, buy 等。
+
+## 2. 连系动词(Linking Verb)
+
+连系动词可以细分为以下几类：
+
+(1) 表示“是”的 be 动词, 根据主语有各种形式。
+
+(2) 表示“感觉”的连系动词。如: look, feel, smell, taste, sound 等。
+
+(3) 表示“变得、变成”的连系动词。如 become, turn, get, grow, go, fall, come 等。
+
+(4) 表示“结果”的连系动词。如 turn out, prove 等。
+
+(5) 表示“仍然”的连系动词。如 remain, stay, keep 等。
+
+(6) 表示“似乎、好像”的连系动词。如 seem, appear, look 等。
+
+【注意】绝大多数连系动词又可以作实义动词，在解题时要正确区分，以免出错。
+
+## 3. 助动词(Auxiliary Verb)
+
+本身无词义,不能独立作谓语。用来表示否定、疑问、时态等语法形式。助动词(与动词原形或分词构成复合谓语),常见的有:be(am,is,are,was,were),do(does,did),have(has/had),will,would,shall,should等。
+
+## 4. 情态动词 (Modal Verb)
+
+本身有一定意义，只能和实义动词一起构成谓语。通常没有人称和数的变化，用来表示说话人的语气和情态。常见的有 can（could），may（might），must，shall（should），关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+【注意】以上四类动词都有交叉的地方。如 do, have 既可以作实义动词又可以作助动词；be 既可以作连系动词又可以作助动词；dare, need 既可以作实义动词又可以作情态动词。
+
+## (二) 动词的特殊用法
+
+## 1. 接不定式(不接动名词)作宾语
+
+如 afford(买得起;有能力做), agree(同意)等。
+
+2. 接动名词(不接不定式)作宾语
+
+如 admit(承认), advise(建议), allow(允许)等。
+
+## 3. 接不定式作宾补
+
+如 advise(建议), allow(允许), ask(要求), beg(请求)等。
+
+4. 接不定式或动名词作宾语意思相同
+
+如 like(喜欢), love(喜爱), hate(讨厌)等。
+
+5. 用于“动词 + sb. + of sth.”
+
+如 accuse(控告), cheat(欺骗), cure(治愈)等。
+
+6. 用于“动词 + sb. + for doing sth.”
+
+如 blame(指责), criticise(批评), forgive(原谅)等。
+
+## (三) 动词短语
+
+## 1. 掌握动词短语的不同特点和运用规律
+
+(1) 动词 + 副词 (不及物)
+
+Don't stand aside and let others do all the work. 不要袖手旁观,工作都让别人去做。
+
+(2) 动词 + 副词 (及物)
+
+关注公众号[英语主播皮卡丘]获取BETS真题及私械备考资料She still stands by every word she said.她依然备考她说
+
+过的每一句话。
+
+## (3) 动词 + 介词 (及物)
+
+I'm looking for my glasses. 我在找我的眼镜。
+
+## (4) 动词 + 副词 + 介词
+
+I look forward to seeing you soon. 我盼望不久就见到你。
+
+2. 掌握同一动词和不同介词或副词、不同的动词和同一介词或同一副词搭配在意义上的差异
+
+(1) 同一动词和不同介词搭配时, 意义上的差异。如: hear from 收到…的来信, hear of 听说。
+
+(2) 同一动词和不同副词搭配时, 意义上的差异。如: ring back 回电话, ring off 挂断电话, ring up 打电话。
+
+(3) 不同动词和同一介词搭配时, 在意义上的差异。如: look for 寻找, call for 需要, 去接(某人), ask for 请求, wait for 等候, send for 派人去叫。
+
+(4) 不同动词和同一副词搭配时, 在意义上的差异。如: break out 爆发, carry out 进行, 开展, go out 熄灭, hand out 分发, let out 放出, look out 当心, sell out 卖完, set out 出发, take out 取出, work out 算出。
+
+## 3. 常见的动词短语
+
+## (1) break
+
+break away from 脱离 break down 坏掉, 出故障; 垮掉
+
+break into 闯入,破门而入 break out (战争)爆发
+
+break in 破门而入 break off 打断,中断
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料；break through突破；呼吸break up打碎；（物理）分解；
+
+结束
+
+(2) bring
+bring about 引起;造成 bring down 使倒下;使下降
+bring forward 提出;提前( = put forward) bring into operation 实施;使生效
+bring out 显示出来;出版;生产 bring up 提出;教育;培养;吐出
+bring back 把…送回;使想起 bring in 引进;挣得
+(3) call
+call for 需要 call on (sb.) 访问(某人)
+call in 召集;召来 call up 号召;给…打电话
+call off 取消 call at (sp.) 拜访(某地)
+(4) carry
+carry on 继续 carry out 执行;实施
+carry off 赢得,好对付 carry back 使回忆,使想起
+(5) come
+come about 发生 come across 偶遇
+come to 共计,达到,苏醒 come true 变为现实
+come up 走上前,被提出 come up with 提出
+come into being 形成 come on 加油;赶快
+(6) cut
+cut across 抄近道穿过 cut back 削减
+cut down 削减;减少 cut in 插嘴;打断
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 (7) die
+die away 渐弱 die down 熄灭;平静下来
+die of 因…(病)死亡 die from 因…(外部原因)死亡
+die out 灭绝;绝种
+(8) get
+get about 四处走动;传开 get across 把…讲清
+get away 逃脱;移走 get down 下来;记下
+get in 收割;达到 get off 下车
+get through 接通;通过 get down to 开始认真干
+get over 克服 get along/on with 进展;相处
+(9) give
+give up 放弃 give in 屈服
+give out 用尽;分发 give away 泄露;赠送;颁发
+give off 发出 give back 归还
+(10) go
+go against 违背;对…不利 go ahead 开始,进展,进行
+go after/for 追逐,追求 go without 勉强维持;凑合
+go in for 爱好,参加 go through 通过;经受
+go over 复习;仔细检查 go by 过去,经过
+(11) hold
+hold back 隐瞒;控制(情感) hold out 维持;伸出
+hold up 使…耽搁 hold on 坚持;别挂(电话)
+hold together 团结一致 hold on to 保留,抓住不放
+注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+keep away(from)远离 keep back 扣除;抑制
+keep off 避开;不接近 keep on 继续
+keep out 把…挡在外边;(警示语)请勿靠近
+keep up 保持,使不低落;持续,继续
+keep up with 跟上
+(13) look
+look after 照顾 look out 警惕;当心
+look back 回头看;回顾 look down on/upon 轻视;看
+不起
+look for 寻找;寻求 look forward to 盼望;期待
+look in 来访,参观 look into 调查,深入了解
+look on 观看;旁观 look over 翻阅;检查
+look through 浏览;详细调查 look up 查阅;仰视
+(14) make
+make up for 补偿,弥补 make out 辨认出
+make fun of 取笑 make up one's mind 下定决心
+make sense 有道理(意义),讲得通
+make good/full use of...充分利用…
+make up 编造;组成;构成;化妆;和解
+(15) put
+put aside 把…放在一边 put away 把…收好
+put down 扑灭,平息 put forward 提出
+put off 延期;推诿 put out 扑灭;生产
+关注公众号[英语主播皮卡近]获取 PETS 真题及私域备考资料 put up 挂起,张贴;搭起;为某人提供食宿
+
+(16) set
+
+set about (doing) 开始, 着手 set apart 使分离; 使显得突
+
+set aside 留出; 放在一边 set down 记下, 写下
+
+set off 动身;引起;使爆炸 set out 动身
+
+set out to do 着手做 set up 建立;创立
+
+(17) take
+
+take after 与…相似 take apart 拆卸(机器)
+
+take away 拿走;使离开 take down 记下来;拆掉
+
+take...for(错)把…当作 take in 吸收;接受;领会;
+
+## 欺骗
+
+take off 起飞;匆匆离去;脱下 take on 呈现;雇用;承担
+
+take one's time 不要着急 take over 接收,接管
+
+take to 喜欢;养成…的习惯
+
+take up 占据(时间、空间); 开始从事
+
+(18) turn
+
+turn down 拒绝;调低 turn in 上交
+
+turn out 结果是,证明是 turn over 翻转;细想
+
+turn up 出现;调高 turn off 关掉
+
+turn on 打开 turn...away 赶走
+
+turn to 求助于;翻到
+
+4. 近义词辨析
+
+关注公众号[薇语主播 廊卡丘]获取 PETS 真题及私域备考资料
+
+<table><tr><td>中文</td><td>原形</td><td>过去式</td><td>过去分词</td><td>现在分词</td><td>说明</td></tr><tr><td>放</td><td>lay</td><td>laid</td><td>laid</td><td>laying</td><td>及物动词</td></tr><tr><td>躺</td><td>lie</td><td>lay</td><td>lain</td><td>lying</td><td>不及物动词</td></tr><tr><td>说谎</td><td>lie</td><td>lied</td><td>lied</td><td>lying</td><td>不及物动词</td></tr></table>
+
+## (2) rise 与 raise
+
+rise 是不及物动词, 其过去式是 rose, 过去分词是 ris-en, 而 raise 是及物动词, 是规则动词。
+
+## (3) hear 与 listen to
+
+hear 侧重点是听到、听见什么, 而 listen to 是侧重于听的倾向; hear 用于无意中听见, 而 listen to 却用于集中注意力听。
+
+## (4) see, watch 与 look
+
+see 用作看电影、剧目；watch 则用作看电视比赛，还有在旁观看，监视之意；look 一般用作不及物动词。如：
+
+The little boy looked at me. 小男孩看着我。
+
+## (5) wind 与 wound
+
+wind 意为蜿蜒而行,其过去式与过去分词都是 wound,而动词原形 wound 意为伤害,其过去式、过去分词都是 wounded。
+
+## (6) sit 与 seat
+
+seat 为及物动词,作容纳讲,sit 只是表示一个动作,作不及物动词。seat 如果表示就座要用 be seated。如:
+
+The old man often sat by the fire on winter evenings. 冬天关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料的晚上,那个老人常坐在大炉旁。
+
+Please seat yourself/Please be seated. 请就座。
+
+## (7) borrow, lend 与 keep
+
+借入用 borrow, 借出用 lend, 但这两个词都是终止性动词或瞬间动词, 不能用于长时间的动作, 所以表示借多久应用 keep。
+
+## (8) win 与 beat
+
+win 作胜、赢讲时其后应接 a game, an argument, a battle, a prize, a contest, a race, a bet 等, 但不能接人。而 beat 是及物动词, 意为击败、胜过, 直接接人、队伍等。
+
+## (9)fit,suit与match
+
+fit 与 suit 均可作适合讲,却用在不同的地方。如 fit 用于尺寸大小的合适,而 suit 则多用于颜色、式样的合适, match 是说与…相配,般配。如:
+
+This coat doesn't fit me; it is too small. 这件大衣不合我的身，太小了。
+
+The doors were painted blue to match the walls. 门漆成了蓝色，以便与墙的颜色相配。
+
+## (10) take, bring 与 fetch
+
+英文中“拿”三个词，即拿来，拿去，去取然后回来（即双程）。所以拿来、带来是 bring，拿去、带走是 take，而去取回来是 fetch。
+
+## (11) answer 与 reply
+
+作为回答讲 answer 是及物动词, 如作不及物动词, 则意义不同, 如 answer for, 意为向某人或向某事负责。而 reply 作回答讲不是发物动词, 后跟宾语时, 要加上 it。
+
+(12) reach, arrive 与 get
+
+作“到达”讲时 reach 是及物动词, arrive 为不及物动词, 后接 at/in, get 也是不及物动词, 后接介词 to。
+
+(13) cost, spend 与 take
+
+英文中的“花费”有三个词: cost, spend, take, 但它们各有不同的用法。cost 作 “花费” 讲, 主语只能是物; spend 的主语只能是人; 而 take 作花费讲时, 可用人也可用物作主语, 更常用的是用形式主语 it。如:
+
+The new computer costs him around \$ 1,000. 这台新电脑花费了他大约 1000 美元。
+
+Every day he spent an hour(in) talking to the boy. 他每天花1个小时跟这个男孩谈话。
+
+It takes 1 year to finish the project. 完成工程用了一年。
+
+(14) have on, wear, put on 与 dress
+
+作穿(衣服)讲的动词分为状态和动作两种。have on 与 wear 强调穿着状态；但 have on 不用进行时态，而 wear 则可用进行时态。put on 是动作；dress 既可用作状态，又可用作穿衣动作，但用作状态时要用其过去分词，作动作讲时，其后直接接反身代词或表示人的名词。如：
+
+She dressed the baby. 她给婴儿穿衣服。
+
+Put on your coat when you go out. 出去时穿上外套。
+
+She was wearing her mother's coat. 她穿着她母亲的大衣。
+
+(15) begin 与 start
+
+关注公众号[英语主播皮书]获取,并无多题及秘境备查资料接不定式或动名词,但在下面的场合多要用 start:(1) 机器的开动、发动;(2) 旅途的开始。
+
+## (16) allow 与 permit
+
+allow 作“允许”解, 暗含“听任, 不阻拦”的意思; permit 作“允许”讲时语气较强。allow 与 permit 后接动词时要用动名词。
+
+## (17) find 与 found
+
+find(找到)的过去式和过去分词都是 found, 而 found 是动词“建立”的原形, 其过去式和过去分词是 founded, founded, 如: The People's Republic of China was founded in 1949. (中华人民共和国成立于 1949 年。)
+
+## (18) speak, say, talk 与 tell
+
+英文中的“讲”有4个词，speak, say, talk, tell，其中speak, talk多用作不及物动词，但speak后加语言名词时则用作及物动词，如：Please speak English. 而say与tell是及物动词，其中tell常接双宾语，如：Don't tell me what to do. （别号令我。）但也有些特定的习惯用法，如：讲实话，讲谎言，表示时间的英文表达是tell+单宾语，如：My watch was broken. It couldn't tell time correctly. （我的表坏了，时间不准。）在书信、便条、海报上写着…的英文应为It says...；在作辨别不同讲时用tell，而讲别人好话时用speak up (for sb./sth.)。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第七章 情态动词和虚拟语气
+
+## (一)情态动词的基本用法
+
+1. shall, should 和 ought to
+
+## (1) shall
+
+用在第一、第三人称的疑问句中，表示征求对方的意见或指示。shall还用于第二、第三人称陈述句中，表示命令、许诺、威胁、决心、法律条文上的许可或要求等。
+
+## (2) should
+
+①(表义务、责任)应该，(表示预测可能性)可能，(按道理说)应该。
+
+②竟然,居然(表示可能)万一,一旦。
+
+## (3) ought to
+
+表示责任和义务,表示劝告或建议,或者表示可能发生的或真实的事情,意为“应该”,语气比 should 强;还可表推测。
+
+## 2. can 和 could
+
+(1) 表示有能力做或者能够发生, 意为“能, 能够”; 或者表示猜测, 意为“可能”, 用于疑问句或者否定句。此时 could 是 can 的过去式。
+
+(2)(询问是否可做某事)能,可以。此时 could 不是过去式,而是表示更委婉的语气,回答时只能用 can。
+
+(3) 表示某地或某人一时的特点, 意为“可能会”; 或者关注公众号[英语主播皮卡]获取 PETS 真题及私域备考资料。
+
+## 3. will 和 would
+
+(1) 表示意愿或决心 (would 用于过去的情况)。
+
+(2) 表示请求, will 和 would 都可以; 但 would 有时用来表示强烈的愿望。
+
+(3) 表示一种经常性、习惯性的动作。would 可表示过去反复发生的动作或某种倾向，后面接表示动作的动词，不能接表示状态的词；used to 表示过去的习惯动作或状态，强调现在已不存在。
+
+## 4. may 和 might
+
+(1) 表示允许、请求。“Might I...?”比“May I...?”语气更为委婉和有礼貌。对于“Might I...?”的回答用“...may”;“May I...?”的否定回答常用“...mustn’t/can’t”。
+
+(2) 表示把握不大的推测, 意为“可能”。用于肯定句。might 语气更加不肯定, 指现在或将来。
+
+## 5. must 和 have to
+
+(1) must 表示“必须”。强调主观看法, 没有时态和人称的变化, 否定式是 must not/mustn't, 表示“禁止、不准”。而 have to 的否定式表示没有必要做某事。
+
+(2) must 表示有把握的推测, 意为“一定, 肯定”, 用于肯定句中; 否定式是 can't, 译为“不可能”。
+
+(3) must 还表示主语主观的坚持,有“偏偏,偏要,一定要”之意。
+
+(4) have to 表示“必须,不得不”,着重强调客观需要,关注公众号[英语主播皮卡后]获取PETS 真题及私域备考资料
+
+## 6. need 和 dare
+
+(1) need 作情态动词时, 后跟动词原形, 表示“需要, 有必要”, dare 作情态动词表示“敢于”两者都无时态、人称和数的变化, 多用于否定句、疑问句或条件句中。
+
+(2) 由 need 引出的一般疑问句的肯定回答常用 must 或 have to, 而否定回答则常用 needn't 或 don't have to。
+
+(3) need 还可作实义动词,此时有人称、时态和数的变化,构成 need to do sth. (需要做某事) 和 need doing/to be done(需要被…)。dare 也可以用作行为动词,其变化与一般动词相同。
+
+(4)惯用短语“I dare say”意为“我敢说、我想、或许”。
+
+## (二)情态动词 + have done 的用法
+
+1. can have done/could have done
+
+一般用于疑问句和否定句中,用于表示对过去所发生事情的推测。could have done 还可用于肯定句,表示“可能已经做过某事”或“本可以做某事而未做”。
+
+## 2. must have done
+
+表示对过去发生的行为肯定的推测,意为“过去一定做了某事”。其否定式为:can't have done。
+
+## 3. should have done/ ought to have done
+
+表示“过去本应该做某事(而实际上没有做)”，含有责备或遗憾的语气；其否定形式表示某种行为不该发生却发生了。
+
+4. may have done/might have done
+关注公众号[英语主播皮卡丘]获取PETS，真题及私域备考资料
+意为可能已经做了，表示对过去情况的推测，might表示可能性更小; might have done 还意为“本可能做某事而实际上没做”, 表示对过去某一未实现的动作的责备或惋惜之情。
+
+## 5. needn't have done
+
+表示“本不必做某事(而实际上做了)”。一般不用need have done的形式。
+
+## (三) 虚拟语气
+
+## 1. “if” 虚拟条件句
+
+## (1) 主从句谓语动词的构成
+
+<table><tr><td>情况</td><td>从句谓语动词的构成</td><td>主句谓语动词的构成</td></tr><tr><td>与现在事实相反</td><td>过去式(be 用 were)</td><td>should/would/could/might+ 动词原形</td></tr><tr><td>与过去事实相反</td><td>had + 过去分词</td><td>should/would/could/might + have+ 过去分词</td></tr><tr><td>与将来事实相反</td><td>过去式should + 动词原形were + 不定式</td><td>should/would/could/might+ 动词原形</td></tr></table>
+
+## (2) 省略“if”的虚拟条件句
+
+若条件从句中有 were, had, should, 可省略 if, 若条件从句的谓语动词为否定式, 只能将否定词 not 置于主语之后, 把 were, had, should 放在主语前, 形成倒装结构。
+
+## (3) 混合虚拟条件句
+
+在该条件句中,从句和主句动作发生的时间不一致,因此,主句和从句的谓语动词应根据各自所指的不同时间选用不同的时态形式(即不同时间的虚拟),遵守相应的规则。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 2. 含蓄虚拟条件句
+
+即不用“if”而用其他形式给出虚拟条件。
+
+(1) 用“but for + 名词”或“without + 名词”表示虚拟条件, 表示“要不是”“若不是”。
+
+(2) 用动词不定式、现在分词或过去分词表示虚拟条件。
+
+(3)用“副词 otherwise”表示虚拟条件。
+
+(4)用“连词 but 连接的句子”表示隐含的虚拟条件。
+
+## 3. 虚拟语气用于从句
+
+(1) It is suggested/advised/ordered/requested/required + that + 主语(+ should) + 动词原形 + 其他, 构成主语从句。
+
+(2) It is + 形容词 (necessary, important, natural, strange, essential, urgent, desirable, advisable 等) + that + 主语 (+ should) + 动词原形 + 其他, 构成主语从句。
+
+(3) suggest, order, propose, request, require, demand, advise, insist + that + 主语 (+ should) + 动词原形 + 其他, 构成宾语从句。
+
+## (4) wish + that 从句 (did/were, 表示与现在相反的愿望)
+
+wish + that 从句 (would/could/might + do, 表示与将来相反的愿望)
+
+wish + that 从句(had done, 表示与过去相反的愿望)
+
+(5) advice/suggestion/request/requirement/order/proposal 等 + is + that + 主语 (+ should) + 动词原形 + 其他, 构成表语从句。
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+
+语从句 + is + that + 主语( + should) + 动词原形 + 其他。
+
+(7) It is (high) time + that 从句 (did 或 should do)。
+
+(8) would rather + 从句与 as if/though + 从句 (did 与现在或将来相反; had done 与过去相反)。
+
+(9) If only + 从句（did/were 与现在相反；would/could/might + do 与将来相反；had done 与过去相反）“要是…就好了”，通常独立使用，没有主句。
+
+## 第八章 动词的时态和语态
+
+## (一) 动词的时态
+
+1. 一般现在时(do/does)
+
+(1) 主要用来表示人、事物的现在状况和特点；表示经常或习惯性的动作，句子中常有 often, always, usually, sometimes 等时间状语；表示客观规律和永恒真理等。
+
+(2) 在时间状语从句和条件状语从句中, 用一般现在时表示将来。
+
+(3) 表示状态和感觉的动词 (be, like, hate, think, remember, find, sound 等) 常用一般现在时。
+
+2. 一般过去时(did)
+
+(1) 表示在过去某一时间所发生的动作或存在的状态。常与确定的过去时间连用（如: yesterday, last month, just now, three days ago, in 1949 等）。或表示在过去一段时间内，经常性或习惯性的动作。
+
+(2)一般过去时态用于 if 引导的虚拟条件从句或 It's time... , I wish... , I would rather... , if only... , as though/if... 结构中表现在或将来。
+
+## 3. 一般将来时
+
+一般将来时表示将来的动作或状态。其表达形式有：
+
+(1) “will/shall + 动词原形”表示将来发生的行为或存在的状态，常写[英语将填成时间]获取连用(如：onor, next...，from now on, in the future, in + 一段时间等); 表示倾向性的动作。
+
+(2) “be going to + 动词原形” 表示即将发生的或最近打算进行的事；“be to + 动词原形” 表示按计划进行某事或征求对方意见；“be about to + 动词原形” 表示即将发生的动作，后面一般不跟时间状语。
+
+(3) go, come, start, move, sail, leave, arrive, stay 等可用进行时态表示按计划即将发生的动作。
+
+(4) 某些动词(如 come, go, leave, arrive, start, get, stay 等)的一般现在时也可表示将来, 表示按时刻表将要发生的动作。
+
+4. 现在完成时(have/has done)
+
+现在完成时用来表示之前已发生或完成的动作或状态,其影响现在还存在;也可表示持续到现在的动作或状态。其构成:have(has) + 过去分词。
+
+现在完成时的使用标志：
+
+(1) for + 时间段; since + 时间点。
+
+(2) 常见的不确定的时间状语有 lately, recently, just, already, yet, up to now, till now, so far, these days 等。还有表示“最近几世纪/年/月以来…”的时间状语，谓语动词都用现在完成时。如: in the past few years/months/weeks/days; over the past few years; during the last three months; for the last few centuries; through centuries; throughout history 等。
+
+(3) 表示“第几次做某事”的“It/This/That is the first/second…time that…”和“It is the best (worst, most interesting)”中名词“That…”可选中的that从商用现在完成时。
+
+## 5. 过去完成时(had done)
+
+(1) 表示在过去某一时刻或某一动作之前已经完成的动作,或者从过去某一时刻开始,一直持续到过去另一时刻的动作或状态,时间定位是“过去的过去”。句中一般有明确的表示“过去的过去”的时间状语(从句),常与 by,by the end of,by the time,until,when,before 等接表示过去某一时间的短语或从句连用。但有时需要通过上下文来判断。
+
+(2)在过去不同时间发生的两个动作中,发生在先,用过去完成时;发生在后,用一般过去时。
+
+(3) 表示意向的动词, 如 hope, wish, expect, think, intend, mean, suppose 等, 用过去完成时表示“原本…, 却未能…”。
+
+(4) 过去完成时常常用在宾语从句(或间接引语)中,这时从句谓语动作发生在主句谓语动作(过去时)之前。
+
+## (5) 使用过去完成时的特殊句型
+
+①had hardly...when; had no sooner...than 刚…就…。
+
+②It/This/That was the first/second/...time that sb. had done sth. 这/那是某人第几次做某事。
+
+## 6. 将来完成时(will have done)
+
+将来完成时用来表示在将来某一时间以前已经完成或一直持续的动作,经常与 before + 将来时间或 by + 将来时间连用,也可与 before 或 by the time 引导的现在时的从句连用。
+
+## 7. 现在进行时(am/is/are doing)
+
+表示说话时正在发生着的一个动作；表示现阶段发生着的动作，但不是定生在讲话时，要从近期将定制安排或计划; go, come 等起止动词可用进行时代替将来时。现在进行时与 always, constantly, forever 等副词连用时表达某种感情色彩, 此感情色彩可褒可贬。
+
+## 8. 过去进行时(was doing)
+
+(1) 表示过去某一时刻或某一时间内正在进行的动作。过去进行时的主要用法是描述一件事发生的背景；一个长动作延续的时候，另一个短动作发生。常用的时间状语有 the whole morning, all day yesterday, from nine to ten last evening, when + 一般过去时, while + 过去进行时等。
+
+(2) 过去进行时表示婉转语气, 只限于 want, hope, wonder 等动词, 用以提出请求。这种用法并不表示过去的时间, 而是表示客气地询问, 尤其是请别人帮助时。
+
+## 9. 将来进行时(will be doing)
+
+表示将来某一时刻或某段时间内正在进行的动作或存在的状态，常与特定的表示将来的时间状语连用。还可代替一般将来时，表示按计划、安排即将发生的动作或表示某动作将会继续且未完成。
+
+## 10. 现在完成进行时(have/has been doing)
+
+(1) 表示从过去某一时刻开始的动作一直延续到现在, 现在可能刚刚结束, 也可能仍要继续。
+
+(2) 表示到目前为止的一段时间内动作时断时续、反复发生。
+
+11. 过去完成进行时(had been doing)
+关注公众号[英语主播皮卡]获取PETS真题及私域备考资料
+(4)过去完成进行时表系动作在过去集-时间之前开始并延续到过去这一时间。这一动作可能已经停止也可能还在进行。
+
+(2) 表示反复的动作、企图、情绪、最近的情况。
+
+## 12. 将来完成进行时(will/shall have been doing)
+
+表示动作从某一时间开始一直延续到将来某一时间。是否继续下去，要视上下文而定。这个时态常和表示将来某一时间的状语连用。
+
+## (二) 动词的语态
+
+当句子的主语是动作的执行者时,谓语的形式叫主动语态。句子的主语是动作的承受者时,谓语的形式叫被动语态。被动语态由助动词 be + 过去分词构成,时态通过 be 表现出来。
+
+## 1. 使用被动语态时应注意的几个问题
+
+(1) 主动变被动时注意双宾语的使用。
+
+(2) 主动变被动时, 宾补成主补(位置不变); (作补语的) 不定式前需加 to。
+
+(3) 短语动词变被动语态时, 勿掉“尾巴”。
+
+(4) 情态动词和 be going to, be to, be sure to, used to, have to, had better 等结构变被动语态，只需将它们后面的动词原形变为 be + 过去分词。
+
+(5) It is said/reported/believed, etc. + 从句 = sb. + be said/reported/believed, etc. + 不定式, 表示据说/报道/信…。
+
+## 2. 不能用被动语态的几种情况
+
+(1) 所有的不及物动词或不及物动词词组不能用于被关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+(2) 表示状态或归属, 以及“希望, 意图”的动词, 如: last, hold, benefit, contain, equal, fit, join, mean, cost, look like, have, own, belong to, consist of, wish, want, love, hate 等不用被动语态。
+
+(3) 宾语是反身代词或相互代词时谓语动词用主动语态, 不能用被动语态。
+
+(4) 宾语是同源宾语、不定式、动名词等时, 动词不用被动语态。
+
+3. 主动形式表被动意义的情况
+
+(1) 当 feel, look, smell, taste, sound, prove 等某些连系动词后面接形容词时。
+
+(2)有些动词以其主动形式表示被动意义,特别是当主语是物时,某些表示主语内在“品质”或“性能”的动词,虽然可以是及物动词,但这时作不及物动词,如常见的动词有 sell, write, wash, draw, cut, burn, run, open, lock 等(此时,句中会有表示性质或动作特征的副词,如:well, badly, hard, difficultly 等)。
+
+(3) be to blame(受谴责), be to rent(出租)也用主动形式表示被动含义。
+
+(4) want, require, need 后面接的动名词用主动形式表示被动含义。
+
+(5) be worth doing 中动名词用主动形式表示被动含义。
+
+(6) 在“be + 形容词 + for sb. + to do”中, 不定式的逻辑宾语是句子的主语, 不定式用主动形式表示被动含义。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第九章 非谓语动词
+
+## (一) 不定式
+
+## 1. 不定式的时态和语态
+
+<table><tr><td>名称</td><td>语态</td><td>结构形式</td><td>时间概念及主被动关系</td><td>举例</td></tr><tr><td rowspan="2">一般时</td><td>主动</td><td>(not) to do</td><td>发生在谓语动作/状态之后或与之同时发生的主动动作</td><td>I promise to arrive on time.I help her learn English.</td></tr><tr><td>被动</td><td>(not) to be done</td><td>发生在谓语动作/状态之后或与之同时发生的被动动作</td><td>The teacher wanted the materials to be typed soon.</td></tr><tr><td>进行时</td><td>主动</td><td>(not) to be doing</td><td>与谓语动作/状态同时发生的动作</td><td>He happened to be working when the boss came in.</td></tr><tr><td rowspan="2">完成时</td><td>主动</td><td>(not) to have done</td><td>发生在谓语动作/状态之前的主动动作</td><td>I happened to have come across your brother. /They are said to have met each other at ten.</td></tr><tr><td>被动</td><td>(not) to have been done</td><td>发生在谓语动作/状态之前的被动动作</td><td>I&#x27;m glad to have been invited to visit your factory.He expects to have been told the truth yesterday.</td></tr><tr><td>完成进行时</td><td>主动</td><td>(not) to have been doing</td><td>在谓语动作/状态之前一直在进</td><td>It is a great pleasure have been working with not.</td></tr><tr><td colspan="5">关注公众号[英诺主播皮卡丘]获取 PETS 真题及私域备考资料</td></tr></table>
+
+## 2. 不定式的语法作用
+
+(1)作主语。不定式作主语时,为了使句子结构平衡,常将不定式放在句子之后,而用 it 作形式主语。若句子的主语和表语都是不定式,则不用 it 作形式主语。如:
+
+It is our duty to give as much help as possible. 提供尽可能多的帮助是我们的职责。
+
+It is their responsibility to enforce the rules. 执行制度是他们的职责。
+
+(2)作宾语。常见的只跟不定式作宾语的动词(词组)有 want, wish, hope, expect, would like (love), care, choose, learn, plan, prepare, agree, promise, offer, refuse, ask, beg, decide, make up one's mind, be determined, manage, try, can't afford, fail, pretend 等。如：
+
+We can't afford to ignore this warning. 我们对这个警告绝对不能等闲视之。
+
+Tom makes up his mind to lose weight. 汤姆下定决心减肥。
+
+【注意】有形容词、分词、名词作宾补时，作宾语的不定式要被放于句末，用 it 来作形式宾语。如：
+
+You may find it necessary to help these countries. 你会发现有必要帮助这些国家。
+
+(3)作宾语补足语。常见的跟不定式作宾补的动词有 ask, order, advise, like, want, teach, force, forbid, beg, allow, expect, cause, invite, tell, know, call on, depend on,
+
+# 终身学习社群
+
+创业 | 职场 | 投资 | 学习 | 资源
+
+早读：新闻早报
+
+晚读：每天听一本书（约30分钟）
+
+经济学人、财新周刊等国内外优质报刊
+
+最新顶级策划方案、行业报告
+
+最新影视、软件、趣站
+
+最新电子书、音频书、读书笔记
+
+追剧.资料.学习.课程.教程
+
+![](images/4ef493889fbd397f28b8588e5cbd41f0cb5e68c3de852f09c46dd21f8f3fb2cc.jpg)  
+获取更多资源 截图扫码进群
+
+wait for 等。如：
+
+The parents asked the doctors to struggle for their child. 那对父母请求医生们努力拯救孩子。
+
+【注意】感官动词，如 see, watch, look at, observe, notice, hear, listen to, feel 及部分表示“使”、“让”的使役动词，如 have, make, let, 跟不定式作宾补时要省略不定式符号 to。但在被动语态中 to 要加上。help 后的不定式作宾补（包括作宾语）时 to 可有可无。如：
+
+Though he had often made his sister cry, today he was made to cry by his sister. 尽管他总是弄哭他妹妹，今天却被妹妹弄哭了。
+
+(4)作表语。不定式作表语说明主语的性质或内容,如:
+
+My job is to help the patient. 我的工作是帮助病人。
+
+## (5)作定语
+
+①表示将来的动作。如：
+
+The meeting to be held next week will be of great importance. 下周将要举行的会议极为重要。
+
+②用在固定搭配中。如：
+
+I will go to Shanghai tomorrow. Have you anything to be sent to your son? 我明天要去上海，你有什么东西要带给你儿子吗？（send 的动作发出者并非 you，因此不定式用被动语态。）
+
+关注公众号[英语传播卡丘]获取PETS真题及私域备考资料词有逻辑上的动宾关系,同时动词又为不及物动词时,动词后要加介词或副词,使其成为及物动词词组。如:
+
+Will you find me a pen to write with? 你能给我找一支写字的钢笔吗？
+
+②不定式所修饰的词是 time, place, way 时, 不定式后面的介词习惯上可以省去。如:
+
+Do you think it is the best way to deal with such a problem? 你认为这是解决问题的最好方式吗？
+
+## (6)作状语
+
+①目的状语:为了强调不定式表示目的的作用,可在不定式前加 in order to 或 so as to(以便或为了),但应注意 in order to 位于句首或句中均可,而 so as to 不能位于句首。如:
+
+They ran over (in order) to welcome the guests. 他们跑过去欢迎客人。
+
+②结果状语。如：
+
+The child is too young to go to school. 孩子太小不能去上学。
+
+③原因状语。如：
+
+We were excited to hear the news. 听到这个消息我们太激动了。
+
+## 3. 不定式的复合结构
+
+(1)“for + 名词(或代词宾格) + 动词不定式”即构成关注公众号[英语主播]卡丘获取PETS 真题及私域备考资料。其中for本身无意义。for后面的名词或代词是不定式的逻辑主语。如：
+
+It is very vital for us to get everything ready for the harvest. 为丰收做好准备对我们来说很重要。
+
+(2) 当作表语用的形容词表示不定式的逻辑主语的性质或特征时, 就用介词 of 而不用 for 引出不定式的逻辑主语, 这些形容词一般有 good, nice, kind, wise, silly, stupid 等。如:
+
+It is very kind of you to teach him English for free. 你真热心,免费教他英语。
+
+## (二) 动名词
+
+## 1. 动名词的时态和语态
+
+<table><tr><td>名称</td><td>语态</td><td>结构形式</td><td>时间概念及主被动关系</td><td>举例</td></tr><tr><td rowspan="2">一般时</td><td>主动</td><td>(not) doing</td><td>与谓语动作/状态同时发生的主动动作或无明显的时间性(可表经常)</td><td>Mike is fond of playing football. Would you mind my opening the window?</td></tr><tr><td>被动</td><td>(not) being done</td><td>与谓语动作/状态同时发生的被动动作或无明显的时间性(可表经常)</td><td>He told his past without being asked. Being scolded isn’t a good thing.</td></tr><tr><td rowspan="2">完成时</td><td>主动</td><td>(not) having done</td><td>发生在谓语动作/状态之前的主动动作</td><td>They were praised for having finished the work ahead of time.</td></tr><tr><td>被动</td><td>(not) having been done</td><td>发生在谓语动作/状态之前的被动动作</td><td>I remembered having been taken to Beijing three times.</td></tr></table>
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 2. 动名词的语法作用
+
+## (1)作主语。
+
+动名词短语作主语时,为了使句子平衡,常将动名词短语放在谓语之后,而用 it 作形式主语。如:
+
+It is useless arguing with him about such a matter. 跟他争论这样的事情是没用的。
+
+【注意】动名词和不定式都可作主语，在许多情况下可以通用，但动名词作主语多表示一般的、抽象的或经常性的行为，不定式作主语往往表示具体的或一次性的动作。在 It is no use/good, not any use/good, useless 后人们习惯上用动名词。
+
+## (2)作宾语
+
+①下列动词(词组)只能接动名词作宾语: admit, advise, allow, appreciate, avoid, consider, delay, enjoy, escape, excuse, finish, imagine, mind, pardon, permit, practise, suggest, require, be (get) used to(习惯于), can't help(禁不住), feel like, set about, stick to, keep on, look forward to, devote oneself to, insist on, pay attention to, be worth, give up, put off。
+
+②下列动词后跟不定式或动名词时意义不同,在平时学习中应特别注意:forget,remember,regret,try,stop,mean,go on,can't help。
+
+a. remember/forget/regret to do sth. 表示“记起/忘记/关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+遗憾要去做某事”
+
+remember/forget/regret doing sth. 表示“记起/忘记/后悔曾经做过某事”
+
+如: I have forgotten to bring my umbrella.
+
+I shall never forget hearing her singing that song.
+
+b. go on to do sth. 表示“(做完一件事之后)接着做(另一件事)”
+
+go on doing sth. 表示“继续做某事(原来的事)”
+
+如: You ought not to go on living this way.
+
+Then he went on to show us how to use it.
+
+c. mean to do sth. 表示“打算做某事”
+
+mean doing sth. 表示“意味着做某事”
+
+如: What do you mean to do with it?
+
+Missing the train means waiting for an hour.
+
+d. stop to do sth. 表示“停下做某事”（指停下来去做另一件事）
+
+stop doing sth. 表示“停止做某事”（指停止做原来的事）
+
+如: They asked him to stop talking, but he still went on.
+
+He stopped to shake hands with us.
+
+e. try to do sth. 表示“试图做某事”(to do sth. 往往表示某种目的)
+
+try doing sth. 表示“试着做某事”(doing sth. 往往表示关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+某种方法或方式）
+
+如: He has been trying to get you on the phone. 他一直在设法打电话找你。
+
+Let's try knocking at the back door. 咱们敲敲后边的门试试。
+
+f. be used to do sth. 表示“被用来做某事”
+
+be used to doing sth. 表示“习惯于做某事”
+
+如: Wood is used to make paper.
+
+He is used to getting up early.
+
+g. can't help to do sth. 表示“不能帮助做某事”
+
+can't help doing sth. 表示“忍不住做某事”
+
+如: We can't help to answer this question.
+
+We can't help laughing.
+
+h. regret to do sth. 表示很遗憾地做,抱歉地做…(事情还没有做)
+
+regret dong sth. 表示很遗憾/后悔做了…(事情已经做了)
+
+如: I regret to tell you that you can't pass the examination.
+
+I regret disturbing you so long.
+
+③下列动词后跟动名词主动语态或不定式被动语态作宾语表示被动:need, want, require。如：
+
+These clothes need mending (to be mended).
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+(3)作表语。动名词作表语多表示抽象性的或习惯性的动作,当表示下一步打算时多用不定式作表语。
+
+(4)作定语。动名词作定语表示用途,而不是正在进行着的动作。
+
+## 3. 动名词的复合结构
+
+(1) 动名词的复合结构指在动名词前加物主代词或名词所有格。物主代词或名词所有格表明动名词动作的发出者。如：
+
+His coming late made the teacher angry. 他的迟到让老师生气。
+
+(2)动名词的复合结构在句中作宾语时,物主代词或名词所有格可以变为人称代词的宾格或名词的普通格,但复合结构作主语时不作任何变化。如:
+
+He entered the room without anyone noticing him. 他进入房间,没有人察觉到他。
+
+Li Ming's smoking (不可用 Li Ming smoking) in the classroom surprised us. 李明在教室里吸烟让我们很吃惊。
+
+## (三) 分词(过去分词和现在分词)
+
+## 1. 分词的时态和语态
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+<table><tr><td>名称</td><td>语态</td><td colspan="2">结构形式</td><td>时间概念及主被动关系</td><td>举例</td></tr><tr><td rowspan="4">现在分词</td><td rowspan="2">一般时</td><td>主动</td><td>(not) doing</td><td>与谓语动作/状态同时发生的主动动作</td><td>Singing a song, he was watching TV.</td></tr><tr><td>被动</td><td>(not) being done</td><td>与谓语动作/状态同时发生的被动动作</td><td>Being punished, he is crying.</td></tr><tr><td rowspan="2">完成时</td><td>主动</td><td>(not) having done</td><td>发生在谓语动作/状态之前的主动动作</td><td>Having finished the course, we had an exam.</td></tr><tr><td>被动</td><td>(not) having been done</td><td>发生在谓语动作/状态之前的被动动作</td><td>Having been warned several times, they became more careful in doing the job.</td></tr><tr><td>过去分词</td><td colspan="3">(not) done</td><td>(1)可以只表一个被动的动作;(2)可以只表一个完成的动作(即发生在谓语动作/状态之前的动作);(3)可以同时既表被动又表完成的动作(即发生在谓语动作/状态之前的动作)。</td><td>Seen from the hill, the town looks nice.(只表被动)The fallen leaves are yellow.(只表完成)The returned book looks new.(既表被动又表完成)</td></tr></table>
+
+## 2. 分词的语法作用
+
+## (1)作定语
+
+①现在分词作宾语
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+现在分词可表示动作正在进行,或是被修饰词的一般特征;与所修饰的名词通常存在逻辑上的主谓关系,如果是动宾关系,则用 being done。作定语用的现在分词如果是单个词,一般放在被修饰词的前面,称为前置定语;如果是现在分词短语,则放在被修饰词的后面,称为后置定语,相当于一个定语从句。如:
+
+The man talking about the game is our monitor's father. 正在谈论比赛的那个人是我们班长的父亲。
+
+## ②过去分词作定语
+
+过去分词只有一种形式,也没有主动语态,它所表示的动作是一个被动的或是已完成的动作。其逻辑主语一般为该分词所表示的动作的承受者;单个的过去分词作定语时多位于被修饰词之前(也有位于其后的),过去分词短语作定语时通常放在被修饰词之后,且可以扩展为定语从句。如:
+
+Our class went on an organized trip last Monday. 上周一我们班开展了一次有组织的旅行。
+
+Those selected as committee members will attend the meeting. 当选为委员的人将出席这次会议。
+
+(2)作状语
+
+分词作状语时表示的动作是主语的一部分,与谓语表示的动作(或状态)是同时或几乎同时发生的,有时先于谓语动词的动作发生。分词作状语一般要用逗号同其他成分隔开。可以作时间、原因、方式、条件、结果、让步等状语。此外,有时为表强调,可在分词前加相应的连词。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+(While) Working in the factory, he was an advanced worker. 在工厂工作时,他是一名先进工人。(表示时间)
+
+Being a League member, he is always helping others. 由于是共青团员，他经常帮助他人。（表示原因）
+
+He stayed at home, cleaning and washing. 他待在家里，又擦又洗。（表示方式或伴随）
+
+(If) Playing all day, you will waste your valuable time. 你要是整天玩耍，将会浪费宝贵的时间。(表示条件)
+
+He dropped the glass, breaking it into pieces. 他把杯子弄掉了, 结果杯子摔得粉碎。(表示结果)
+
+Though raining heavily, it cleared up very soon. 虽然雨下得很大,但不久天就晴了。(表示让步)
+
+②过去分词作状语
+
+Praised by the neighbours, he became the pride of his parents. 受到邻居们的表扬，他成为父母的骄傲。（表示原因）
+
+Once seen, it can never be forgotten. 它一被看见，人们就忘不了。（表示时间）
+
+Given more time, I'll be able to do it better. 如果给予更多的时间,我能做得更好。(表示条件)
+
+Though told of the danger, he still risked his life to save the boy. 虽然被告知有危险，他仍然冒险去救那个孩子。（表示让步）
+
+Filled with hopes and fears, he entered the cave. 心中充满了希望与恐惧，他走进山洞。（伴随）
+
+关注公众号[英语直播皮卡后]萃取BETS真题及私域备考资料③现在分词和通义分词同联语的区别
+
+现在分词的一般式作状语时，与句子的主语和谓语是一种主动、进行关系；现在分词的一般被动式作状语时，与句子的主语和谓语是一种被动、进行关系；现在分词的完成式作状语，与句子的主语和谓语是一种主动、完成关系；现在分词的完成被动式作状语，与句子主语和谓语是一种被动、完成关系（特别强调分词动作先于谓语动作发生，并且有一定的时间间隔）；过去分词作状语时，与句子的主语和谓语是一种要么仅表被动、要么仅表完成或者既表被动又表完成的关系。
+
+④分词作状语时,当分词的逻辑主语不是句子的主语时,分词需要有自己的主语,从而构成分词的独立主格结构。
+
+## (3)作宾语补足语
+
+## ①现在分词作宾语补足语
+
+现在分词作宾语补足语时表示主动和动作正在进行。能用现在分词作宾补的几类动词:表示感觉和心理状态的动词 see, notice 等;表示使役意义的动词 keep, get 等。
+
+## ②过去分词作宾语补足语
+
+过去分词作宾补既可表示被动又可表示动作已完成；宾语通常是构成过去分词的动词所表示动作的承受者。过去分词作宾补的常见情况：用于 feel, find, hear, notice, see, smell, observe 等感官动词后作宾补；用于 get, have, make, keep, leave 等使役动词后作宾补。
+
+## (4)作表语
+
+现在分词不能作表语。过去分词作表语时，位于系动词之后，多分众景英语音播皮态兵获取卵卵现离题及私域备考资料。
+
+## 第十章 名词性从句
+
+## 连词解读
+
+1. 连词 that 本身没有意义, 在从句中不担任任何句子成分, 在宾语从句中可省略
+
+I hear (that) he has joined the football club. 我听说他已经加入了足球俱乐部。
+
+That you don't like him is none of my business. 你不喜欢他,跟我没任何关系。
+
+## 2. whether 和 if
+
+连词 whether 和 if 本身有意义, 在从句中不可省略。
+
+(1) whether 可以连接所有的名词性从句, 而 if 只能引导宾语从句和不位于句首的主语从句。如:
+
+He asked whether we wanted a drink. 他问我们是否想喝一杯。(宾语从句, 可用 if 代替 whether)
+
+The question is whether it's worth trying. 问题是值不值得试一试。(表语从句, 不可用 if 代替 whether)
+
+Whether the football game will be played depends on the weather. 足球比赛举不举行取决于天气。(主语从句, 不可用 if 代替 whether)
+
+He must answer the question whether this is true or not. 他必须回答这是不是真的这样一个问题。（同位语从句，不关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+
+(2) whether 引导的宾语从句可作介词的宾语, 而 if 则不能。如:
+
+It all depends on whether they will support us. 这完全取决于他们是否支持我们。(不用 if)
+
+I am curious as to whether he likes the present. 我很想知道他喜欢不喜欢那个礼物。
+
+3. who, whom, whose, what 和 which
+
+连接代词 who, whom, whose, what, which 等在从句中既起连接作用，同时又担当主语、宾语、定语、表语等成分。如：
+
+I don't care about who he was looking for. 我对他正在找谁不感兴趣。
+
+We are worrying about what we should do next. 我们正在为下一步该怎么办而烦恼。
+
+4. where, when, how 和 why
+
+连接副词 where, when, how, why 等在从句中既是连接词, 又作状语。如:
+
+I don't know where we are going to have the meeting. 我不知道我们将在哪儿开会。
+
+She always thinks of how she can work well. 她总是在想怎样能把工作做好。
+
+What I am anxious to know is when we can visit the museum. 我急于知道我们什么时候能参观博物馆。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 5. whoever, whomever, whatever 和 whichever
+
+连接代词 whoever = anyone who, 意思是“任何人, 无论谁”; whatever = anything that, 意思是“凡是…, 无论什么”; whichever = anything that, 意思是“无论哪一个, 任何一个”; whomever = anyone whom, 是 whoever 的宾格形式, 可以在名词性从句中既起连接作用, 同时又担当句子成分。如:
+
+Whoever comes to the club is welcome. 不论谁来参加这个俱乐部都欢迎。
+
+Whatever is worth doing is worth doing well. 凡是值得做的就值得做好。
+
+## (一) 主语从句
+
+(1) 在句中作主语的名词性从句称为主语从句, 主语从句所对应的谓语动词通常用第三人称单数的形式, 但 what 和 who 引导主语从句时, 有时主句谓语的数应依据作表语的名词而定。如:
+
+What she did is not yet known. 她干了什么尚不清楚。
+
+Whoever comes is welcome. 不论谁来都欢迎。
+
+(2)为了整个句子的平衡,主语从句经常后置,并用 it 充当形式主语。如:
+
+It's a pity that you missed the film. 你没有看那部电影真是太遗憾了。
+
+It has not been decided where the meeting is to be held. 关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料在哪里不会还没决定。
+
+It doesn't matter whether she will come or not. 她是否来这无关紧要。
+
+(3) It is + 过去分词 + that 从句句型中, 常用的过去分词有 said, reported 等。过去分词为 suggested, ordered 等表 “建议, 命令” 等的词时, 主语从句谓语用 “(should +) 动词原形”。如:
+
+It is suggested that the meeting be put off. 有人建议会议延期召开。
+
+## (二)宾语从句
+
+在复合句中用作动词宾语或介词宾语的从句叫宾语从句。
+
+## 1. 作动词宾语
+
+His mother says (that) Tom Cruise was an actor. 他母亲说汤姆？克鲁斯是个演员。
+
+Do you know whose dictionary it is? 你知道这是谁的字典吗?
+
+He has informed me when they are to discuss the work plan. 他已经通知我他们将在什么时候讨论工作计划。
+
+【注意】在肯定句中,doubt 后面的宾语从句用 if 或 whether 引导,而在否定句和疑问句中 doubt 后的宾语从句则用 that 引导。如:
+
+I doubt whether/if he will succeed. 我怀疑他是否会成功。
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料 I do not doubt that Tom will finish the work on time. 我相
+
+信汤姆能准时完成任务。
+
+Do you doubt that he will win? 你不相信他会获胜吗?
+
+## 2. 作介词的宾语
+
+I am curious as to what he will say. 我很想知道他要说什么。
+
+His report is correct except that some details are omitted. 除了一些细节未提到,他的报道是正确的。
+
+## 3. 作形容词的宾语
+
+I am not sure what I ought to do. 我不能确定我该做什么。
+
+I'm afraid (that) you have missed the last bus. 恐怕你已经错过末班车了。
+
+## 4. 用 it 作形式宾语
+
+(1) 和 it 作形式主语一样, 我们常用 it 来作形式宾语, 把真正的宾语从句放在句末, 这种情况尤其出现在带复合宾语的句子中。如:
+
+We think it important that Mary should tell the truth. 我们认为玛丽说出实情很重要。
+
+He has made it clear that he will not give in. 他已表明他不会屈服。
+
+(2)一些表示爱好的动词(enjoy, hate, like, love, dislike, make 等)之后,形式宾语 it 后可直接跟宾语从句。如:
+
+I don't like it when you glare at me like that! 我不喜欢关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料你那样瞪着我。
+
+We thoroughly enjoyed it we had a great evening. 我们很享受这个美好的夜晚。
+
+## 5. 关于 that 的省略
+
+一般情况下,宾语从句中的 that 是可以省略的。但在下列几种情况下,that 一般不可省略。
+
+(1)介词后面的 that 不能省。如：
+
+Peter is a good student except that he is sometimes careless. 彼得是个好学生，只是有时粗心。
+
+(2) 并列连词 and 连接两个或两个以上的宾语从句时, and 前面的 that 可以省略, 后面的 that 不能省略。如:
+
+He said (that) he had finished reading this novel and that he would borrow another one. 他说他已经读完这本小说了，还说他将再借一本。
+
+(3) 主句谓语动词与 that 从句之间有插入语, that 不可省略。
+
+(4) 宾语从句中有其他从属连词时, that 不能省略。如:
+
+He told me that if it was necessary they would work all night. 他告诉我，如有需要，他们就干个通宵。
+
+## 6. 宾语从句的否定转移
+
+在 think, consider, 等动词后的宾语从句, 如有否定意思, 一般要把否定词前移到主句的谓语上, 从句的谓语用肯定的形式。如:
+
+关注公众号[英语主播皮卡丘]获取PETS真题及秘境备考资料
+
+得比我好。
+
+I don't believe they have finished their work yet. 我相信他们还未完成他们的工作。
+
+I don't think you have met me before, have you? 我认为你以前没见过我，是吗？
+
+## 7. 使用虚拟语气的宾语从句
+
+（1）在 suggest, insist, order, demand, request, require, command, propose, desire 等表示建议、命令、要求、欲望等的动词后面的宾语从句中，用虚拟语气，即 should + 动词原形，should 常被省略。如：
+
+The teacher suggested that we (should) review it. 老师建议我们复习一下它。
+
+(2) 在 wish 后面的宾语从句中需要用虚拟语气, 表示与事实相反或难以实现的愿望。如:
+
+How I wish I had learned more! 我多么希望我以前多学一些啊！
+
+He wishes he would have another chance to go abroad. 他希望能再有一次出国的机会。
+
+## (三) 表语从句
+
+名词性从句在 be 等系动词后作表语时被称为表语从句。
+
+## 1. 可接表语从句的连系动词
+
+有 be, look, seem, sound, appear 等。如：
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 China is no longer what she used to be. 今日的中国不再
+
+是过去的中国了。
+
+The question remains whether they will be able to help us. 问题还是他们能否帮我们。
+
+It appears that he has a taste for music. 看来他对音乐有一定的鉴赏力。
+
+## 2. as if/though 引导的表语从句
+
+It sounds as if someone is knocking at the door. 听起来好像有人在敲门。
+
+It looks/seems as if we have to go home on foot. 看起来我们好像得走回家了。
+
+## 3. because, why 引导的表语从句
+
+That's because he didn't understand me. 那是因为他没有理解我。
+
+That's why he got angry with me. 那正是他对我生气的原因。
+
+## 4. 使用虚拟语气的表语从句
+
+在表示建议、劝告、命令等含义的名词后的表语从句中，谓语动词需用 should + 动词原形表示，should 可省略。常见的此类名词有：advice, suggestion, order 等。如：
+
+My suggestion is that we (should) start early tomorrow. 我的建议是我们明天一早就出发。
+
+## (四) 同位语从句
+
+同位语从句在句中作某一名词尤其是抽象名词的同位语。同位语从每一般所用that,whether并等，也寄用连接
+
+代词和连接副词引导。
+
+1. fact, hope, idea, news, doubt, suggestion, information, opinion, decision, discovery, truth, promise, statement, problem, rule, thought 等后面常跟同位语从句，用以说明或解释这些名词。如：
+
+They were all very worried over the fact that you were sick. 对你生病这件事,他们都很担心。
+
+Where did you get the idea that I could not come? 你在哪儿听说我不能来的？
+
+## 2. 同位语从句的注意事项
+
+(1) 分隔式同位语从句: 有时同位语从句与其所解释说明的名词会被其他成分隔开, 从而形成分隔式同位语从句, 这样做主要是为了保持句子结构平衡, 避免头重脚轻。如:
+
+A saying goes that practice makes perfect. 熟能生巧是谚语。
+
+(2) 名词 suggestion, order, demand, command, request 等后的同位语从句要使用虚拟语气, 即从句谓语用“(should + )do”。如:
+
+This is our only request that this (should) be settled as soon as possible. 尽快解决这个问题,这是我们唯一的请求。
+
+He made the suggestion that we go by train. 他建议我们坐火车去。
+
+关注公众号英语直播皮卡丘获取BETS真题及私域备查资料
+
+导; no doubt(毫无疑问)后的同位语从句用 that 引导。如:
+
+There is no doubt that Zhang Wei will keep his promise. 张卫会守信的,这是毫无疑问的。
+
+## 3. 同位语从句和定语从句的区别
+
+同位语从句可以用 whether, how 等连词引导, 定语从句则不能。定语从句对先行词加以限制或修饰、说明先行词的性质或特征(相当于形容词的作用), 定语从句的引导词均在该定语从句中充当特定的句子成分 (that 在其引导的限制性定语从句中充当主语、宾语或者表语, 充当定语从句的宾语时 that 经常可被省略)。而引导同位语从句的 that 没有实际意义, 不作从句的任何成分, 但不能被省略。如:
+
+We can't solve the problem how we can travel faster than light. 我们解决不了如何才能超过光的速度这个问题。
+
+I can't remember the problem that they have. 我记不得他们的问题了。
+
+## 第十一章 状语从句
+
+## (一) 时间状语从句
+
+1. when, as, while 引导的时间状语从句
+
+(1) when 引导时间状语从句时表示“当…的时候”，when 既可以指时间段也可指时间点，从句中既可用延续性动词又可用非延续性动词，且动作既可和主句的动作同时发生又可在主句的动作之前或之后发生。如：
+
+I owed Jack \$100 when I was in London. 我在伦敦期间欠杰克 100 美元。
+
+When I came home, my wife was cooking dinner. 我回家时，妻子在做晚饭。
+
+(2) while 引导时间状语从句时表示“当…的时候”，它强调主句的动作与从句的动作同时持续地进行，用于这一用法时 while 引导的时间状语从句和主句中的谓语动词必须是延续性动词，或者主句的动作发生在从句动作的进行过程中，此时主句中的谓语动词通常是非延续性动词。如：
+
+I met her while I was on my way to school. 我在上学的路上遇见了她。
+
+(3) as 引导时间状语从句时表示“当…时，一边…一边…”，侧重表示两个动作同时发生（包括一个主语同时进行关注公众号[英语主播皮手]获取 PETS 章题及私域备考资料）
+
+化。如：
+
+He jumps as he goes along. 他边走边跳。
+
+2. till, until (not... until/till... 直到…才…) 引导的时间状语从句
+
+till 和 until 这两个词作连词和介词时的意义和用法相同,一般可以换用(放在句首时通常用 until 的形式,till 在口语中更为常见)。till 和 until 引导时间状语从句时跟主句中肯定形式或否定形式的、表示延续性动作的谓语动词连用表示“到…为止”,跟主句中否定形式的、表示非延续性动作的谓语动词连用表示“直到…才(开始)”。如:
+
+I'll stay here till/until Tom arrives. 我会待在这里直到汤姆到达。
+
+He didn't go home till/until he had finished his homework. 直到完成作业他才回家。
+
+【注意】如果将“not until…”结构放在句首,那么主句要部分倒装。如:
+
+Not until the teacher came in did the students stop talking. 直到老师进来,学生们才停止讨论。
+
+3. before/since 引导的时间状语从句
+
+(1) before 本义为“在…之前”，可根据语境译为“还未…就…，…才…，趁…，还没来得及…”；since 表示“自…以来”。如：
+
+Please write it down before you forget it. 趁你没忘请把它关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料记下来。
+
+He hasn't been home since he graduated. 他毕业后没回过家。
+
+## (2) before/since 常用句型
+
+★It will be + 时间段 + before（从句用一般现在时）过…时间才…
+
+★It was not long before(从句用一般过去时)没过很长时间就…
+
+★It was + 时间段 + before(从句用一般过去时)过了…时间才…
+
+★ It is/has been + 时间段 + since(从句用一般过去时)自…以来已经有多长时间了
+
+★It was + 时间段 + since(从句用过去完成时)自…以来已经有多长时间了
+
+It was two years before he left the country. 过了两年他才离开了这个国家。
+
+It was three years since we had been there. 我们在那儿已待了三年。
+
+4. as soon as, immediately, directly, the moment/minute, no sooner... than..., hardly/scarcely... when...
+
+均可引导时间状语从句,表示从句的动作一发生,主句的动作随即就发生,意为“一…就…”。no sooner... 和 hardly/scarcely... 位于句首时,主句要部分倒装。如:
+
+The moment I heard the voice, I knew my father was 关注公众号[菜谱主播皮卡]获取RETS真题及私域备考资料 coming. 我一听到声音，就知道是父亲来了。
+
+Hardly had I got home when it began to rain. 我一到家，天就开始下雨了。
+
+## 5. every time, each time, next time
+
+名词词组用来引导时间状语从句,表示“每当…,每次…,下次…”。如:
+
+Every/Each time I was in trouble, he would come to help me out. 每次我遇到麻烦，他都会来帮我。
+
+## (二) 条件状语从句
+
+条件状语从句的引导词有：
+
+## 1. if 和 unless
+
+if 表示正面的条件, 意为“如果”; unless (= if not) 表示负面的条件, 意为“除非, 如果不”。如:
+
+If you ask him, he will help you. 如果你请求他,他会帮助你。
+
+He is sure to come unless he has some urgent business. 他一定会来，除非他有急事。
+
+2. in case, on condition that, providing, provided (that), supposing (that), as/so long as 这些引导词 (词组) 意思相近, 表示 “假如, 假使, 在…条件下, 只要”。如:
+
+In case he comes, let me know. 如果他来的话, 告诉我一声。
+
+Supposing (that) he does not come, what shall we do? 他要是不来, 我们该怎么办?
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 You may use the book so long as your return it off time. 只
+
+要你准时还，你就可以借这本书。
+
+## (三) 原因状语从句
+
+(1) because 引导的原因状语从句一般放于主句之后, because 表示直接原因, 语气最强, 最适合回答 why 引导的疑问句。如:
+
+—Why wasn't he present? 他为什么没来？
+
+—Because he was ill. 因为他病了。
+
+(2) since 引导的原因状语从句一般放于主句前, 表示已知的、显然的理由, 翻译成 “既然”, 较为正式, 语气比 because 弱。seeing (that), now (that), considering (that), in that 引导原因状语从句, 与 since 意思相近, 表示 “既然”。如:
+
+Since you're not interested, I won't tell you about it. 既然你不感兴趣，那我就不告诉你这件事了。
+
+Now that everyone has been here, let's start our meeting. 既然大家都来了,我们开始开会吧。
+
+She was fortunate in that she had friends to help her. 她很幸运，因为有一些朋友帮助她。
+
+Seeing that it is eight o'clock, we'll wait no longer. 由于已经八点了, 我们不再等了。
+
+(3) as 引导原因状语从句时表示附带说明的“双方已知的原因”，语气比 since 弱，较为正式，位置较为灵活（常放于主句之前）。如：
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料。As I was in a hurry this morning, I left my key at home.
+
+天早晨因为太匆忙，我把钥匙忘在了家里。
+
+## (四) 地点状语从句
+
+(1) 地点状语从句表示地点、方位, 这类从句通常由 where, wherever 引导。如:
+
+They will go where they are happy. 他们想到他们觉得快乐的地方去。
+
+Wherever there is smoke, there is fire. 无火不生烟。(无风不起浪)
+
+(2) 区分 where 引导的定语从句与状语从句: where 引导状语从句时, where 是从属连词, where 引导的从句修饰主句的谓语动词, where 前面没有表示地点的先行词; where 引导定语从句时, where 是关系副词, 在从句中作地点状语, 其前面有表示地点的先行词, where 引导的从句修饰先行词。如:
+
+You'd better make a mark where you have any questions. (状语从句)你最好在有问题的地方做个记号。
+
+You'd better make a mark at the place where you have any questions. (定语从句)你最好在有问题的地方做个记号。
+
+## (五) 目的状语从句
+
+引导目的状语从句的连词有: in order that, so that, in case, lest, for fear that (lest, for fear that 后的目的状语从句一般要用“should + 动词原形”的虚拟语气形式; in case 后的目的状语从句多用虚拟语气，但也用例述语气)
+
+等。如：
+
+We used the computer in order that we could save time. 我们使用计算机是为了节省时间。
+
+He's working hard for fear that he should fail. 他努力工作,唯恐失败。
+
+Take an umbrella with you in case it should rain. 带把伞，以防下雨。
+
+## (六) 结果状语从句
+
+结果状语从句表示结果,通常位于主句之后。下面逐一介绍常见的引导结果状语从句的连词:
+
+(1) so that 可以引导目的状语从句, 也可以引导结果状语从句。如:
+
+He worried so that he couldn't sleep. 他急得睡不着。
+
+(2) 表示 “如此…以致…” 的 “so… that…” 和 “such… that…” 均可引导结果状语从句, 其中的 such 是形容词, 修饰名词; so 是副词, 修饰形容词或副词, 具体的搭配形式是:
+
+$$
+① \text { “so + adj. / adv. + that” , “so + adj. + a / an + n. + that” };
+$$
+
+$$
+② \text {   “such(  +a / an)  (+adj.)   +n.   +that”   } 。
+$$
+
+It is so fine today that we decide to go swimming. 今天天气很好,我们决定去游泳。
+
+Our country has so much coal that she can export large
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+quantities. 我们回家的煤炭非常丰富，可以大量出口。（so与表示数量的形容词 many, few, much, little 等连用已经形成固定搭配, 这些场合下不能换用 such 的对应结构表示)
+
+He's such a good person that we mustn't blame him. 他是这样好的人,我们不能怪他。
+
+## (七) 让步状语从句
+
+让步状语从句表示前后句之间为让步关系。引导让步状语从句的连词主要有 though, although, even though, even if, while, as, whether, who (whom, what, which, when, where, how 等) + -ever, no matter who (whom, what, how 等), whether... or... 等。
+
+1. though, although, even if 和 even though 引导让步状语从句
+
+四者皆有“虽然，即使，尽管”之语义，其中 even if 和 even though 语气较强，though 和 although 语气较弱，though 不如 although 正式。though 和 although 不与 but 连用，但可与 yet 和 still 连用。如：
+
+Although it was so cold, he went out without an overcoat. 天气虽然很冷，但他没有穿大衣就出去了。
+
+She carries on the job even though/even if she has a bad cold for several days. 尽管得重感冒几天了，但她仍坚守在工作岗位上。
+
+Though they may not succeed, they will still try. 即使他们可能不会成功，但他们仍努力尝试。
+
+关注公众号[英语主播皮卡丘]获取 PETS 粟题及私域备考资料
+
+## 让步状语从句
+
+相当于“who (what, when, which, how, where 等) + ever”，表示“无论何人（什么，何时，哪个/些，怎样，何地）”等。如：
+
+He keeps taking exercise in winter no matter how cold it is. 冬天不管有多冷，他一直坚持锻炼身体。
+
+Whoever breaks the rule, he must be punished. 不管谁违反规定，都会被惩罚。
+
+Whatever (= No matter what) you say, I will not change my mind. 无论你说什么, 我也绝不改变主意。
+
+## 3. whether... or... 引导让步状语从句
+
+意为“无论…还是…”。如：
+
+Whether she wins or loses, this is her last chance. 不管是赢是输, 这都是她的最后一次机会。
+
+## 4. while 引导让步状语从句
+
+意为“尽管,虽然”,相当于although/though。如:
+
+While we don't agree on that, we continue to be friends. 虽然我们在那件事上意见不同，但我们仍然是朋友。
+
+## 5. 让步状语从句的倒装
+
+though 引导的让步状语从句可以倒装，也可以不倒装，但 as 引导的让步状语从句必须采用倒装结构，as 引导的倒装形式的让步状语从句的基本结构为：形容词/副词/名词（单数可数名词前一般不带冠词，有时也可见单数可数名词前形容词与不定值连用、形容词放柱不足造前）
+
+词/过去分词 + as + 主语 + 谓语的其他部分。如：
+
+Bravely though we fought in the competition, we had no chance of winning. 尽管我们在竞赛中英勇拼搏，但胜利无望。
+
+Try as he would, he could not lift the rock. 虽然尽了最大努力，但是他仍然不能搬动那块石头。
+
+Great as the author was, he proved a bad model. 这位作者尽管了不起，到头来却成了一个坏榜样。
+
+## (八)方式状语从句和比较状语从句
+
+(1)方式状语从句常由 as, as if/as though 引导。如:
+
+Please do it as I told you. 请按照我告诉你的做。
+
+(2) 引导比较状语从句的从属连词为 as...as(和…一样), not as/so...as(和…不一样), than(比)。这类从句常以省略形式出现。如：
+
+The work is not so difficult as you imagine. 这工作不像你想象的那么困难。
+
+You look younger than you are. 你看上去比你的实际年龄要年轻。
+
+He doesn't work as hard as she (does). 他工作不像她那样努力。
+
+## (九)状语从句的省略
+
+当状语从句中的主语和主句的主语一致，或状语从句中的主语是 it，并且又含有 be 动词时，常可以省略从句中的主语和 be 动词。
+
+状语从句的省略常出现在以下从句中：
+
+(1) 在 as, before, till, once, when, while 等引导的时间状语从句中。如：
+
+While in Beijing, I paid a visit to the Summer Palace. 在北京时, 我参观了颐和园。
+
+(2) 在 though, although 等引导的让步状语从句中。如:
+
+Though (they were) tired, they went on working. 虽然他们累了,但他们仍继续工作。
+
+(3) 在 if, unless( = if... not) 等引导的条件状语从句中。如：
+
+Unless (it is) necessary, you'd better not refer to the dictionary. 如果没有必要，你最好不要查字典。
+
+(4) 在 as, as if, as though 引导的方式状语从句中。如:
+
+He did as (he had been) told. 他按照被告知的那样去做了。
+
+He paused as if (he was) expecting her to speak. 他停下来, 好像是在期待她说话。
+
+(5) 在 as...as..., than 引导的比较状语从句中。如:
+
+This car doesn't run as fast as that one (does). 这辆小汽车不及那辆跑得快。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第十二章 定语从句
+
+定语从句(attributive clause)，顾名思义，就是一个句子作定语从属于主句。定语一般是由形容词充当，所以定语从句又称作形容词性从句。另外，定语从句是由关系代词或关系副词引导的，故又称作关系从句。定语从句一般放在它所修饰的名词或代词之后，这种名词或代词被称作先行词。
+
+## (一)定语从句中关系代词的用法
+
+关系代词的具体情况如下表所示：
+
+<table><tr><td>关系代词</td><td>先行词的特征</td><td>关系词在从句中作的成分</td></tr><tr><td>which</td><td>指物</td><td>主语、宾语、表语</td></tr><tr><td>that</td><td>指人或指物</td><td>主语、宾语、表语</td></tr><tr><td>who</td><td>指人</td><td>主语、宾语、表语</td></tr><tr><td>whom</td><td>指人</td><td>宾语</td></tr><tr><td>whose</td><td>指人或指物</td><td>定语</td></tr></table>
+
+The prosperity which/that had never appeared before took on in the countryside. 农村出现了前所未有的繁荣。
+
+Is he the man who/that wants to see you? 他就是想见你的人吗？
+
+Can you show me the photo which/that was taken in the West Lake? 你能让我看看在西湖拍的照片吗？
+
+I'll never forget the day (which/that) we spent together. 关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 我永远不会忘记我们在一起度过的日子。
+
+The package (which/that) you are carrying is about to come unwrapped. 你拿的那个包裹快要散开了。
+
+【注意】(1) 在定语从句中作宾语的关系代词可以省略。(2) 当定语从句中含有介词, 介词放在句末时, who (m), that, which 可省略, 但介词在关系代词前时, 只能用 “介词 + which/whom” 结构。如:
+
+This is the house in which we lived last year. 这是我们去年居住的房子。
+
+Please tell me from whom you borrowed the English novel. 请告诉我你从谁那儿借的这本英文小说。
+
+## (二)定语从句中关系副词的用法
+
+关系副词的基本用法见下表：
+
+<table><tr><td>关系副词</td><td>先行词的特征</td><td>关系词在从句中作的成分</td></tr><tr><td>when( = at/on/in/during 等 + which)</td><td>表时间</td><td>时间状语</td></tr><tr><td>where( = at/in 等 + which)</td><td>表地点</td><td>地点状语</td></tr><tr><td>why( = for which)</td><td>表原因</td><td>原因状语</td></tr></table>
+
+The office where he works is on the second floor. 他工作的办公室在二楼。
+
+By the time when you arrived in London, we had stayed there for two weeks. 当你到达伦敦的时候，我们在那里已经待了两周了。
+
+## 1. 关系副词的特殊用法
+
+关注公众号[英语商播皮卡丘]获取PETS真题及私域备素资料(4)关系副词往往用取适当的介词+美素代词
+
+which”来代替。如：
+
+I was born on the day when (on which) the PRC was founded, so I was given the name “Guoqing” by my father. 我出生在中华人民共和国成立的那一天，所以爸爸给我取名“国庆”。(when 在从句中作时间状语)
+
+(2) where 引导定语从句时, 其先行词除了可以是表示具体地点的名词(如 place, home, school, village 等)外, 还可以是表示抽象地点的名词(如 job, life, situation, point, case, stage, family 等)。如:
+
+We have reached a point where a change is needed. 我们到了必须改变的地步。
+
+## (三)定语从句的种类
+
+根据先行词与定语从句的紧密程度,可以将定语从句分为限制性定语从句和非限制性定语从句。
+
+限制性定语从句又称限定性定语从句,用来修饰和限定先行词,与先行词的关系非常密切,说明先行词的性质、身份、特征等状况,如果去掉,则意思含混不清或不完整。如:
+
+A doctor is a person who saves people's lives. 医生就是救护人性命的人。(将定语从句去掉后,原句意义不完整)
+
+非限制性定语从句起补充附带说明作用，缺少也不会影响全句的理解，译为汉语时常不译作定语，而根据句意翻译为相应的其他形式的从句。在非限制性定语从句的前面往往有逗号，若将非限制性定语从句放在句子中间，关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料其前后都需要用逗号。如：
+
+Tom was working in London, where he went daily in a bus. 汤姆在伦敦上班，每天得坐公共汽车去上班。（where 引导的非限制性定语从句修饰先行词 London）
+
+<table><tr><td></td><td>限制性定语从句</td><td>非限制性定语从句</td></tr><tr><td>与先行词的关系</td><td>紧密,删除后影响整个意义的表达</td><td>疏松,只是补充说明,删除后不影响整个意义的表达</td></tr><tr><td>逗号的运用</td><td>不运用逗号</td><td>运用逗号</td></tr><tr><td>that 的运用</td><td>可用关系代词 that</td><td>不可用 that</td></tr><tr><td>which/who 在从句中作宾语时是否可省略</td><td>可省略 (that 在从句中作宾语时也可省略)</td><td>不可省略</td></tr><tr><td>whom 在从句中作宾语时是否可用 that 替代</td><td>可替代</td><td>不可替代</td></tr><tr><td>是否可修饰句子</td><td>不可</td><td>可修饰整个句子,此时有逗号隔开,只能由 which 或 as 引导</td></tr></table>
+
+## (四) 关系词用 that 不用 which 的情况
+
+(1) 当先行词是不定代词时, 如 all, everything, anything, nothing, much, little 等。如:
+
+All that glitters is not gold. 闪闪发光物,未必尽黄金。
+
+She told me everything that she knew. 她把她所知道的一切都告诉了我。
+
+(2) 当先行词前面有 the only, the last, the next, few, no, 关注公众呆[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+This is the very man that I want to see. 这正是我想见的那个人。
+
+(3) 当先行词是序数词/形容词最高级或被序数词/形容词最高级修饰时。
+
+This is the best novel that I have ever read. 这是我读过的最好的一部小说。
+
+(4) 当先行词既有人又有物时。
+
+We were deeply moved by the man and his story that she told us. 她告诉我们的那个人和他的故事深深地打动了我们。
+
+The writer and his novels that you have just talked about are really well-known. 你刚才谈起的那位作家以及他的小说确实很著名。
+
+(5) 当主句是以 who, which 或 what 开头的特殊疑问句或 there be 句型中时。
+
+Who is the man that is waiting at the school gate? 在学校门口等的那个人是谁？
+
+Which was the hotel that was recommended to the foreign guest? 哪一个是推荐给外宾的宾馆？
+
+## (五)“介词 + 关系代词”引导定语从句
+
+## 1. 关系代词的选定
+
+如果先行词指事(物),关系代词就用 which,指人则用 whom。如:
+
+This is the classroom in which we studied last year. 这就是关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+There are sixty students in our class, of whom twenty are girls. 我们班有 60 名学生, 其中 20 名是女生。
+
+## 2. 介词的选定
+
+(1) 根据先行词来选用介词。如：
+
+He made a telescope through which he could study the stars. 他做了一部望远镜,通过这部望远镜他可以观察星星。
+
+This is the reason for which he was put in prison. 这就是他为什么被关起来的原因。
+
+(2) 根据定语从句中的谓语动词或形容词选用介词。如：
+
+This is not the book of which the teacher spoke in class. 这不是老师在课堂上谈论的那本书。
+
+China is a beautiful country, of which we are greatly proud. 中国是个美丽的国家，我们为之感到非常骄傲。
+
+(3)根据句子的意思确定介词。如：
+
+This is the pilot for whom I bought a camera. 这个就是我给他买照相机的飞行员。
+
+## 3.“介词 of + 关系代词”结构
+
+该结构前面可用 many, some, both, neither, all, most, each, few, any 等代词或者数词；也可用 the + 比较级或最高级；有时还可用“the + 名词”。如：
+
+China has a lot of islands, one of which is Taiwan. 中国有许多岛屿，其中之一是台湾岛。
+
+【注意】(1)含有介词的固定动词词组中,介词不可前置,只能放在原来的位置上。如:
+
+This is the person whom you are looking for. 这就是你要找的那个人。
+
+(2) that 作介词的宾语时,介词不能放它的前面,只能放在从句中动词的后面。如:
+
+The city that she lives in is very far away. 她居住的城市非常远。
+
+## (六) 特殊关系代词 as 引导的定语从句
+
+1. 在固定搭配 such...as, the same...as 中, as 引导定语从句
+
+I want the same shirt as my brother's. 我想要一件跟我弟弟的衬衫一样的衬衫。
+
+## 2. 独立于主句之外, as 引导定语从句
+
+Taiwan, as you know, is an inseparable part of China. 你知道，台湾是中国不可分割的一部分。（关系代词 as 指代整个主句，在定语从句中作宾语。）
+
+## 3. as 和 which 引导非限制性定语从句的区别
+
+as 引导的非限制性定语从句在句中的位置比较灵活，可以放在句首、句中和句末；而 which 引导的非限制性定语从句只能放在主句的后面。as 译为“正如”；which 译为“这，那”。如：
+
+As we know, the light travels faster than the sound. 我们知道, 光比声音传播得快。
+
+She is always working hard, which everyone can see. 她工作注意有“英语主播皮卡”获取PTS 真题及私域备考资料
+
+## 第十三章 主谓一致
+
+## (一)语法一致原则
+
+语法一致就是谓语动词和主语在单复数形式上保持一致。
+
+(1)以单数名词或代词、动词不定式短语、动名词短语或从句作主语时，谓语动词一般用单数形式；主语为复数时，谓语动词用复数形式。如：
+
+To learn a foreign language is not so difficult as you think. 学一门外语并不像你想象的那么难。
+
+What I want to say is just “Take care!” 我只想说: “多保重!”
+
+【注意】由 what 引导的主语从句,后面的谓语动词多数情况用单数形式,但若表语是复数或 what 从句是一个带有复数意义的并列结构,主句的谓语动词用复数形式。如:
+
+What I bought were three English books. 我买的是三本英语书。
+
+What I say and do are helpful to you. 我所做的和所说的对你很有用。
+
+(2) 主语为单数名词或代词, 尽管后面跟有 with, together with, except, but, like, as well as, rather than, more than, no less than, besides, including 等引起的短语, 谓语动词仍用并注公众号: 英语主播或卡后获取 PETS 真题及私域备考资料单数形式; 若主语为复数, 谓语用复数形式。如:
+
+The girl together with some boys has gone to plant trees. 那个女孩和一些男孩子一起去植树了。
+
+Nobody but Jim and Mike was in the street. 除了吉姆和迈克没有人在街上。
+
+(3) 由连接词 and 或 both...and... 连接起来的并列主语后面, 要用复数形式的谓语动词。如:
+
+The men and the women were surprised when they heard the news. 那些男人和女人听到消息时很惊讶。
+
+Both she and he are Young Pioneers. 她和他都是少先队员。
+
+【注意】①若 and 连接的并列成分指的是同一个概念，兼具身份或匹配出现，它后面的谓语动词就应用单数形式。如：
+
+The poet and teacher is one of my friends. 那位诗人兼教师是我的一位朋友。(诗人和教师指的是同一个人。)
+
+②由 and 连接的并列单数主语前如果分别有 no, each, every 修饰, 其谓语动词要用单数形式。有时可将第二个 every/each/no 省略。如:
+
+Each book and paper is sure to be found in this room. 每一本书,每一份文件,都可在此房间内找到。
+
+③more than a(an)/many a(an) + 单数名词作主语时，谓语用单数形式。如：
+
+Many a person has had that kind of experience. 许多人都关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料有过这种经历。
+
+More than one man has been dismissed. 不止一人被解雇了。
+
+(4) either, neither, each, every 或 no + 单数名词和由 some, any, no, every 构成的复合不定代词，都被当作单数看待。如：
+
+Neither of us has gone through regular training. 我们两个都没受过正规的训练。
+
+If anybody calls, tell him I'll be back later. 如果有人找，告诉他我一会儿就回来。
+
+Everything around us is matter. 我们的周围都是物质。
+
+【注意】①在口语中当 either 或 neither 后跟有“of + 复数名词(或代词)”作主语时,其谓语动词也可用复数。如:
+
+Neither of my parents want me to marry him. 我父母都不想让我嫁给他。
+
+②若 none of 后面的名词是不可数名词,它的谓语动词就要用单数;若它后面的名词是复数,它的谓语动词用单数或复数都可以。如:
+
+None of us are (is) perfect. 人无完人。
+
+(5) 在定语从句中, 关系代词 that, who, which 等作主语时, 其谓语动词的数应与句中先行词的数一致。如:
+
+I know the man who is talking to my father. 我认识那个正在和我父亲谈话的人。
+
+(6)在倒装句中,谓语动词的数应与其后的主语一致。如:
+
+There comes the bus. 公共汽车来了。
+
+(7) “a lot of, lots of, plenty of, the rest of, the majority of + 名词” 构成的短语以及由“分数或百分数 + of + 名词”构成的短语作主语时，其谓语动词的数要根据短语中 of 后面名词的数而定。如：
+
+The majority of the surface of the earth is covered by water. 地球表面的大部分被水覆盖。
+
+The rest of the apples are red. 剩余的苹果是红色的。
+
+## (二)逻辑意义一致原则
+
+逻辑意义一致就是谓语动词的数必须和主语的意义一致(因有时主语形式为单数,但意义为复数;有时形式为复数,但意义为单数)。
+
+(1) what, who, which, any, more, all 等代词可以是单数，也可以是复数，主要靠意思来决定。如：
+
+All are eager to reach an agreement. 大家都急于达成一项协议。
+
+All is well that ends well. 结果好,一切都好。
+
+Which is your bag? 哪个是你的包?
+
+Which are your bags? 哪些是你的包?
+
+(2) 如果集体名词指的是整个集体, 它的谓语动词用单数; 如果它指集体的成员, 其谓语动词就用复数形式。这些词有 family, class, crowd, committee, population, audience 等。如:
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 My family was very poor when I was a little girl. 雪我还是
+
+一个小女孩儿的时候,我家很穷。
+
+My family are all looking forward to your coming. 我的家人都在期待着你的到来。
+
+【注意】people, police, cattle 等名词一般都用作复数。如：
+
+The police are looking for the lost child. 警察在寻找丢失的孩子。
+
+All of the people in the country have been prepared for the great reformation. 这个国家的人都已经为大变革做好了准备。
+
+(3) a number of “许多”, 作定语修饰复数名词时, 谓语用复数; the number of “…的数量”, 中心词是 number, 谓语用单数。如:
+
+The number of days in February this year is 28. 今年二月份的天数是二十八天。
+
+A number of students are going for a picnic this weekend. 这个周末许多学生将去野炊。
+
+(4) 表数量的短语“one and a half”后接复数名词作主语时, 其谓语动词可用单数形式。如:
+
+One and a half hours has passed. 一个半小时过去了。
+
+(5)算式中表示数目(字)的主语通常被当作单数看待,其谓语动词采用单数形式。如:
+
+2 times 3 makes 6. 二乘三等于六。
+
+关注公众号[英语主播岗卡丘]获取.PETS真题及私域备考资料。(6)兰学科名词是以ics-s结尾时,如:mathematics(maths), politics, physics 等以及 news, works(工厂), means (方法)等, 都属于形式上是复数的名词, 实际意义为单数名词, 它们作主语时, 其谓语动词要用单数形式。如:
+
+This works was built in 2000. 这家工厂建立于 2000 年。
+
+Maths is my favourite subject. 数学是我最喜欢的学科。
+
+(7) trousers（裤子），clothes（衣服），glasses（眼镜），compasses（圆规），chopsticks（筷子），scissors（剪刀）等作主语，谓语动词需用复数。但是，当 trousers，glasses，compasses，chopsticks，scissors 前有 a pair of 短语时，谓语动词则要用单数。如：
+
+My glasses are broken. 我的眼镜坏了。
+
+A pair of scissors is a useful tool for a dressmaker. 剪刀是裁缝的重要工具。
+
+(8)“定冠词 the + 形容词或分词”, 表示某一类人时, 动词用复数。如:
+
+The young, on the one hand, often think of the old conservative. On the other hand, the old always consider the young inexperienced. 一方面，年轻人常认为老年人保守；另一方面，老年人总是认为年轻人没有经验。
+
+In many stories, the good are well rewarded and the bad are doomed to be unfortunate. 在许多故事里，好人总是有好报；坏人注定要倒霉。
+
+(9) 表示时间、重量、数目、价格、长度等词或词组作主关注公众号[英语主播皮卡后]获取PETS真题及私域备考资料语表示个体概念时,请语动词用单数形式。如:
+
+Three weeks is a short time. 三个星期是很短的时间。
+
+Ten pounds is not so heavy. 十磅并不太重。
+
+(10)若英语是书名、片名、格言、剧名、报名、国名等的复数形式,其谓语动词通常用单数形式。如:
+
+The United States was founded in 1776. 美国成立于 1776 年。
+
+(11)一个单数名词被两个不同的形容词修饰,表示两个不同的概念时,谓语动词一般用复数形式;但如果表示的是同一个概念,则谓语动词用单数形式。如:
+
+Ancient and modern history are the subjects we are studying. 古代史和现代史是我们目前学习的课程。
+
+(12)非谓语动词、名词性从句作主语时,谓语动词用单数形式。如:
+
+Collecting stamps is his hobby. 集邮是他的业余爱好。
+
+## (三)就近一致原则
+
+在英语句子中,有时谓语动词的人称和数与最近的主语保持一致。
+
+(1) 当两个主语由 either... or..., neither... nor..., whether... or..., not only... but also... 连接时, 谓语动词和邻近它的主语一致; “with, along with, together with, including, but, except, like, among, as well as, no more than, besides, rather than + 名词” 置于主语后, 谓语动词一般仍和前面的名词在单复数上保持一致。如:
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料。Either her father of her mother calls for her every after-
+
+noon. 不是她父亲就是她母亲每天下午来接她。
+
+The teacher with thirty students is in the classroom. 那个老师和 30 名学生在教室里。
+
+Neither his parents nor Tom is at home. Tom 和他的父母都不在家。
+
+(2) there be 句型中 be 动词单复数取决于其后的主语。如果其后是由 and 连接的两个主语, 则应与靠近它的那个主语保持一致。如:
+
+There is a book and some pens on the desk. 桌子上有一本书和几支钢笔。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+## 第十四章 特殊句式
+
+## (一) 强调句
+
+强调句是一种修辞,是人们为了表达自己的意愿或情感而使用的一种形式,下面简单归纳它的几种结构:
+
+## 1. 用助动词 do(does/did) + 动词原形来表示强调
+
+He does know the place well. 他的确很熟悉这个地方。
+
+Do write to me when you get there. 你到那儿后务必给我来信。
+
+2. 用形容词 very, only, single, such 等修饰名词或形容词来加强语气
+
+That's the very textbook we used last term. 这正是我们上学期用过的教材。
+
+3. 用 in the world, on earth, at all 等介词短语可以表达更强的语气(常用于疑问句)
+
+Where in the world could he be? 他到底会在哪儿？
+
+## 4. it 强调句型
+
+(1) 基本形式为: It is (was) + 被强调的部分 + that (who) + 原句其他部分。被强调部分是除谓语之外的其他句子成分, 可以是单词、短语, 也可以是从句。强调人时, 用 that, who 皆可。如果是物, 常用 that。如果强调时间、地点、原因或方式状语时, 依然用 that。如:
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+Ann's husband rushed her to a nearby hospital last night.
+
+昨晚，安的丈夫立即送她去附近医院。
+
+强调主语: It was Ann's husband that (who) rushed her to a nearby hospital last night. 昨晚, 正是安的丈夫立即送她去了附近医院。
+
+强调宾语: It was her that( who) Ann's husband rushed to a nearby hospital last night. 昨晚安的丈夫立即送去附近医院的是她。
+
+强调地点状语: It was to a nearby hospital that Ann's husband rushed her last night. 昨晚安的丈夫立即送她去的就是一家附近的医院。
+
+强调时间状语: It was last night that Ann's husband rushed her to a nearby hospital. 就是在昨晚, 安的丈夫立即送她去附近医院。
+
+(2) 强调句型的一般疑问句形式为: Is/Was it + 被强调部分 + that/who + 其他。如:
+
+Was it a purse that he found in the street yesterday? 他昨天在街上捡到的是一个钱包吗？
+
+(3) 强调句型的特殊疑问句形式为: 特殊疑问词 + is/was + that + 其他。如:
+
+What was it that he found in the street yesterday? 他昨天在街上捡到一个什么东西？
+
+(4) 对 not... until 句式的强调, 要用 It is/was not until... + that... 句型, 意思是“直到…才…”。由于否定前关注公众号[英语主播皮卡丘]获取 PETS、真题及私域备考资料移, 故 that 从句中的言语动词用肯定式。如:
+
+I didn't go home until the rain stopped.
+
+→It was not until the rain stopped that I went home. 直到雨停我才回家。
+
+(5) 强调句型的判断: 如果去掉 it is/was 和 that/who 后句子仍然成立, 则该句子为强调句; 否则就不是。
+
+It is there that accidents often happen. (强调句)
+
+It was reported that four prisoners escaped from prison yesterday. (that 引导主语从句)
+
+## (6) 强调句与其他句型的区别
+
+强调句型与定语从句的区别：
+
+①It was at 9 o'clock that he came back yesterday evening. (强调句)
+
+②It was 9 o'clock when he came back yesterday evening. (定语从句)
+
+【分析】根据强调句型的判断方法,第一句是个强调句;第二句不是强调句,而是个定语从句。通常情况下,如果 is/was 后的时间或地点名词前有介词的话,说明这很可能是个强调句;反之,这很可能是个定语从句。
+
+强调句型与主语从句的区别：
+
+强调句与主语从句虽然在形式上很相似,都含有 It is/was...that...,但是它们有一个很重要的区别,强调句去掉 it is/was 和 that 之后,句子结构仍然完整,而主语从句却不能这样。试比较:
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+
+# 终身学习社群
+
+创业 | 职场 | 投资 | 学习 | 资源
+
+早读：新闻早报
+
+晚读：每天听一本书（约30分钟）
+
+经济学人、财新周刊等国内外优质报刊
+
+最新顶级策划方案、行业报告
+
+最新影视、软件、趣站
+
+最新电子书、音频书、读书笔记
+
+追剧.资料.学习.课程.教程
+
+![](images/3323d223d92abb693a3295f2f4343336d993bc87d1901a968542d923cdfae900.jpg)  
+获取更多资源 截图扫码进群
+
+②It is certain that Jeremy Lin is becoming more and more popular in China. (that 引导主语从句)
+
+【分析】句①可改为“The early bird catches the worm.”，意思不变，意为早起的鸟儿有虫吃，强调the early bird。而句②意为可以确定林书豪在中国正越来越受欢迎，不能改为“Jeremy Lin is becoming more and more popular in China certain.”。
+
+强调句型与 It was + 时间点 + when 从句的区别：
+
+上述句型中 it 指时间, when 引导的是时间状语从句。试比较:
+
+①It was at midnight that I got back home yesterday.
+
+②It was midnight when I got back home yesterday.
+
+【分析】句①是强调句，被强调的是时间状语，因此用介词短语表达，句意为昨天我是午夜回到家的，强调 at midnight。而句②是时间状语从句，时间以名词的方式表达，用来作表语，注意此时的 it 指代时间，句意为昨天我回到家时是午夜了。由此可见，时间名词前若有介词，该句就为强调句型，反之就是 when 引导的时间状语从句。
+
+强调句型与 It is + 一段时间 + since 从句的区别：
+
+上述句型表示自从…以来已有…(时间)。该句型中主句通常用一般现在时, since 从句中用一般过去时, 表示一个时间点。试比较:
+
+①It is two hours that he spends on English every day.
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+②It is two years since I began to learn English.
+
+①It was two years before he came back from abroad.
+
+【分析】句①为强调句，强调宾语 two hours，句意为他每天花两个小时学英语。句②则为 since 引导的时间状语从句，句意为自从我开始学英语已经两年了。
+
+强调句型与 It is/was + 一段时间 + before 从句的区别：
+
+before 从句中时间都是时间段,如 years, five days, twenty minutes 等。主句的时态多用一般将来时或一般过去时,从句的时态要根据主句的时态进行变化。before 前的主句如果是肯定的,翻译成“在…之后才…”,主句如果是否定的,翻译成“不久就…”。试比较:
+
+②It was two years later that he came back from abroad.
+
+【分析】两个句子都意为他是两年后回国的，句①中的it指时间，before引导的是时间状语从句；句②为强调句，强调状语two years later。
+
+## (二) 反意疑问句
+
+学习反意疑问句要掌握三个基本要点,即否定形式必须缩写,主语必须是人称代词,结构为肯定+否定或否定+肯定,但应用到各种语态和句型中却有各种变化。
+
+## 1. 反意疑问句的答语
+
+如何回答反意疑问句对于很多人来说可能会是一个问题,因为在这点上英语和汉语的习惯不同。下面我们来进行对比。
+
+关注公众号[英语主播皮卡后]获鹏,PETS真题及私域备考资料
+汉语:称不是一个老师,是吗?/是的,我不是。
+
+英语: You aren't a teacher, are you? /No, I'm not.
+
+汉语:你不是一个老师,是吗? / 不,我是。
+
+英语: You aren't a teacher, are you? /Yes, I am.
+
+通过对比,我们可以发现汉语的答语可以前面是否定、后面是肯定,而英语绝对不行,前后必须一致,要么全部用肯定,要么全部用否定。切记:在回答反意疑问句的时候,总是先考虑答语的后半部分到底该用肯定还是否定,然后再给这个答语的前面加上 Yes 或者 No。如:
+
+—His sister didn't attend the meeting, did she? 他妹妹没有参加会议，是吗？
+
+—Yes, she did. 不, 她参加了。
+
+(参加会议属于肯定的事实,所以要用 yes 来回答。)
+
+—You haven't been to London, have you? 你没有去过伦敦，是吗？
+
+—No, I haven't. 是的, 我没有去过。
+
+（没有去过伦敦属于否定的事实,所以要用 no 来回答。）
+
+## 2. 陈述句的反意疑问句
+
+基本用法: 当陈述句为肯定式时, 反意疑问句用否定形式, 即肯定的陈述句 + 否定的反意疑问句。当陈述句用否定式时, 反意疑问句用肯定形式, 即否定的陈述句 + 肯定的反意疑问句。如:
+
+—You watched TV last night, didn't you? 你昨晚看电视了，不是吗？
+
+—Yes, I did. 是的, 我看了。
+
+—The boy often goes to school by bike, doesn't he? 那个男孩经常骑车去上学,不是吗?
+
+—Yes, he does. 是的, 他骑车。
+
+特殊情况如下：
+
+(1)陈述部分的主语是指人的不定代词 everyone, everybody, someone, nobody, no one, none, anyone, somebody 等时, 反意疑问句中的主语通常用 they(有时也用 he)。如:
+
+Nobody likes to lose money, does he? 没有人愿意赔钱，不是吗？
+
+Everyone enjoyed the party, didn't they/he? 每个人都很喜欢这个舞会, 不是吗?
+
+(2)陈述部分的主语是指物的不定代词(everything, nothing, something, anything等)、名词性从句、动词不定式短语或动名词时，反意疑问句的主语用it。如：
+
+Everything seems all right, doesn't it? 所有的事情好像都很顺利,不是吗?
+
+Nothing serious happened, did it? 没发生严重的事，是吗？
+
+(3)陈述部分的主语是代词 these, those 或名词复数时, 反意疑问句中的主语必须是 they; 当主语是指示代词 this, that 或单数名词时, 反意疑问句中的主语必须是 it。如:
+
+关注公众号[英语主播皮卡丘]获取 PETS 奠题及私域备考资料 Those are not their crops, are they? 那些不是他们的庄
+
+稼,是吗?
+
+This book belongs to Li Ping, doesn't it? 这本书是李萍的,不是吗?
+
+(4)陈述部分带有 few, little, hardly, scarcely, rarely, seldom, never, nowhere, nothing, no one, nobody 等表示否定或半否定意义的词时，反意疑问句用肯定形式。注意：该句式的回答中的 yes/no 往往与中文意义相反，常译为：不/对的。如：
+
+—You have never been to Beijing, have you? 你没到过北京, 对吗?
+
+—Yes, I have. 不, 我到过。
+
+—He was seldom late, was he? 他很少迟到，对吗？
+
+—No, he wasn't. 对的，他很少迟到。
+
+You got nothing from him, did you? 你从他那儿什么都没得到, 是吗?
+
+(5)陈述句部分是 I/We think (suppose, consider, believe, guess, expect, imagine 等) 或者 I'm sure (We are sure, I'm afraid, I feel sure 等) that + 宾语从句时，反意疑问句的主、谓语应与宾语从句的主、谓语相一致。如：
+
+We think they have finished their homework, haven't they? 我们认为他们已经写完了作业，不是吗？
+
+【注意】宾语从句如果转移了否定词,反意疑问句部分要用肯定形式。如:
+
+关注公众号[英语主播皮卡丘]获取RETS 襄题及私域备考资料，
+
+是吗？
+
+(6)陈述句部分是由 and (but, so, or 等)连接的并列句时, 反意疑问句的主语和谓语必须采用就近一致的原则; 当陈述部分是复合句时, 反意疑问句的主语和谓语必须与主句保持一致。当陈述句部分由 either... or..., not only... but also..., not... but..., neither... nor... 等连接并列主语时, 反意疑问句根据其实际意义而定。如:
+
+She is a doctor but her husband isn't a doctor, is he? 她是医生但她丈夫不是，对吗？
+
+They ran out of the room when they were in danger, didn't they? 他们遇到危险时跑出了房间,不是吗?
+
+Neither you nor I am a teacher, are we? 你跟我都不是老师，对吗？
+
+(7)陈述句部分带有前缀 un-, im-, in-, dis-的否定形容词或有否定意义的动词 fail, deny, miss, escape 等时, 此陈述句当作肯定句看待, 其后的反意疑问句仍用否定形式。如:
+
+It's unfair, isn't it? 那不公平, 不是吗?
+
+She dislikes it, doesn't she? 她不喜欢它, 不是吗?
+
+(8)陈述部分是 there/here be( live, lie, stand, remain, seem to 等)结构时,它的反意疑问句主语用 there/ here。如:
+
+There is something wrong with your bike, isn't there? 你的百字半出问题，不是吗？
+
+Here is a story about Mark Twain, isn't here? 这是关于马克？吐温的故事，是吗？
+
+## 3. 含有情态动词 must 的句子的反意疑问句
+
+陈述部分中的 must 表“一定,想必”等推测意义时,要根据陈述句部分的真实结构,在反意疑问句中采用与其相符合的助动词形式。
+
+(1) 对现在的推测: You must be hungry now, aren't you? 你此刻一定很饿, 对吧?
+
+(2) 对现在进行时的推测: He must be watching TV now, isn't he? 他现在一定在看电视, 对吗?
+
+(3) 对现在完成时的推测: Tom must have lived here for a long time, hasn't he? Tom 一定在这儿生活了很久, 对吗?
+
+(4) 对过去的推测: She must have arrived yesterday, didn't she? 她昨天一定来了, 对吗?
+
+## 4. 祈使句的反意疑问句
+
+(1)肯定意义的祈使句的反意疑问句部分用 will you, 有时也可以用 won't you 来表达。如：
+
+Come tomorrow, will you? 明天来吧, 好不好?
+
+Close the window, please, won't you? 请关上窗户，好吗？
+
+(2)否定意义的祈使句的反意疑问句部分只用 will you。如：
+
+Don't be late again, will you? 别再迟到了,好吗?
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料内,其反意疑问句部分往往用 shall we;而 Let us 开头的祈使句,在意义上一般不包含谈话的对方在内,反意疑问句部分用 will you。如:
+
+Let us have a look at your new house, will you? 让我们看看你的新房子,好吗?
+
+Let's have a break, shall we? 我们休息一下吧, 好不好?
+
+Let's meet on Monday, shall we? 咱们星期一碰头吧，好不好？
+
+## 5. 感叹句的反意疑问句
+
+感叹句的反意疑问句中的主语和谓语应根据具体内容而定,但一律用否定式提问。如:
+
+What a clever girl, isn't she? 多么聪明的女孩啊, 不是吗?
+
+## 6. 特殊句式的反意疑问句
+
+(1)陈述部分是 I'm... 结构时,其后的反意疑问句用 aren't I。如:
+
+I am not seriously ill, aren't I? 我病得不重, 是吗?
+
+(2) 当陈述部分含有 need, dare 时, 反意疑问句部分有两种形式: 作情态动词时保留自身; 作实义动词时反意疑问句应借助于助动词 do/does/did 来完成。如:
+
+You needn't go there, need you? 你不必去那里, 是吗?
+(情态动词)
+
+He needs to start at once, doesn't he? 他需要立刻出发，关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+
+(3)陈述部分是 I wish... 时, 反意疑问句用 may I, 表示询问或征求意见。如:
+
+I wish to be allowed to smoke here, may I? 我希望我被允许在这里吸烟, 可以吗?
+
+(4) 当陈述句含有 used to 时, 反意疑问句用 did(也可用 used)。如:
+
+He used to get up early, didn't he/usedn't he? 他以前常常早起，是吗？
+
+(5) 当陈述句是以 so 开头的句式时, 表明说话者已经知道了答案, 并非要对方回答, 前后保持语意一致以确认信息而已。如:
+
+So you don't want to see the film, don't you? 所以你不想看电影，是吗？
+
+## (三)祈使句
+
+用于表达命令、请求、劝告、警告、禁止、叮嘱、号召等的句子叫作祈使句，祈使句最常用于表达命令，因此在文法中也常称为命令句。祈使句因对象（即主语）是第二人称，所以通常都省略。祈使句的动词都为一般现在时。祈使句句末用感叹号或句号，朗读时，常用降调。在表达请求或劝告时，在祈使句前或句末可加上please，以使句子的语气更加缓和或客气。祈使句一般没有时态的变化，也不能与情态动词连用。如：
+
+Keep off the grass! 勿踩草地!
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+Put the boxes in the small room, please.请把哪些盘子放
+
+到那个小房间里。
+
+## 1. 祈使句的肯定句式
+
+(1) Do 型。即: 动词原形 (+ 宾语) + 其他成分。如:
+
+Leave her where she is! 让她留在原地!
+
+【注意】有的祈使句在意思明确的情况下,动词可省略。如:
+
+This way, please. = Go this way, please. 请这边走。
+
+(2) Be 型。即: Be + 表语 (名词或形容词) + 其他成分。如:
+
+Be careful when crossing the street. 过马路时要小心。
+
+(3) Let 型。即: Let + 宾语 + 动词原形 + 其他成分。如:
+
+Let him go back now. 让他现在回去吧。
+
+## 2. 祈使句的否定句式
+
+祈使句的否定句式,通常情况下是在句首加上 Don't 或 Never,一般分为以下四种类型:
+
+(1) 在祈使句的肯定句式前加 Don't, 构成 Don't + 行为动词原形 + 其他成分。如:
+
+Don't say that again! 别再那样说了!
+
+(2) 在 Be 动词引起的肯定祈使句前加 Don't, 构成 Don't be + 其他成分 (形容词、名词或介词短语等)。如:
+
+Don't be late for school! 上学不要迟到!
+
+(3) Let 引起的祈使句的否定形式有两种: ① 如果是以关注分众号[英语主播皮力]获取 PETS 真题及私域备考资料 Let s 开头的祈使句, 必须在 Let s 后加注。② 其他以 Let开头的祈使句,可在 Let 前加 Don't,也可在 Let 后的名词或代词后面加 not。如:
+
+Let's not tell her the truth whenever we meet her. 无论什么时候我们碰到她, 都不要告诉她真相。
+
+Don't let her disturb you! = Let her not disturb you! 别让她妨碍你。
+
+(4) 在公共场合的提示语中, 否定祈使句常用 No + 名词/v-ing 形式结构, 表示禁止做某事。如:
+
+No smoking! 禁止吸烟! = Let there be no smoking!
+
+No fishing! 禁止钓鱼! = Let there be no fishing!
+
+【注意】“why not + 动词原形”或“you’d better/best + do sth.”等结构可以表示祈使概念，用来表达方式，提出委婉和建议，指责，反问等。如：
+
+Why not try going there by train? 为什么不试试坐火车去那儿呢？
+
+## 3. 祈使句的回答
+
+祈使句的动作通常是将来要发生的动作,所以回答祈使句时,一般用 will 或 won't。在回答具有否定意义的祈使句时,要注意两点:一是形式一致,即 Yes 与 will 保持一致;No 与 won't 保持一致。二是意思相反,即 Yes 是“不”的意思;No 是“是”的意思。在回答时,要注意分析上下文语境中所提供的条件。如:
+
+—Don’t go out, please. It’s raining heavily outside. 请不要出去。外面两个得很好。
+
+—Yes, I will. I have to meet my brother at the airport. 不行, 我得去机场接我弟弟。
+
+## 4. 带主语的祈使句
+
+为了加强语气或指明同谁说话,可在动词前加上主语。加上主语时,由于是面对面说话并直呼其名,故不论第几人称,动词均用原形,不考虑主谓一致的问题。如:
+
+You put on more clothes. It's cold outside. 你多穿点衣服。外面冷。
+
+## 5. 特殊形式的祈使句
+
+在英语中,有些祈使句不是以动词原形来引起的,而是由一个名词短语来充当,且后接一个带有并列连词的分句。实际上,这个充当祈使句的名词短语相当于一个条件状语从句。如:
+
+More water and the young trees couldn't have died. = If you had given them more water, the young trees couldn't have died. 如果你给那些小树多浇点水，它们就不会死了。
+
+## 6. 祈使句与陈述句的并列使用
+
+祈使句后接陈述句时,须用连词连接。如果祈使句与陈述句表示的是一种顺承关系,要用并列连词 and 来连接;如果祈使句与陈述句存在一种否定条件关系时,要用并列连词 or 来连接。如:
+
+Be patient and we'll look into it soon. 耐心点,我们很快就会调查此事的。
+
+关注公众号[英语主播皮卡丘]获取PETS真题及私域备考资料
+Use your head, or you won I find a way. 外动脑筋, 否则
+
+你就找不到办法。
+
+## 7. 祈使句与条件状语从句的连用
+
+祈使句与条件状语从句连用时,条件状语从句可置于祈使句前或后。如:
+
+Tell him to make a phone call to me if he comes here tomorrow. 如果他明天来这儿的话，叫他给我来个电话。
+
+## (四) 感叹句
+
+感叹句是表达喜、怒、哀、乐以及惊奇、惊讶等强烈感情的句子。感叹句通常由 what 或 how 引导。what 和 how 与所修饰的词置于句首，其他部分用陈述句语序。感叹句在表示激动强烈的感情时，口语中常常采用省略句，其后面的主语和谓语往往略去不讲。如：
+
+What an honest boy( he is)! 多么诚实的孩子呀!
+
+## How wonderful(it is)! 精彩极了!
+
+## 1. 由 what 引导的感叹句
+
+what 意为多么,用作定语,修饰名词(被强调部分),单数可数名词前要加不定冠词 a/an,复数可数名词或不可数名词前不用冠词。这类句子的结构形式是:
+
+(1) What + a/an + 形容词 + 可数名词单数 (+ 主语 + 谓语)! 如:
+
+What a good time they are having! 他们玩得多快活啊！
+
+What an interesting book it is! 它是一本多么有趣的书啊！
+
+关注公众号[英语传播皮卡丘]获取BETS真题及私域备考资料
+
+语)! 如:
+
+What beautiful flowers these are! 这些是多么美丽的花啊！
+
+What good children they are! 他们是多么好的孩子啊！
+
+(3) What + 形容词 + 不可数名词 (+ 主语 + 谓语)! 如:
+
+What fine weather it is today! 今天的天气多好啊!
+
+What important news it is! 多重要的新闻啊!
+
+## 2. 由 how 引导的感叹句
+
+how 意为多么,用作状语,修饰形容词或副词(被强调部分)。如果修饰形容词,则句中的谓语动词用系动词;如果 how 修饰副词,则句中的谓语动词用行为动词,这类句子的结构形式是:
+
+(1) How + 形容词/副词 (+ 主语 + 谓语)! 如:
+
+How beautiful Kate is! 凯特长得多漂亮啊!
+
+How hard they are working now! 他们干得多么起劲呀!
+
+(2) How + 形容词 + a/an + 可数名词单数 (+ 主语 + 谓语)! 如:
+
+How beautiful a girl she is! 她是个多么漂亮的姑娘啊！
+
+```txt
+(3) How + 主语 + 谓语 (+ 宾语)! 如:
+```
+
+How time flies! 光阴似箭!
+
+How he enjoys collecting stamps! 他是那么喜欢集邮啊！
+
+关注公众号[莱语主播皮卡丘]获取PETS真题及秘域备考资料，
+
+也可用 how 引导
+
+What a hot day it is! = How hot the day is! 多么热的天气呀!
+
+What tall buildings they are! = How tall the buildings are! 多么高的楼房呀!
+
+What bright sunshine it is! = How bright the sunshine is!
+多么明亮的阳光呀!
+
+4. 感叹句也可以由一个单词、词组、祈使句、陈述句等构成
+
+Good idea! (好主意!)/Wonderful! (太精彩了!)/Thank goodness! (谢天谢地!)/Here it begins! (来吧,开始啦!)
+
+## (五) There be 句型
+
+There be 句型是英语中陈述事物客观存在的常用句型, 表示“有”, 其确切含义是“存在”。there 本身没有意义, 动词 be 的某些形式作为谓语动词, 它的主语是一些表示泛指或不定特指的名词词组, 动词 be 和主语的数必须一致。句子最后通常为表示地点和时间的状语。因此要表达“某个地方或某个时间存在什么事物或人”的时候常用 “There be + 名词 + 地点(时间)” 这一句型。如:
+
+There is a great Italian deli across the street. 穿过街道，有一家大型意大利熟食店。
+
+There are some students in the dormitory. 在宿舍里有一关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料一些学生。
+
+## 1. There be 句型中的主谓一致
+
+当动词 be 后所接的名词是单数可数名词或不可数名词时, be 应该取单数 is; 当其后所接的名词是复数的可数名词时, be 用复数 are。如果 There be 后面是几个并列名词作主语, 动词 be 的形式和最靠近它的那个名词保持数的一致。如:
+
+There is some apple juice in the bottle. 瓶子里有些苹果汁。
+
+There are some strangers in the street. 大街上有一些陌生人。
+
+## 2. There be 句型中的时态
+
+(1) There be 句型中动词 be 可以有一般现在时、一般过去时、将来时和完成时等。如：
+
+There is no harm in trying. 不妨一试。
+
+There were fabulous wildflowers in the hills last spring. 去年春天，山中有极美的野花。
+
+There will be a fine day tomorrow. 明天将是一个晴天。
+
+There have been several private schools in our area this year. 今年,我们这里已经有好几所私立学校了。
+
+(2) There be 句型可以和各种助动词、情态动词连用。如：
+
+The light is on. There must be someone in the office. 灯亮着, 办公室里肯定有人。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+There can't have been much traffic so late at night. 这么
+
+晚了，街上的车辆不会太多。
+
+There used to be a hospital there before the war. 战前,那里曾经有家医院。
+
+## 3. There be 句型的变体
+
+(1) There be 句型也可以变为 There + happen to (碰巧), appear/seem to (似乎), be going to (将会), used to (曾经), be likely to (很可能), be bound to (必定) 等 + be。如:
+
+There happened to be an old friend of mine in the club. 在那个俱乐部碰巧有我的一个老朋友。
+
+There appear to be several reasons for changing our plans. 看来改变我们的计划有几个理由。
+
+(2) there be 句型中除可以用 be 外, 还可以用其他表示存在概念的不及物动词如 exist, remain, happen, come, occur, arise, stand, lie, live 等。如:
+
+There came a scent of lime-blossom. 飘来一阵菩提树的花香。
+
+4. There be 句型的否定句、一般疑问句、特殊疑问句和反意疑问句
+
+(1) There be 句型的否定句有两种构成方式,一种是将否定副词 not 放在 be 之后,另一种是在主语前加上不定代词 no。如:
+
+There will be no one at home tomorrow morning. 明天上午不会有人在家。
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
+There is no one but longs to succeed in his career. 怨怕没
+
+有人不渴望事业成功的。
+
+(2) There be 句型的一般疑问句是将 be 放在 there 之前, 回答时用 yes 或 no, 后接简单答语。如:
+
+—Have there been any letters from your mother lately? 近日你妈妈有信来吗？
+
+—Yes, there have. / No, there haven't. 是的，有的。/ 不，没有。
+
+(3) There be 句型的特殊疑问句主要有 how many 和 how much 作引导词两种情况。
+
+How many students are there in your school? 你们学校有多少学生？
+
+How much money is there in your pocket? 你口袋里有多少钱？
+
+(4) There be 句型的反意疑问句
+
+There are a lot of letters in the mailbox, aren't there? 邮筒里有很多信件, 是吗?
+
+There will be a new hospital nearby, won't there? 附近要建一家新医院, 是吗?
+
+5. There be 句型和 have 的区别与联系
+
+(1) there be 表示存在,强调某地有某物,不表示所属关系;have 表示所有关系,强调某人或某地有某物,这是其基本用法。如:
+
+There are some trees in front of the house. 房前有些树。关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料。She has three ears. 她拥有二辆汽车。（汽车是属于她的）
+
+(2) 结构不同: there be + sb./sth. + 时间/地点(副词或介词短语); sb./sth. + have + sb./sth. else。若表示部分与整体关系,有时用两种表达方式都可以。如:
+
+A week has seven days. = There are seven days in a week. 一周有七天。
+
+6. There be 句型的非谓语动词形式
+
+(1) there being 结构作名词, 直接位于句首作主语, 通常用 it 作形式主语, 并且用 for 引导。如:
+
+There being a bus stop near my house is a great advantage. 我家旁边有个公共汽车站，很是方便。
+
+(2) there be 结构作宾语时,通常用 there to be,常作这样一些词的宾语: expect, like, mean, intend, want, prefer, hate 等。如:
+
+I want there to be a vase with fresh flowers on the table. 我希望桌子上有一瓶鲜花。
+
+(3)作介词宾语时,如果是介词 for, 只能用“there to be”, 其他介词用“there being”。如:
+
+The teacher was waiting for there to be complete silence. 老师在等着大家都安静下来。
+
+I never dreamed of there being any good chance for me. 我做梦也没想到我会有好机会。
+
+(4)作状语的 there be 形式,通常用“there being”结构。
+
+7. 含有 there be 的几个特殊句型
+关注公众号[英语主播皮卡丘]获取PETS喜题及私域备考资料
+There is no point in V-ing: 做没道理, 没用, 没必要
+
+There is no use in + v-ing: 做…毫无用处
+
+There is no sense in + v-ing: 做…毫无道理
+
+There is no need to do: 做…没有必要
+
+## (六) 倒装句
+
+倒装是一种语法手段,用于表示一定的句子结构或强调某一句子成分。倒装句有两种:部分倒装和完全倒装。
+
+## 1. 部分倒装
+
+(1) 当句首为否定或半否定词 never, neither, nor, little, seldom, hardly, scarcely, in no way, few, not, no 等时, 应用部分倒装, 句子结构是否定/半否定词 + 助动词 + 主语 + 谓语。如:
+
+当句首为否定或半否定词 never, neither, nor, little, seldom, hardly, scarcely, in no way, few, not, no 等时，应用部分倒装，句子结构是否定/半否定词 + 助动词 + 主语 + 谓语。如：
+
+I shall never forgive him. → Never shall I forgive him. 我永远不会宽恕他。
+
+She hardly has time to listen to music. → Hardly does she have time to listen to music. 她几乎没有时间听音乐。
+
+He did not make a single mistake. → Not a single mistake did he make. 他不犯一个错。
+
+【注意】某些起副词作用的介词短语,由于含有否定词,若位于句首,其后要用部分倒装;但是,in no time(立即,马上)位于句首时,其后无需用倒装语序。如:
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 On no accounts must this switch be touched. 这个异类是
+
+绝不能触摸的。
+
+Under no circumstances will I lend money to him. 无论如何我也不会借钱给他。
+
+In no time he worked out the problem. 他马上就算出了那道题。
+
+(2) only 修饰时间、地点、方式、原因等状语位于句首时,应用部分倒装。如:
+
+Only then did he realize that he was wrong. 到那时他才意识到他错了。
+
+Only in this way can we solve the problem. 只有这样,我们才能解决这个问题。
+
+Only when you told me did I know her name. 直到你告诉我, 我才知道她的名字。
+
+【注意】如果 only 修饰的不是状语,则句子不倒装。如:
+
+Only Uncle Li knows how it happened. 只有李叔叔知道这件事是怎么发生的。
+
+(3) “so + 形容词/副词” 和 such 及 “such + 形容词 + 名词” 置于句首时, 应用部分倒装。如:
+
+So fast does light travel that we can hardly imagine its speed. 光速很快,我们几乎没法想象它的速度。
+
+Such is Zhong Cheng, a kind and helpful student. 这就是仲成，一个善良、乐于助人的学生。
+
+Such good players are they that they often win. 他们是好队员，所以他们经常获胜。
+
+(4) 表示对前者的陈述也适用后者时, 肯定倒装用“so + 助动词/情态动词 + 后者”, 否定倒装用“neither/nor + 助动词/情态动词 + 后者”。如:
+
+She likes music and so do I. 她喜欢音乐,我也喜欢。
+
+If she doesn't go there tomorrow, neither/nor will I. 如果她明天不去那儿，我也不去。
+
+【注意】“so + 助动词/情态动词 + 主语”与“so + 主语 + 助动词/情态动词”的区别：前者表示所说的主语和前面主语的情况一样，所谈到的是两个人或物，意为“…也是这样”；后者所谈为同一人或物，说话者表示同意前者的观点，意为“的确如此”。如：
+
+—Li Lei likes sports. 李雷喜欢运动。
+
+—So he does and so do I. 他的确喜欢,我也是。
+
+(5) 由 not only... but also... 引起的并列句, 若将 not only 置于句首, 该分句应部分倒装, but also 引导的分句不倒装。而由 neither... nor... 引起的并列句, neither 和 nor 置于句首时两个分句都倒装。如:
+
+Not only is he a teacher, but he is also a poet. 他不仅是一位教师，而且是一位诗人。
+
+Neither does he watch TV, nor does he see films in the evening. 他晚上既不看电视也不看电影。
+
+(6) 在句型 No sooner... than, Scarcely... when, Hardly... when 中, 主句应倒装, 从句不倒装。如:
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料 Hardly had they gone out of the classroom when it began to
+
+rain. 他们刚刚离开教室就下起雨了。
+
+No sooner had we reached the airport than the plane took off. 我们刚到机场，飞机就起飞了。
+
+(7) 对于 not... until 句型, 当 not until... 位于句首时, 其后的主句要用倒装语序。如:
+
+Not until the rain stopped did he leave the room. 雨停了之后他才离开这房间。
+
+(8) 当 if 引导的虚拟条件从句中含有 had, were, should 等时, 如将 if 省略, 则要将 had, were, should 等移到主语前, 构成倒装句。如:
+
+Had you come yesterday, you would have seen him. 若你昨天来，你就会见到他了。
+
+Were it not for your help, I would still be homeless. 要不是你的帮助,我会仍然无家可归。
+
+【注意】省略 if 后提前的 had 不一定是助动词。如：
+
+Had I money, I would buy it. 假若我有钱，我就会买它。
+
+## 2. 完全倒装
+
+(1) 以 here, there, now, then, out, in, up, down, off, away 等地点、时间或方向性副词开头的句子，且句子主语是名词时，句子用完全倒装。即整个句子成了“状语 + 谓语 + 主语”结构。如：
+
+Here comes the bus. 公交车来了。
+
+Then came a new difficulty. 这时又产生了一个新的困难。关注公众号[英语主播皮卡丘]获取 RETS 真题及私域备考资料。The door opened and in came Mr. Li. 何开宇，李先生进
+
+来了。
+
+【注意】若主语为代词,则不用倒装。如:
+
+The door opened and in she came. 门开了, 她走了进来。
+
+(2) 当表示地点的介词短语位于句首, 且主语为名词时, 应用完全倒装。如:
+
+On a hill in front of them stands a great castle. 在他们面前的山上矗立着一座巨大的城堡。
+
+Around the lake are some tall trees. 湖的四周有些高树。
+
+In front of the tower flews a stream. 塔前有条小溪。
+
+(3)作表语的形容词、现在分词、过去分词等较短,而主语相对比较长,为了保持句子平衡而将表语前置时,句子的主谓也应完全倒装。如:
+
+Gone are the days when we Chinese were looked down upon. 中国人民被歧视的日子已成为过去。
+
+Present at the meeting were the manager, all the designers and the writer. 出席会议的有经理、所有设计师和作者。
+
+(4) 在 there be 结构中, be 动词之后为句子的主语, 属完全倒装, be 应与主语保持一致。除 be 动词以外, 能与 there 连用的动词还有 seem, exist, happen, appear, live, stand 等。如:
+
+There were a lot of people in the park last Sunday. 上周日公园里有很多人。
+
+Once there lived a king who was cruel to his people. 从前关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料有一位对人民很残暴的国土。
+
+(5)某些表示祝愿的句子也可用完全倒装(或部分倒装)。如：
+
+Long live the Communist Party of China! 中国共产党万岁!
+
+May you succeed! 祝你成功!
+
+## (6) as 引导的让步状语从句
+
+Old as he was, he insisted on going with us. 尽管他很老了，他仍坚持与我们同行。
+
+Hard as he worked, he failed. 尽管他很刻苦，他仍失败了。
+
+## (七)省略句
+
+省略是为了避免重复、突出新信息并使上下文紧密连接的一种语法修辞手段。省略在语言中，尤其在对话中，是一种十分普遍的现象。
+
+## 1. 句法上的省略
+
+## (1) 简单句中的省略
+
+①感叹句中常省略主语和谓语。如：
+
+What a hot day (it is)! 多热的天啊!
+
+②在一些口语中可以省略某些句子成分。如：
+
+(Will you) Have a smoke? 你抽烟吗?
+
+(Is there) Anything else to say? 还有别的要说吗?
+
+## (2) 并列句中的省略
+
+①在一些并列句中,由于前面已经出现了相同的主语,为了避免重复,后一个分句的主语也常常省略。如:
+
+Danny gave up smoking for a while, but (he) soon returned to his old habit. 月尼成了一阵子烟，可很快又开始抽了。
+
+②如果主语不同,而谓语中的一部分相同,则省略谓语中相同的部分。如:
+
+John was the winner in 1994 and Bob (was the winner) in 1998. 约翰是 1994 年的获胜者, 鲍勃是 1998 年的获胜者。
+
+③主语相同,谓语也相同,则两者都可以省略。如:
+
+He advised me not to say anything until (I am) asked. 他劝我什么都别说,除非有人要我说。
+
+## (3) 复合句中的省略
+
+①宾语从句中的省略:在宾语从句中常省略连词 that, 但当及物动词之后跟两个或两个以上的宾语从句时, 只有第一个连词 that 可以省略。如:
+
+I know (that) she is a teacher and that she is an excellent writer. 我知道她是一个老师，也是一个优秀的作家。
+
+②状语从句中的省略：在一些状语从句中，如果谓语动词是 be，主语又和主句的主语一致，或者主语是 it，常常可以把从句中的主语和 be 省略掉。如：
+
+Remain one of the common people while (you are) serving as officials. 既当官，又当老百姓。
+
+Though (they were) tired, they went on working. 虽然累了,但他们继续工作。
+
+You shouldn't come to his party unless (you are) invited. 除非你被邀请，否则你不应来参加他的晚会。
+
+He opened his mouth as if (he were going) to say something. 他张开，著，对像要说和言话的。真题及私域备考资料
+
+③在比较状语从句中通常把和主句重复的部分省掉。如：
+
+James enjoys the theatre more than Susan. 詹姆斯比苏珊更喜欢戏剧。(Susan 后面省略了 enjoys the theatre)
+
+He is working harder than before. 他现在工作比过去努力多了。(than 后面省略了 he worked)
+
+## ④定语从句中的省略
+
+a. 一般说来, 在限制性定语从句中, 作宾语的关系代词 that, which, who, whom 可以省略; 而在非限制性定语从句中作宾语的关系代词不可以省略。如:
+
+The man (whom) you saw yesterday fell ill. 你昨天见到的那个人病倒了。(whom 可以省)
+
+The man, whom you saw yesterday, fell ill. 那个人病倒了，你昨天见到他了。（whom 不可以省）
+
+b. 当先行词是 way, 并且引导词在定语从句中作方式状语时, 引导词可以用 in which 或 that, 也可以省略。如:
+
+The way(in which/that) these comrades treat problems is wrong. 这些同志看待问题的方式是错误的。
+
+## 2. 词法上的省略
+
+## (1) 不定式 to 后省略动词
+
+动词不定式中动词原形部分是否省略,主要看上文是否出现过同样的动词。如果上文出现过同样的动词,为了避免重复,后面的不定式常省略动词,而保留不定式符号to。如:
+
+关注公众号[英语主播皮卡丘]获取RETS真题及私域备考资料 I asked him to see the film, but he didn't want to (see the
+
+film). 我请他去看电影,但他不想去。
+
+They may go if they wish to (go). 如果他们想去, 他们就可以去。
+
+## (2)介词的省略
+
+一些与动词、名词或形容词一起搭配的介词常常被省略，而保留其后的动名词，常见句型有：have difficulty/trouble (in) doing sth., be busy (in) doing sth., stop/prevent sb. (from) doing sth. 等。如：
+
+The heavy rain prevented him (from) arriving there on time. 大雨使得他没准时到达那里。
+
+## (3) 冠词的省略
+
+两个名词并列时,第二个名词前的冠词常可省略。作同位语、补语等的表独一无二的职位、头衔的名词前也省略冠词。此外,在英语新闻标题、告示中,经常省略冠词。如:
+
+Is the baby a boy or (a) girl? 婴儿是男是女?
+
+They elected John (the) monitor of the class. 他们选约翰当班长。
+
+A man and (a) woman are talking in the office. 办公室里一男一女正在谈话。
+
+People Rebuild Homes After Flood 洪水退后人民重建家园(新闻标题 = The People Rebuild Their Homes After the Flood)
+
+关注公众号[英语主播皮卡丘]获取 PETS 真题及私域备考资料
