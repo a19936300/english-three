@@ -1,0 +1,23 @@
+[project]
+name = "english-adaptive-agent"
+version = "0.1.0"
+description = "PETS-3 英语闯关自适应引擎 — 根据用户答题数据动态调整关卡难度与内容"
+requires-python = ">=3.12"
+dependencies = [
+    "deerflow-harness",
+    "supabase",
+    "httpx",
+    "python-dotenv",
+]
+
+[tool.uv.sources]
+deerflow-harness = { path = "../../deer-flow/backend/packages/harness" }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

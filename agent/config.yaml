@@ -1,0 +1,27 @@
+# DeerFlow config for english-adaptive-agent
+config_version: 5
+
+models:
+  - name: cc
+    display_name: Custom Claude
+    use: deerflow.models.claude_provider:ClaudeChatModel
+    model: gpt-4o
+    anthropic_api_key: sk-FnSkIhmI7SL3Wj6f785oqJXu89feO6rMeMMrIJtX8lBlMKuT
+    anthropic_api_url: http://127.0.0.1:15721
+    max_tokens: 128000
+    max_retries: 2
+
+sandbox:
+  use: deerflow.sandbox.local:LocalSandboxProvider
+
+tools: []
+tool_groups: []
+
+skills:
+  path: skills
+  container_path: /mnt/skills
+
+memory:
+  enabled: false
+  injection_enabled: false
+  storage_path: .deer-flow/memory.json
