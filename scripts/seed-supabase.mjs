@@ -96,6 +96,29 @@ async function cleanupOldExam() {
   console.log(`  清理旧 exam 数据：${examIds.length} 关卡及关联子表行`);
 }
 
+// === 5b. 清理旧格式 levels（difficulty IS NULL，即迁移前遗留的旧关卡，ID 格式如 vocabulary-1 而非 vocabulary-l1-1）===
+async function cleanupOldFormatLevels() {
+  const { data: oldLevels, error: selErr } = await supabase
+    .from('levels')
+    .select('id')
+    .is('difficulty', null);
+  if (selErr) throw new Error(`查询旧格式 levels 失败: ${selErr.message}`);
+
+  if (!oldLevels || oldLevels.length === 0) {
+    console.log('  无旧格式 levels 需清理');
+    return;
+  }
+
+  const oldIds = oldLevels.map((r) => r.id);
+  for (const table of ['words', 'examples', 'questions']) {
+    const { error: delErr } = await supabase.from(table).delete().in('level_id', oldIds);
+    if (delErr) throw new Error(`清理旧格式 ${table} 失败: ${delErr.message}`);
+  }
+  const { error: delLvlErr } = await supabase.from('levels').delete().in('id', oldIds);
+  if (delLvlErr) throw new Error(`清理旧格式 levels 失败: ${delLvlErr.message}`);
+  console.log(`  清理旧格式 levels：${oldIds.length} 关卡及关联子表行`);
+}
+
 // === 6. upsert levels（id 主键，可幂等覆盖）===
 async function upsertLevels(rows) {
   if (rows.length === 0) {
@@ -133,6 +156,9 @@ console.log(
 
 console.log('\n清理旧 exam section 数据（如存在）...');
 await cleanupOldExam();
+
+console.log('\n清理旧格式 levels（difficulty IS NULL，如存在）...');
+await cleanupOldFormatLevels();
 
 console.log('\n开始写入...');
 await upsertLevels(aggregated.levels);
