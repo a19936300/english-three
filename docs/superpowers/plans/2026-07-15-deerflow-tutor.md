@@ -842,8 +842,6 @@ def handle_chat(
     )
 ```
 
-Ensure `_ERROR_HTTP` includes `"empty_message": (400, "message required")`.
-
 ```python
 # agent/agent_english/tutor/api.py
 from __future__ import annotations
