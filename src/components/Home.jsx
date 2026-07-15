@@ -1,4 +1,4 @@
-import { BookOpen, BookText, FileText, Trophy } from 'lucide-react';
+import { BookOpen, BookText, FileText, Headphones, PenLine, Mic } from 'lucide-react';
 import OwlMascot from './ui/OwlMascot.jsx';
 
 const SECTIONS = [
@@ -8,7 +8,7 @@ const SECTIONS = [
     subtitle: 'Vocabulary',
     icon: BookOpen,
     iconClass: 'vocab',
-    totalLevels: 10,
+    totalLevels: 15,
   },
   {
     id: 'grammar',
@@ -16,7 +16,7 @@ const SECTIONS = [
     subtitle: 'Grammar',
     icon: BookText,
     iconClass: 'grammar',
-    totalLevels: 8,
+    totalLevels: 14,
   },
   {
     id: 'reading',
@@ -24,15 +24,31 @@ const SECTIONS = [
     subtitle: 'Reading',
     icon: FileText,
     iconClass: 'reading',
-    totalLevels: 6,
+    totalLevels: 8,
   },
   {
-    id: 'exam',
-    title: '真题',
-    subtitle: 'Exam',
-    icon: Trophy,
-    iconClass: 'exam',
-    totalLevels: 5,
+    id: 'listening',
+    title: '听力',
+    subtitle: 'Listening',
+    icon: Headphones,
+    iconClass: 'listening',
+    totalLevels: 8,
+  },
+  {
+    id: 'writing',
+    title: '写作',
+    subtitle: 'Writing',
+    icon: PenLine,
+    iconClass: 'writing',
+    totalLevels: 8,
+  },
+  {
+    id: 'speaking',
+    title: '口试',
+    subtitle: 'Speaking',
+    icon: Mic,
+    iconClass: 'speaking',
+    totalLevels: 7,
   },
 ];
 

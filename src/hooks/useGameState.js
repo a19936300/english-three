@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 
-const STORAGE_KEY = 'pets3_game_state_v1'
+const STORAGE_KEY = 'pets3_game_state_v2'
 const MAX_HEARTS = 5
 const HEART_REGEN_MINUTES = 30
 
@@ -46,7 +46,9 @@ function getDefaultState() {
       vocabulary: 0, // highest unlocked level index
       grammar: 0,
       reading: 0,
-      exam: 0,
+      listening: 0,
+      writing: 0,
+      speaking: 0,
     },
     dailyGoal: 20, // XP per day
     dailyXp: 0,

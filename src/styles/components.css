@@ -221,6 +221,15 @@
 .skill-card__icon--exam {
   background: var(--skill-exam);
 }
+.skill-card__icon--listening {
+  background: var(--skill-listening);
+}
+.skill-card__icon--writing {
+  background: var(--skill-writing);
+}
+.skill-card__icon--speaking {
+  background: var(--skill-speaking);
+}
 
 .skill-card__label {
   font-family: var(--font-display);
@@ -261,6 +270,15 @@
 }
 .skill-card__progress-fill--exam {
   background: var(--skill-exam);
+}
+.skill-card__progress-fill--listening {
+  background: var(--skill-listening);
+}
+.skill-card__progress-fill--writing {
+  background: var(--skill-writing);
+}
+.skill-card__progress-fill--speaking {
+  background: var(--skill-speaking);
 }
 
 /* Achievement Strip */

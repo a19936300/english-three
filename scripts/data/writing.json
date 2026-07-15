@@ -1,0 +1,741 @@
+{
+  "levels": [
+    {
+      "id": "writing-l1-1",
+      "section": "writing",
+      "level_no": 1,
+      "difficulty": "l1",
+      "title": "应用文格式",
+      "description": "书信、通知、便条等应用文格式",
+      "icon": "✏️",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 应用文格式要点\n\n应用文是 PETS-3 写作的常考文体，主要包括书信（letter）、通知（notice）、便条（note）等。掌握规范格式是写作得分的第一步。\n\n### 一、书信格式\n书信一般由六部分组成：\n1. **称呼（Salutation）**：左上角顶格写，如 Dear Sir/Madam, Dear Mr. Smith, 后用逗号。\n2. **正文（Body）**：每段开头缩进 4-5 个字母，或顶格写段间空一行。\n3. **结尾客套（Closing）**：如 Yours sincerely, Yours faithfully, Best regards, 后加逗号。\n4. **署名（Signature）**：结尾下方，正式书信用全名。\n\n### 二、通知格式\n通知一般包含：标题 NOTICE 居中；发布日期（右上或右下）；正文（活动目的、时间、地点、要求）；发文单位（右下角）。\n\n### 三、便条格式\n便条比书信简短，包含日期、称呼、正文、署名，常用于请假、留言、借条等。\n\n格式规范是应用文的“门面”，格式错误会直接影响评分，务必牢记各部分的位置与标点。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 1
+    },
+    {
+      "id": "writing-l1-2",
+      "section": "writing",
+      "level_no": 2,
+      "difficulty": "l1",
+      "title": "常用开头结尾句型",
+      "description": "书信及作文常用开头结尾句型",
+      "icon": "✏️",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 常用开头结尾句型\n\nPETS-3 写作中，开头和结尾句型决定了文章的“印象分”。背诵并灵活运用经典句型，能让文章结构清晰、语言地道。\n\n### 一、开头句型\n1. **写信目的**：I am writing to inform you that... / I am writing to express my concern about...\n2. **感谢来信**：Thank you for your letter dated May 10th.\n3. **回应询问**：In response to your inquiry, I would like to...\n4. **自我介绍**：I am Li Hua, a senior from XYZ University.\n\n### 二、结尾句型\n1. **期待回复**：I look forward to your early reply. / Looking forward to hearing from you.\n2. **再次感谢**：Thank you again for your attention to this matter.\n3. **请求帮助**：Any assistance you can provide would be greatly appreciated.\n4. **正式收尾**：Yours sincerely, / Yours faithfully,\n\n开头结尾句型应与文体匹配：正式书信用正式句型，朋友间书信可稍显亲切。避免开头过于突兀，结尾要有礼貌地收束。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 2
+    },
+    {
+      "id": "writing-l1-3",
+      "section": "writing",
+      "level_no": 3,
+      "difficulty": "l1",
+      "title": "高级替换词表",
+      "description": "用高级词汇替换低级词汇提升文采",
+      "icon": "✏️",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 高级替换词表\n\n在 PETS-3 写作中，用高级词汇替换低级词汇是提升文采的关键技巧。阅卷老师更青睐词汇丰富、表达地道的文章。\n\n### 一、动词替换\n- think of → occur to / come up with\n- spend → devote\n- want / look for → seek\n- thank → appreciate\n\n### 二、形容词/副词替换\n- very → more than / nothing but / anything but\n- ordinary → average\n- good → perfect / excellent\n\n### 三、短语替换\n- because of → due to / owing to\n- as soon as → on + n.（On his arrival...）\n- be helpful to → contribute to\n- usually → more often than not\n- save → set aside\n\n### 四、句型替换\n- have to → can not but / can not help but\n- so that → lest（should）\n- be interested in → be absorbed in / be caught up in\n\n替换时要注意语境与词性搭配，避免生硬套用。多读多背，才能在写作时自然运用。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 3
+    },
+    {
+      "id": "writing-l2-1",
+      "section": "writing",
+      "level_no": 1,
+      "difficulty": "l2",
+      "title": "邀请信与求职信",
+      "description": "邀请信与求职信的写作模板与句型",
+      "icon": "📝",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 邀请信与求职信\n\n邀请信和求职信是 PETS-3 应用文的两大高频题型，掌握其结构与句型至关重要。\n\n### 一、邀请信（Invitation Letter）\n结构：\n1. **开头**：I am greatly honored to formally invite you to...\n2. **正文**：说明活动时间、地点、内容及邀请原因\n3. **结尾**：We look forward to the pleasure of your company. / Please confirm your attendance.\n\n要点：语气热情但礼貌，活动信息（时间、地点）务必清晰准确。\n\n### 二、求职信（Application Letter）\n结构：\n1. **开头**：I am writing to apply for the position of... advertised in...\n2. **正文**：陈述资历、经验、性格优势\n   - I am sure that I am qualified for it.\n   - Not only do my qualifications... my cheerful personality is well suited to...\n3. **结尾**：Should you be interested, I will be available for an interview. / I would appreciate the opportunity to discuss my qualifications.\n\n要点：突出与岗位匹配的优势，语气自信但不自夸，结尾表达面试意愿。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 4
+    },
+    {
+      "id": "writing-l2-2",
+      "section": "writing",
+      "level_no": 2,
+      "difficulty": "l2",
+      "title": "投诉信与道歉信",
+      "description": "投诉信与道歉信的写作模板与句型",
+      "icon": "📝",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 投诉信与道歉信\n\n投诉信和道歉信是 PETS-3 写作的重要题型，要求语气得体、逻辑清晰。\n\n### 一、投诉信（Complaint Letter）\n结构：\n1. **开头**：I am writing to express my dissatisfaction with... / I am writing to complain about...\n2. **正文**：具体说明问题（时间、地点、经过）\n   - I was shocked to find that...\n   - To make matters worse,...\n3. **结尾**：提出诉求\n   - I insist that you refund / replace / apologize.\n   - I hope you will take this matter seriously.\n\n要点：陈述事实客观，诉求合理，语气坚定但不粗鲁。\n\n### 二、道歉信（Apology Letter）\n结构：\n1. **开头**：I am writing to apologize for... / Please accept my sincere apologies for...\n2. **正文**：说明原因并提出补救\n   - The reason is that...\n   - I would like to make up for it by...\n3. **结尾**：再次致歉\n   - Once again, I am sorry for any inconvenience caused.\n\n要点：态度诚恳，原因真实，主动提出补救措施。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 5
+    },
+    {
+      "id": "writing-l2-3",
+      "section": "writing",
+      "level_no": 3,
+      "difficulty": "l2",
+      "title": "议论文模板",
+      "description": "议论文三段式结构与连接词",
+      "icon": "📝",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 议论文模板\n\n议论文是 PETS-3 写作的重要文体，要求观点鲜明、论证充分、结构清晰。\n\n### 一、三段式结构\n1. **开头段**：引出话题，表明观点\n   - Nowadays, there is a growing concern over...\n   - Opinions vary from person to person. Some believe..., while others argue...\n   - As far as I am concerned, I agree with...\n\n2. **主体段**：论证观点（举例、对比、因果）\n   - On the one hand,... On the other hand,...\n   - For one thing,... For another,...\n   - Take... for example.\n\n3. **结尾段**：总结重申\n   - From what has been discussed above, we may safely draw the conclusion that...\n   - In a word / In conclusion,...\n   - Only in this way can we...\n\n### 二、常用连接词\n- 表列举：first, second, besides, moreover, furthermore\n- 表转折：however, nevertheless, on the contrary\n- 表因果：therefore, consequently, as a result\n- 表总结：in conclusion, to sum up, in a word\n\n论证要有理有据，避免空喊口号；连接词能让行文连贯，提升逻辑分。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 6
+    },
+    {
+      "id": "writing-l3-1",
+      "section": "writing",
+      "level_no": 1,
+      "difficulty": "l3",
+      "title": "10篇黄金范文精选",
+      "description": "精选高分范文片段赏析",
+      "icon": "📄",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 黄金范文精选赏析\n\n本关精选 PETS-3 高分范文，覆盖环保、友谊、助人、英雄、倾听等热门话题。通过研读范文，学习其结构、词汇与句式。\n\n### 范文赏析要点\n1. **结构清晰**：三段式——引入、展开、总结\n2. **词汇丰富**：用 occur、devote、contribute to 等高级词替换低级词\n3. **句式多样**：穿插倒装、定语从句、强调句\n4. **衔接自然**：firstly、secondly、in a word 等连接词\n\n### 范文主题分类\n- **环保类**：My Low-carbon Life、How to Be a Greener Person\n- **情感类**：Friends、The Hero in My Heart、Thank you, my...\n- **思辨类**：Should We Help Strangers?\n- **沟通类**：Being a Good Listener\n\n### 学习方法\n1. 通读范文，理解主旨\n2. 摘抄高级词汇与句型\n3. 模仿结构练笔\n4. 对照范文修改\n\n范文是最好的“模板”，熟读十篇胜过背诵百句套话。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 7
+    },
+    {
+      "id": "writing-l3-2",
+      "section": "writing",
+      "level_no": 2,
+      "difficulty": "l3",
+      "title": "100句格言运用",
+      "description": "经典格言在写作中的运用",
+      "icon": "📄",
+      "color": "#a020f0",
+      "type": null,
+      "lesson": "## 经典格言在写作中的运用\n\nPETS-3 写作中恰当地引用格言，能为文章增色添彩，体现语言功底。本关精选高频格言并讲解其运用。\n\n### 一、格言的作用\n1. **点题**：开头引用格言引出话题\n2. **论证**：用格言佐证观点\n3. **升华**：结尾用格言提升立意\n\n### 二、运用技巧\n1. **贴切**：格言必须与主题相关，不可生搬硬套\n2. **自然**：用 As the saying goes, / As a proverb says, 引出\n3. **准确**：引用原文，不可篡改\n\n### 三、高频格言分类\n- **勤奋类**：No pain, no gain. / Practice makes perfect. / Where there is a will, there is a way.\n- **品德类**：A friend in need is a friend indeed. / Honesty is the best policy.\n- **行动类**：Actions speak louder than words. / Better late than never.\n- **哲理类**：Every coin has two sides. / Rome was not built in a day.\n\n写作中引用 1-2 句格言即可，过多反而堆砌。恰当运用能让文章“画龙点睛”。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 8
+    }
+  ],
+  "words": [],
+  "examples": [
+    {
+      "level_id": "writing-l1-1",
+      "en": "Dear Sir/Madam,\n\nI am writing to express my concern about the service I received.\n\nYours faithfully,\nLi Ming",
+      "cn": "尊敬的先生/女士：我写信反映我受到的服务问题。此致敬礼，李明（正式书信格式范例）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-1",
+      "en": "Dear Mr. Smith,\n\nThank you for your letter of May 10th.\n\nYours sincerely,\nWang Lei",
+      "cn": "尊敬的史密斯先生：感谢您5月10日的来信。此致敬礼，王磊（已知姓名时用 Yours sincerely）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-1",
+      "en": "NOTICE\n\nA lecture on English learning will be held in the hall at 2 p.m. on Friday. All students are welcome.\n\nThe Students' Union\nMay 15, 2024",
+      "cn": "通知：本周五下午2点在礼堂举行英语学习讲座，欢迎全体同学参加。学生会，2024年5月15日（通知格式范例）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-1",
+      "en": "Dear Tom,\n\nI'll be away on business tomorrow. Please feed my cat.\n\nJack\nMay 20",
+      "cn": "汤姆：我明天出差，请帮忙喂猫。杰克，5月20日（便条格式范例，简短随意）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-1",
+      "en": "To whom it may concern,\n\nThis is to certify that Li Hua has completed the training program.\n\nYours sincerely,\nThe Training Center",
+      "cn": "敬启者：特此证明李华已完成培训课程。此致敬礼，培训中心（证明信格式，致不确定收件人）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l1-2",
+      "en": "I am writing to express my concern about the poor service I received at your store.",
+      "cn": "我写信反映在贵店受到的恶劣服务。（开头句型：I am writing to + 动词原形 + 目的）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-2",
+      "en": "Thank you for your letter dated May 10th, in which you asked about our new products.",
+      "cn": "感谢您5月10日的来信，信中询问了我们的新产品。（开头句型：感谢来信并回应）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-2",
+      "en": "In response to your inquiry, I would like to provide the following information.",
+      "cn": "针对您的询问，我愿提供以下信息。（开头句型：回应询问）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-2",
+      "en": "I look forward to your early reply and any assistance you can provide.",
+      "cn": "期待您的早日回复及任何可能的帮助。（结尾句型：期待回复）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-2",
+      "en": "Any assistance you can provide would be greatly appreciated.",
+      "cn": "您能提供的任何帮助将不胜感激。（结尾句型：礼貌请求帮助）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l1-3",
+      "en": "Suddenly I had an idea that someone had broken into my house. → An idea occurred to me that someone had broken into my house.",
+      "cn": "我突然想到有人闯入了我的家。（用 occur to 替换 think of，更地道）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-3",
+      "en": "He spends all his spare time in reading. → He devotes all his spare time to reading.",
+      "cn": "他把所有业余时间都用于阅读。（用 devote 替换 spend，更书面化）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-3",
+      "en": "Thank you very much for your help. → We appreciate your help very much.",
+      "cn": "非常感谢您的帮助。（用 appreciate 替换 thank，更正式）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-3",
+      "en": "He arrived late because of the storm. → He arrived late due to the storm.",
+      "cn": "他因暴风雨迟到。（用 due to 替换 because of，更书面）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-3",
+      "en": "Plenty of memory work is helpful to English study. → Plenty of memory work will contribute to English study.",
+      "cn": "大量记忆练习有助于英语学习。（用 contribute to 替换 be helpful to）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-1",
+      "en": "I am greatly honored to formally invite you to participate in the ceremony to be held at Beijing Grand Hotel from 8 to 10 p.m. on April 1.",
+      "cn": "我荣幸地正式邀请您参加4月1日晚8点至10点在北京格兰大酒店举行的仪式。（邀请信开头）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-1",
+      "en": "If you do not have any prior appointment, we look forward to the pleasure of your company.",
+      "cn": "若您此前无约，期待您的光临。（邀请信结尾，礼貌期待出席）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-1",
+      "en": "I am writing to apply for the position of computer programmer advertised in your company.",
+      "cn": "我写信申请贵公司招聘的计算机程序员职位。（求职信开头）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-1",
+      "en": "Not only do my qualifications and experience make me a perfect candidate, my cheerful personality is well suited to working as a staff member.",
+      "cn": "不仅我的资历和经验使我成为合适人选，我开朗的性格也适合担任此职。（求职信陈述优势，倒装句式）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-1",
+      "en": "Should you be interested in my application, I will be available for an interview at your convenience.",
+      "cn": "若您对我的申请感兴趣，我随时可以参加面试。（求职信结尾，表达面试意愿）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-2",
+      "en": "I am writing to express my dissatisfaction with the mobile phone I purchased from your store on May 1st.",
+      "cn": "我写信反映5月1日在贵店购买的手机的问题。（投诉信开头）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-2",
+      "en": "I was shocked to find that the screen was broken when I opened the package. To make matters worse, it could not be turned on at all.",
+      "cn": "我打开包装时震惊地发现屏幕已碎，更糟的是根本无法开机。（投诉信描述问题）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-2",
+      "en": "I insist that you replace the product or refund my money in full.",
+      "cn": "我要求贵方更换产品或全额退款。（投诉信提出诉求）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-2",
+      "en": "I am writing to apologize for missing our appointment last Friday. The reason is that I was caught in a traffic jam.",
+      "cn": "我为上周五缺席约定致歉，原因是遇到交通堵塞。（道歉信开头并说明原因）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-2",
+      "en": "I would like to make up for it by treating you to dinner this weekend. Once again, I am sorry for any inconvenience caused.",
+      "cn": "我想本周末请您吃饭作为弥补。再次为造成的不便致歉。（道歉信提出补救并再次致歉）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-3",
+      "en": "Nowadays, there is a growing concern over the relationship between parents and children. Opinions vary from person to person.",
+      "cn": "如今，亲子关系问题日益受关注，人们看法不一。（议论文开头引出话题）",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-3",
+      "en": "On the one hand, some students believe that part-time jobs can enrich their experience. On the other hand, others worry it may affect their studies.",
+      "cn": "一方面，有学生认为兼职能丰富经验；另一方面，有人担心影响学业。（议论文对比论证）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-3",
+      "en": "Take my classmate Li Hua for example. He works part-time and still ranks first in our class.",
+      "cn": "以我同学李华为例。他做兼职却仍居班级第一。（议论文举例论证）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-3",
+      "en": "From what has been discussed above, we may safely draw the conclusion that proper part-time jobs benefit students.",
+      "cn": "综上所述，我们可以得出结论：适度的兼职对学生有益。（议论文结尾总结）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-3",
+      "en": "Only in this way can we achieve a balance between study and life.",
+      "cn": "只有这样，我们才能在学习与生活间取得平衡。（议论文结尾升华，倒装句）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "The environmental pollution is worse and worse today. Many trees are cut down, and water and air are polluted. As a student, I try to have a low-carbon life to save energy and reduce pollution. Firstly, I often walk to school. Secondly, I always turn off the lights and fans when leaving the classroom.",
+      "cn": "（My Low-carbon Life）如今环境污染日益严重，森林被伐、水土空气被污染。作为学生，我践行低碳生活：步行上学、离开教室关灯关风扇。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "What are friends? I think friends are those people who can help you when you are in trouble. Don't forget the saying, 'A friend in need is a friend indeed.' You can share your happiness, trouble and worry with friends.",
+      "cn": "（Friends）朋友是困境中能帮你的人。别忘了“患难见真情”，你可以与朋友分享快乐与忧愁。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "Some think we should try to help strangers. Helping others is a virtue, and helping others is helping ourselves. In my opinion, we should try our best to help others when they are in need of help, but we should also protect ourselves from getting into trouble.",
+      "cn": "（Should We Help Strangers?）有人认为应助人，助人是美德、助人即助己。我认为应在力所能及范围内助人，同时保护好自己。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "Dr Bethune was good at performing operations. In 1938, he came to China. He opened hospitals and invented medical tools. He worked so hard that he saved thousands of Chinese people. I am deeply moved by his stories.",
+      "cn": "（The Hero in My Heart）白求恩医生擅长手术，1938年来华，建医院、发明医疗器械，救治了成千上万中国人。他的故事深深打动了我。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "Good listening can always show respect and build good relationships with people. Parents should listen to their children, so they will understand them better and trust each other. We'd better be patient while listening.",
+      "cn": "（Being a Good Listener）善于倾听能表示尊重、建立良好关系。父母应倾听孩子以增进理解与信任。倾听时最好保持耐心。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l3-1",
+      "en": "Reading is a very good habit. It can not only improve our knowledge but also make us think over more different things efficiently. Since reading can benefit us a lot, it's time for us to have our good reading habit now!",
+      "cn": "（Reading—A Good Habit）阅读是好习惯，既能增长知识又能提高思考效率。既然阅读益处多多，现在就养成阅读习惯吧！",
+      "sort_order": 5
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As the saying goes, 'A friend in need is a friend indeed.' True friends are those who stand by you when you are in trouble.",
+      "cn": "格言：患难见真情。运用：真正的朋友是在你困难时仍陪伴你的人。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As a proverb says, 'No pain, no gain.' Only through hard work can we achieve success in our study.",
+      "cn": "格言：一分耕耘一分收获。运用：只有努力学习才能取得学业成功。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As the saying goes, 'Where there is a will, there is a way.' If we hold on to our dreams, they will come true one day.",
+      "cn": "格言：有志者事竟成。运用：坚持梦想，终有一天会实现。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As a proverb says, 'Practice makes perfect.' The more you read, the better your English will be.",
+      "cn": "格言：熟能生巧。运用：读得越多，英语越好。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As the saying goes, 'Actions speak louder than words.' We should protect the environment through real deeds, not just empty talk.",
+      "cn": "格言：行动胜于言辞。运用：应用实际行动保护环境，而非空谈。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l3-2",
+      "en": "As a proverb says, 'Every coin has two sides.' We should view the Internet objectively, for it brings both convenience and problems.",
+      "cn": "格言：凡事皆有两面。运用：应客观看待互联网，它既带来便利也带来问题。",
+      "sort_order": 5
+    }
+  ],
+  "questions": [
+    {
+      "level_id": "writing-l1-1",
+      "blank": null,
+      "question": "正式书信的结尾落款应使用以下哪个？",
+      "options": ["See ya!", "Yours sincerely,", "Bye bye", "Later"],
+      "answer": 1,
+      "explanation": "正式书信应使用 Yours sincerely / Yours faithfully 等正式落款，后加逗号",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-1",
+      "blank": null,
+      "question": "书信称呼 “Dear Mr. Smith” 之后应使用什么标点？",
+      "options": ["句号", "感叹号", "逗号", "冒号"],
+      "answer": 2,
+      "explanation": "英文书信称呼后通常用逗号，如 Dear Mr. Smith,",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-1",
+      "blank": null,
+      "question": "通知的标题 NOTICE 通常放在什么位置？",
+      "options": ["左下角", "右上角", "正文中部居中", "署名下方"],
+      "answer": 2,
+      "explanation": "NOTICE 一般居中放置在正文上方",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-1",
+      "blank": null,
+      "question": "下列哪项不属于书信的组成部分？",
+      "options": ["称呼", "正文", "结尾客套", "目录"],
+      "answer": 3,
+      "explanation": "书信由称呼、正文、结尾客套、署名等组成，不含目录",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-1",
+      "blank": null,
+      "question": "便条与正式书信相比，最主要的特点是？",
+      "options": ["格式更严格", "语言更简短随意", "必须用正式落款", "字数必须超过100词"],
+      "answer": 1,
+      "explanation": "便条比书信简短随意，用于留言、请假等场合",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l1-2",
+      "blank": null,
+      "question": "表达“我写信反映……”应使用哪个句型？",
+      "options": ["I am writing to express...", "I look forward to...", "Thank you for...", "See you later..."],
+      "answer": 0,
+      "explanation": "I am writing to + 动词原形 是表达写信目的的标准开头",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-2",
+      "blank": null,
+      "question": "回应对方询问的开头句型是？",
+      "options": ["In response to your inquiry...", "Yours sincerely,", "Best wishes,", "How are you?"],
+      "answer": 0,
+      "explanation": "In response to your inquiry 用于回应对方的询问",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-2",
+      "blank": null,
+      "question": "结尾表达“期待早日回复”应使用？",
+      "options": ["I look forward to your early reply.", "I am writing to...", "Dear Sir,", "Thank you for..."],
+      "answer": 0,
+      "explanation": "I look forward to your early reply 是标准的期待回复结尾句",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-2",
+      "blank": null,
+      "question": "下列哪个是正式的结尾感谢句型？",
+      "options": ["Cheers!", "Thank you again for your attention to this matter.", "Bye!", "See ya!"],
+      "answer": 1,
+      "explanation": "Thank you again for your attention to this matter 是正式结尾感谢句",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-2",
+      "blank": null,
+      "question": "开头自我介绍 “I am Li Hua, a senior from XYZ University” 中，senior 的意思是？",
+      "options": ["新生", "大四学生", "毕业生", "老师"],
+      "answer": 1,
+      "explanation": "senior 在大学语境中指大四学生",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l1-3",
+      "blank": null,
+      "question": "“I thought of a good idea” 用高级词汇替换，最佳选项是？",
+      "options": ["I had a good idea.", "A good idea occurred to me.", "I got a good idea.", "I made a good idea."],
+      "answer": 1,
+      "explanation": "用 occur to 替换 think of，A good idea occurred to me 更地道",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l1-3",
+      "blank": null,
+      "question": "下列哪个词可以替换 spend 表达更正式？",
+      "options": ["cost", "devote", "pay", "take"],
+      "answer": 1,
+      "explanation": "devote（devote time to）可替换 spend，更书面正式",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l1-3",
+      "blank": null,
+      "question": "“because of” 的高级替换短语是？",
+      "options": ["due to", "instead of", "in spite of", "apart from"],
+      "answer": 0,
+      "explanation": "due to 可替换 because of，更书面化",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l1-3",
+      "blank": null,
+      "question": "“thank” 的正式替换词是？",
+      "options": ["greet", "welcome", "appreciate", "congratulate"],
+      "answer": 2,
+      "explanation": "appreciate 可替换 thank，如 We appreciate your help",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l1-3",
+      "blank": null,
+      "question": "“be helpful to” 的高级替换是？",
+      "options": ["belong to", "contribute to", "refer to", "object to"],
+      "answer": 1,
+      "explanation": "contribute to（有助于）可替换 be helpful to，更高级",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-1",
+      "blank": null,
+      "question": "求职信开头表达“申请职位”应使用？",
+      "options": ["I am writing to apply for the position of...", "I am writing to complain about...", "I am writing to invite you to...", "I am writing to thank you for..."],
+      "answer": 0,
+      "explanation": "求职信开头用 I am writing to apply for the position of...",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-1",
+      "blank": null,
+      "question": "邀请信中正式邀请的句型是？",
+      "options": ["Come to my party!", "I am greatly honored to formally invite you to...", "Let's hang out.", "Drop by anytime."],
+      "answer": 1,
+      "explanation": "正式邀请用 I am greatly honored to formally invite you to...",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-1",
+      "blank": null,
+      "question": "求职信结尾表达“可参加面试”应使用？",
+      "options": ["I don't care.", "Should you be interested, I will be available for an interview.", "Maybe later.", "Forget it."],
+      "answer": 1,
+      "explanation": "Should you be interested, I will be available for an interview 是求职信标准结尾",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-1",
+      "blank": null,
+      "question": "邀请信结尾期待对方出席的句型是？",
+      "options": ["We look forward to the pleasure of your company.", "You must come.", "Come or not, whatever.", "See you maybe."],
+      "answer": 0,
+      "explanation": "We look forward to the pleasure of your company 是礼貌期待出席的结尾",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-1",
+      "blank": null,
+      "question": "求职信中 “Not only do my qualifications...” 使用了什么句式？",
+      "options": ["被动语态", "倒装句", "强调句", "虚拟语气"],
+      "answer": 1,
+      "explanation": "Not only 置于句首引起部分倒装，增强语气",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-2",
+      "blank": null,
+      "question": "投诉信开头表达“不满”应使用？",
+      "options": ["I am writing to express my dissatisfaction with...", "I am writing to thank you for...", "I am writing to invite you to...", "I am writing to apply for..."],
+      "answer": 0,
+      "explanation": "投诉信开头用 I am writing to express my dissatisfaction with...",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-2",
+      "blank": null,
+      "question": "表达“更糟的是”应使用？",
+      "options": ["To make matters worse,", "On the other hand,", "In addition,", "However,"],
+      "answer": 0,
+      "explanation": "To make matters worse 表示“更糟的是”，用于递进负面情况",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-2",
+      "blank": null,
+      "question": "道歉信开头 “I am writing to apologize for...” 后接？",
+      "options": ["名词或动名词", "动词原形", "形容词", "副词"],
+      "answer": 0,
+      "explanation": "apologize for 后接名词或动名词（v-ing）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-2",
+      "blank": null,
+      "question": "道歉信中提出补救措施应使用？",
+      "options": ["I would like to make up for it by...", "I insist that...", "I refuse to...", "I don't care..."],
+      "answer": 0,
+      "explanation": "I would like to make up for it by... 用于提出补救措施",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-2",
+      "blank": null,
+      "question": "投诉信提出诉求 “I insist that you ___” 中应填？",
+      "options": ["refund or replace", "sing and dance", "sleep and eat", "come and go"],
+      "answer": 0,
+      "explanation": "投诉信诉求常用 refund（退款）或 replace（更换）",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l2-3",
+      "blank": null,
+      "question": "议论文开头引出话题的句型是？",
+      "options": ["Nowadays, there is a growing concern over...", "Yours sincerely,", "Dear Sir,", "See you later."],
+      "answer": 0,
+      "explanation": "Nowadays, there is a growing concern over... 用于引出热门话题",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l2-3",
+      "blank": null,
+      "question": "表达“一方面……另一方面……”应使用？",
+      "options": ["On the one hand... On the other hand...", "Both... and...", "Neither... nor...", "Either... or..."],
+      "answer": 0,
+      "explanation": "On the one hand... On the other hand... 用于对比两方面观点",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l2-3",
+      "blank": null,
+      "question": "议论文结尾总结句型 “From what has been discussed above, we may safely ___” 中填？",
+      "options": ["draw the conclusion", "make a mistake", "take a rest", "have a try"],
+      "answer": 0,
+      "explanation": "draw the conclusion（得出结论）是议论文结尾总结句",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l2-3",
+      "blank": null,
+      "question": "“Only in this way can we...” 使用了什么语法结构？",
+      "options": ["倒装句", "被动语态", "强调句", "虚拟语气"],
+      "answer": 0,
+      "explanation": "Only + 状语置于句首引起部分倒装",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l2-3",
+      "blank": null,
+      "question": "下列哪个是表转折的连接词？",
+      "options": ["however", "moreover", "therefore", "besides"],
+      "answer": 0,
+      "explanation": "however 表转折；moreover、besides 表递进；therefore 表因果",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l3-1",
+      "blank": null,
+      "question": "“My Low-carbon Life” 范文中，作者通过什么方式践行低碳生活？",
+      "options": ["开车上学", "步行上学、关灯关风扇", "浪费水资源", "砍伐树木"],
+      "answer": 1,
+      "explanation": "作者步行上学、离开教室关灯关风扇以践行低碳生活",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l3-1",
+      "blank": null,
+      "question": "“Friends” 范文中引用的格言 “A friend in need is a friend indeed” 意思是？",
+      "options": ["患难见真情", "物以类聚", "入乡随俗", "熟能生巧"],
+      "answer": 0,
+      "explanation": "该格言意为“患难见真情”",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l3-1",
+      "blank": null,
+      "question": "“Should We Help Strangers?” 范文作者的观点是？",
+      "options": ["绝对不帮", "盲目帮人", "力所能及地帮且保护好自己", "只帮熟人"],
+      "answer": 2,
+      "explanation": "作者主张在力所能及范围内帮助他人，同时保护好自己",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l3-1",
+      "blank": null,
+      "question": "“The Hero in My Heart” 范文中白求恩医生的国籍是？",
+      "options": ["中国", "美国", "加拿大", "英国"],
+      "answer": 2,
+      "explanation": "白求恩医生（Dr Norman Bethune）是加拿大人",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l3-1",
+      "blank": null,
+      "question": "“Being a Good Listener” 范文认为倾听的好处是？",
+      "options": ["浪费时间", "表示尊重、建立良好关系", "引起误解", "破坏友谊"],
+      "answer": 1,
+      "explanation": "善于倾听能表示尊重、建立良好人际关系",
+      "sort_order": 4
+    },
+    {
+      "level_id": "writing-l3-2",
+      "blank": null,
+      "question": "“A friend in need is a friend indeed” 的意思是？",
+      "options": ["患难见真情", "物以类聚", "入乡随俗", "三思而后行"],
+      "answer": 0,
+      "explanation": "该格言意为“患难见真情”，形容真正的朋友在困境中显现",
+      "sort_order": 0
+    },
+    {
+      "level_id": "writing-l3-2",
+      "blank": null,
+      "question": "“No pain, no gain” 适合用于哪种主题的作文？",
+      "options": ["友谊", "勤奋与成功", "环保", "旅游"],
+      "answer": 1,
+      "explanation": "该格言意为“一分耕耘一分收获”，适合勤奋与成功主题",
+      "sort_order": 1
+    },
+    {
+      "level_id": "writing-l3-2",
+      "blank": null,
+      "question": "引用格言时常用的引出语是？",
+      "options": ["As the saying goes,", "In conclusion,", "However,", "For example,"],
+      "answer": 0,
+      "explanation": "As the saying goes, / As a proverb says, 是引用格言的常用引出语",
+      "sort_order": 2
+    },
+    {
+      "level_id": "writing-l3-2",
+      "blank": null,
+      "question": "“Every coin has two sides” 表达的意思是？",
+      "options": ["凡事皆有两面", "金钱万能", "珍惜时间", "团结力量大"],
+      "answer": 0,
+      "explanation": "该格言意为“凡事皆有两面”，用于辩证看待问题",
+      "sort_order": 3
+    },
+    {
+      "level_id": "writing-l3-2",
+      "blank": null,
+      "question": "“Actions speak louder than words” 的意思是？",
+      "options": ["行动胜于言辞", "言多必失", "三思而行", "事实胜于雄辩"],
+      "answer": 0,
+      "explanation": "该格言意为“行动胜于言辞”，强调实际行动的重要性",
+      "sort_order": 4
+    }
+  ]
+}

@@ -105,6 +105,12 @@
   --skill-reading-shadow: #cc7a00;
   --skill-exam: #ce82ff;
   --skill-exam-shadow: #a366cc;
+  --skill-listening: #ff4b4b;
+  --skill-listening-shadow: #cc3b3b;
+  --skill-writing: #a020f0;
+  --skill-writing-shadow: #8019cc;
+  --skill-speaking: #00b894;
+  --skill-speaking-shadow: #009378;
 
   /* ---- Typography ---- */
   --font-display: 'Nunito', 'PingFang SC', -apple-system, sans-serif;
