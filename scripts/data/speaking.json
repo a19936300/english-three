@@ -1,0 +1,639 @@
+{
+  "levels": [
+    {
+      "id": "speaking-l1-1",
+      "section": "speaking",
+      "level_no": 1,
+      "difficulty": "l1",
+      "title": "自我介绍与家乡家庭",
+      "description": "口试 Part A 自我介绍与家庭背景",
+      "icon": "🗣️",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## Part A 自我介绍口试技巧\n\n在 PETS-3 口试 Part A 中，考官会通过几个日常问题了解你的基本情况。这是热身环节，也是给考官留下第一印象的关键时刻，回答时既要简洁又要完整。\n\n**回答思路：**\n- **简短完整**：每个回答 2-3 句即可，避免过长或过短。仅回答 \"Yes/No\" 显得生硬，长篇大论则容易跑题。\n- **补充说明**：在直接回答后加上一点细节，如 \"I live in Beijing, the capital of China\" 比 \"I live in Beijing\" 更得体。\n- **真实自然**：使用自己熟悉的内容，避免背诵痕迹过重。\n\n**常见话题：**\n1. **自我介绍**：姓名、年龄、职业或学生身份\n2. **家乡**：居住地、居住时长、对家乡的评价\n3. **家庭**：家庭成员、家庭活动、对家庭生活的看法\n\n**高分句型：**\n- \"There are x people in my family: my father, my mother and I.\"\n- \"I have been living here for x years.\"\n- \"Most importantly, many of my friends are here.\"\n\n**避坑提示：**\n- 不要说 \"I from Beijing\"，应为 \"I am from Beijing\"。\n- 谈论家庭时避免只列举成员，加上感情色彩更自然。\n- 描述家乡优点时使用 comfortable、kind、clean、fresh 等积极词。\n\n掌握这些基础句型后，Part A 就能稳稳拿分。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 1
+    },
+    {
+      "id": "speaking-l1-2",
+      "section": "speaking",
+      "level_no": 2,
+      "difficulty": "l1",
+      "title": "学习工作日常",
+      "description": "口试 Part A 学习与工作话题",
+      "icon": "🗣️",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## 学习与工作话题口试技巧\n\n在 Part A 中，考官常问及你的学习或工作情况。这是展示词汇量和表达逻辑的好机会。无论是学生还是上班族，都要准备好相关高频词汇和句型。\n\n**回答思路：**\n- **结构化作答**：身份 → 具体内容 → 感受/计划，三段式逻辑清晰。\n- **正反兼顾**：既谈喜欢的部分，也提一两点不足，显得真实。\n- **使用连接词**：although、but、what makes me enjoy most is... 让表达更连贯。\n\n**学生话题：**\n- 专业：I major in English / computer science.\n- 喜欢之处：The studying atmosphere makes me study more and play less.\n- 不喜欢之处：There are too many internet bars which distract students.\n\n**工作话题：**\n- 职业：I am a teacher / engineer / nurse.\n- 工龄：I have worked for x years.\n- 喜欢：The job can improve my abilities.\n- 不喜欢：It's far away from my place. I have to spend three hours to commute.\n\n**高分句型：**\n- \"Although the job is challenging, I can learn many things and improve myself.\"\n- \"I want to be promoted within two years, so I have been trying to improve myself by keeping studying.\"\n\n**避坑提示：**\n- 不要只说 \"I like it\"，要给出原因。\n- 描述工作时避免使用过于负面的词，体现积极态度。\n- 谈未来计划时要具体，不要泛泛而谈。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 2
+    },
+    {
+      "id": "speaking-l1-3",
+      "section": "speaking",
+      "level_no": 3,
+      "difficulty": "l1",
+      "title": "兴趣爱好与休闲",
+      "description": "口试 Part A 兴趣爱好话题",
+      "icon": "🗣️",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## 兴趣爱好口试技巧\n\n兴趣爱好是 Part A 高频话题，考官通过它了解你的个性和生活状态。回答时要展现多样性，并给出具体例子。\n\n**回答思路：**\n- **具体化**：不要只说 \"I like sports\"，要说 \"I like playing basketball with my friends on weekends\"。\n- **频率与场合**：加上 how often 和 with whom，让回答更生动。\n- **理由**：说明为什么喜欢，体现个人价值观。\n\n**常见话题：**\n1. **爱好类型**：reading、playing basketball、playing computer games、traveling\n2. **业余时间**：What do you usually do in your spare time?\n3. **频率**：How often do you...?\n\n**高分句型：**\n- \"I often go shopping with my friends.\"\n- \"I often watch some movies from my cell phone.\"\n- \"I often go to travel in other cities.\"\n- \"Yes, I like reading very much. Because it can broaden my horizons.\"\n\n**回答模板：**\n- \"Yes. I like [activity]. I usually do it [frequency] with [who]. Because [reason].\"\n\n**避坑提示：**\n- 不要只列举一个爱好，准备 2-3 个备用。\n- 避免说 \"I have no hobbies\"，显得消极。\n- 描述爱好时使用 enjoy、be fond of、be interested in 等替换 like，词汇更丰富。\n- 谈论游戏或手机时要克制，避免给人沉迷的印象。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 3
+    },
+    {
+      "id": "speaking-l2-1",
+      "section": "speaking",
+      "level_no": 1,
+      "difficulty": "l2",
+      "title": "购物饮食与旅行",
+      "description": "口试 Part A 进阶生活话题",
+      "icon": "💬",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## 购物、饮食与旅行口试技巧\n\n这三个话题属于 Part A 进阶内容，需要更丰富的词汇和更具体的描述。考官会问及你的购物习惯、饮食偏好或旅行经历。\n\n**回答思路：**\n- **场景化描述**：用 when、where、with whom 让回答有画面感。\n- **比较表达**：使用 compared with、while、on the other hand 体现思维深度。\n- **个人观点**：明确表达偏好并给出理由。\n\n**购物话题：**\n- 频率：I go shopping once a week / twice a month.\n- 偏好：I prefer online shopping because it's convenient and cheaper.\n- 商品：I usually buy clothes、books、daily necessities.\n\n**饮食话题：**\n- 偏好：I prefer Chinese food / fast food.\n- 习惯：I often eat out with my friends on weekends.\n- 健康：I try to eat more vegetables and fruits to keep healthy.\n\n**旅行话题：**\n- 经历：I have been to [place]. It was amazing.\n- 偏好：I prefer traveling by train because I can enjoy the scenery.\n- 计划：I plan to visit [place] next year.\n\n**高分句型：**\n- \"Compared with online shopping, I prefer going to physical stores because I can try things on.\"\n- \"The food there is delicious and the price is reasonable.\"\n- \"Traveling can broaden my horizons and relax my mind.\"\n\n**避坑提示：**\n- 描述食物时使用 tasty、delicious、spicy 等具体词，避免只说 good。\n- 谈旅行时给出具体地名和感受，不要泛泛而谈。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 4
+    },
+    {
+      "id": "speaking-l2-2",
+      "section": "speaking",
+      "level_no": 2,
+      "difficulty": "l2",
+      "title": "天气健康与节日",
+      "description": "口试 Part A 进阶生活话题",
+      "icon": "💬",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## 天气、健康与节日口试技巧\n\n这三个话题贴近生活，但需要掌握特定词汇和表达。考官会问及你所在地的天气、健康习惯或对节日的看法。\n\n**回答思路：**\n- **描述具体**：用 sunny、cloudy、rainy 等词，加上温度感受。\n- **因果关系**：天气影响心情、健康影响工作，用 because、so 串联。\n- **文化背景**：谈节日时简要介绍习俗，体现文化自信。\n\n**天气话题：**\n- 描述：The weather here is comfortable / changeable / extreme.\n- 季节偏好：I like spring best because it's warm and flowers are blooming.\n- 影响：Bad weather often affects my mood.\n\n**健康话题：**\n- 习惯：I exercise three times a week to keep fit.\n- 饮食：I have a balanced diet with more vegetables.\n- 建议：We should get enough sleep and drink more water.\n\n**节日话题：**\n- 偏好：My favorite festival is Spring Festival.\n- 习俗：We usually have a big family dinner and give red envelopes.\n- 感受：It's a time for family reunion and expressing love.\n\n**高分句型：**\n- \"The weather is comfortable and the people are kind.\"\n- \"I think health is the most important thing in our life.\"\n- \"Spring Festival is the most important traditional festival in China.\"\n\n**避坑提示：**\n- 描述天气时不要只说 good、bad，要用具体词汇。\n- 谈健康时避免只说 \"I am healthy\"，要谈习惯。\n- 介绍节日时要尊重文化，不要评价其他节日的好坏。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 5
+    },
+    {
+      "id": "speaking-l3-1",
+      "section": "speaking",
+      "level_no": 1,
+      "difficulty": "l3",
+      "title": "Part B 协作对话",
+      "description": "口试 Part B 协作对话技巧",
+      "icon": "🎤",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## Part B 协作对话口试技巧\n\nPart B 要求两位考生就给定图片或话题进行协作讨论，时长约 3 分钟。这是考察交流能力和团队协作的关键环节。\n\n**核心要求：**\n- **双向交流**：不能只顾自己说，要给对方发言机会。\n- **观点互动**：对对方观点要回应，不能各说各话。\n- **任务完成**：围绕话题展开，最终达成某种共识或结论。\n\n**常用句型：**\n1. **询问对方观点**：\n   - What do you think of the activity in picture x?\n   - Which one do you like best? And why?\n2. **没听清时**：\n   - I'm sorry. Can you please speak it slowly?\n3. **回应对方观点**：\n   - You're right. But... （有不同观点时）\n   - You're right. And... （补充对方观点时）\n4. **引出自己观点**：\n   - I think... Because...\n5. **礼貌打断**：\n   - Excuse me! I'd like to say something about...\n6. **结束会话**：\n   - Different people have different opinions.\n\n**协作流程：**\n1. 一方提问，另一方回答并反问\n2. 双方交换观点，互相回应\n3. 总结共识，礼貌结束\n\n**避坑提示：**\n- 不要独占话语权，给对方留出说话空间。\n- 不要沉默不语，即使紧张也要简短回应。\n- 不要直接否定对方，用 \"You're right. But...\" 委婉表达。\n- 结束时不要突然停下，用总结句自然收尾。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 6
+    },
+    {
+      "id": "speaking-l3-2",
+      "section": "speaking",
+      "level_no": 2,
+      "difficulty": "l3",
+      "title": "Part C 图片描述",
+      "description": "口试 Part C 图片描述与陈述",
+      "icon": "🎤",
+      "color": "#00b894",
+      "type": null,
+      "lesson": "## Part C 图片描述口试技巧\n\nPart C 要求考生就给定图片进行描述并发表观点，时长约 1.5 分钟。这是考察观察力、描述力和思辨力的综合环节。\n\n**核心要求：**\n- **客观描述**：先说图片展示什么，不加主观判断。\n- **引申意义**：联系社会现象或深层含义。\n- **观点表达**：明确表明立场并给出理由。\n\n**主陈述者常用句型：**\n1. **描述图片**：\n   - From the picture, we can see that + 图片内容.\n   - It shows the phenomenon that + 社会现象.\n2. **批判性现象**：\n   - In my opinion, the reason(s) why some people +行为 is(are) that +原因.\n   - What we should do is +措施.\n3. **模棱两可现象**：\n   - Some people hold that +一种观点. Other people argue that +另一种观点.\n   - As far as I am concerned, the phenomenon weighs more advantages than disadvantages. Because +原因.\n\n**次陈述者常用句型：**\n1. **批判性现象**：\n   - I am quite agreed with you. But in addition to what you have mentioned, I think we also should +1-2 条措施.\n2. **模棱两可现象**：\n   - What you have stated does make some sense. But in my opinion, +自己的观点和理由.\n   - I can't agree with you any more. But I also think +补充观点.\n\n**描述流程：**\n1. 概述图片内容（1 句）\n2. 引申社会现象（1 句）\n3. 分析原因或对比观点（2-3 句）\n4. 提出建议或表态（1 句）\n\n**避坑提示：**\n- 不要只描述细节，要有层次和逻辑。\n- 不要只说 \"It's good\" 或 \"It's bad\"，要给出理由。\n- 使用 From the picture、In my opinion、As far as I am concerned 等连接词。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 7
+    }
+  ],
+  "words": [],
+  "examples": [
+    {
+      "level_id": "speaking-l1-1",
+      "en": "Q: Could you introduce yourself?\nA: My name is Li Ming. I am 25 years old. I work as a teacher in a primary school. I have been working there for three years.",
+      "cn": "问：请介绍一下你自己。\n答：我叫李明，25 岁，在小学当老师，已经工作三年了。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "en": "Q: Where are you from?\nA: I am from Beijing, the capital of China. It's a big city with a long history and many beautiful places.",
+      "cn": "问：你来自哪里？\n答：我来自中国首都北京。这是一座历史悠久、有很多美丽景点的大城市。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "en": "Q: How long have you lived here?\nA: I have been living here for about ten years. I moved here when I was a student.",
+      "cn": "问：你在这里住了多久？\n答：我住在这里大约十年了。我上学时搬过来的。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "en": "Q: Can you tell us something about your family?\nA: Of course. There are three people in my family: my father, my mother and I. My father is a doctor and my mother is a teacher. We love each other very much.",
+      "cn": "问：请介绍一下你的家庭。\n答：当然。我家有三口人：爸爸、妈妈和我。爸爸是医生，妈妈是老师。我们彼此相爱。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "en": "Q: What does your family usually do for the weekend?\nA: We often stay together at home watching TV. Sometimes we go out for eating. I enjoy the time with my family.",
+      "cn": "问：你们家周末通常做什么？\n答：我们经常待在家里看电视，有时出去吃饭。我很享受和家人在一起的时光。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "en": "Q: Can you tell me something about your study?\nA: I major in English. I have to attend many subjects like Math, Computer, and other English related ones. I can do well in English, but I still need to improve my math.",
+      "cn": "问：请说说你的学习情况。\n答：我主修英语。要上数学、计算机等很多科目。我英语不错，但数学还需要加强。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "en": "Q: What do you enjoy most about your school?\nA: The campus is big and clean. The teachers and schoolmates are very friendly. But what I like most is the studying atmosphere. It makes me study more and play less.",
+      "cn": "问：你最喜欢学校的什么？\n答：校园大而干净，师生都很友好。但我最喜欢的是学习氛围，让我多学习少玩耍。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "en": "Q: Can you tell me something about your job?\nA: I am a teacher. I have worked for five years. I like my job because my colleagues are nice. Although the job is challenging, I can learn many things and improve myself.",
+      "cn": "问：请说说你的工作。\n答：我是老师，工作五年了。我喜欢这份工作，因为同事很好。虽然工作有挑战，但我能学到很多东西、提升自己。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "en": "Q: What do you dislike about your work?\nA: It's very far away from my place. I can't afford the expensive rent near my company. So every day, I have to spend three hours to commute.",
+      "cn": "问：你工作中不喜欢什么？\n答：公司离住处很远，又住不起附近的房子。所以每天要花三个小时通勤。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "en": "Q: Do you have any future plans?\nA: Yes, I want to be promoted within two years. So I have been trying to improve myself by keeping studying.",
+      "cn": "问：你有什么未来计划吗？\n答：有，我希望两年内升职。所以我一直在坚持学习提升自己。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "en": "Q: Do you have any hobbies?\nA: Yes. I like reading very much. I usually read novels in my spare time because it can broaden my horizons and relax my mind.",
+      "cn": "问：你有什么爱好吗？\n答：有，我很喜欢阅读。业余时间常读小说，因为这能开阔视野、放松心情。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "en": "Q: What do you usually do in your spare time?\nA: I often go shopping with my friends on weekends. Sometimes I watch movies at home.",
+      "cn": "问：你业余时间通常做什么？\n答：周末常和朋友去购物，有时在家看电影。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "en": "Q: How often do you play sports?\nA: I play basketball with my friends twice a week. It helps me keep fit and releases pressure from work.",
+      "cn": "问：你多久运动一次？\n答：每周和朋友打两次篮球。这能保持健康、释放工作压力。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "en": "Q: What kind of music do you like?\nA: I am fond of pop music. I often listen to music from my cell phone when I am on the bus. It makes me feel relaxed.",
+      "cn": "问：你喜欢什么音乐？\n答：我喜欢流行音乐。常在公交车上用手机听歌，让我感觉很放松。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "en": "Q: Do you like traveling?\nA: Yes, I often go to travel in other cities during holidays. Traveling can broaden my horizons and I can meet different people.",
+      "cn": "问：你喜欢旅行吗？\n答：喜欢，假期常去其他城市旅行。旅行能开阔视野，还能认识不同的人。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "en": "Q: How often do you go shopping?\nA: I go shopping once a week, usually on weekends. I prefer going to physical stores because I can try things on before buying.",
+      "cn": "问：你多久购物一次？\n答：每周一次，通常在周末。我更喜欢去实体店，因为可以试穿后再买。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "en": "Q: What kind of food do you like?\nA: I prefer Chinese food, especially spicy food like Sichuan hotpot. The food is tasty and the price is reasonable. I often eat out with my friends on weekends.",
+      "cn": "问：你喜欢什么食物？\n答：偏好中餐，特别是川菜火锅。食物美味、价格合理，周末常和朋友出去吃。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "en": "Q: Do you like fast food?\nA: To be honest, I don't like fast food very much. Although it's convenient, it's not healthy. I try to eat more vegetables and fruits to keep fit.",
+      "cn": "问：你喜欢快餐吗？\n答：说实话不太喜欢。虽然方便，但不健康。我尽量多吃蔬菜水果保持健康。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "en": "Q: Have you traveled anywhere interesting?\nA: Yes, I have been to Yunnan. The scenery was amazing and the local people were very friendly. I enjoyed the local food very much.",
+      "cn": "问：你去过什么有趣的地方吗？\n答：去过云南。风景很美，当地人也很友好，当地的美食我也很喜欢。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "en": "Q: How do you usually travel?\nA: I prefer traveling by train because I can enjoy the scenery along the way. It's also safer and more comfortable than flying.",
+      "cn": "问：你通常怎么旅行？\n答：我偏好坐火车，因为可以欣赏沿途风景。也比飞机更安全、更舒适。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "en": "Q: What's the weather like in your city?\nA: The weather here is comfortable. Spring is warm and flowers are blooming. But summer is a bit too hot. I like spring best.",
+      "cn": "问：你们城市天气怎么样？\n答：天气很舒适。春天温暖、花开满园，但夏天有点太热。我最喜欢春天。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "en": "Q: How do you keep healthy?\nA: I exercise three times a week to keep fit. I also have a balanced diet with more vegetables and fruits. I think health is the most important thing in our life.",
+      "cn": "问：你怎么保持健康？\n答：每周锻炼三次保持身材，饮食均衡、多吃蔬菜水果。我认为健康是生活中最重要的事。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "en": "Q: Do you think weather affects your mood?\nA: Yes, definitely. On sunny days I feel energetic and happy. But on rainy days I often feel a bit down. So I prefer sunny weather.",
+      "cn": "问：你觉得天气会影响心情吗？\n答：当然会。晴天我精力充沛、心情愉快，但雨天会有点低落。所以我喜欢晴天。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "en": "Q: What's your favorite festival?\nA: My favorite festival is Spring Festival. It's the most important traditional festival in China. We usually have a big family dinner and give red envelopes to children.",
+      "cn": "问：你最喜欢的节日是什么？\n答：最喜欢春节，是中国最重要的传统节日。我们通常吃团圆饭、给孩子们发红包。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "en": "Q: How do you celebrate Spring Festival?\nA: My family usually gets together for a big dinner on New Year's Eve. We watch the Spring Festival Gala and set off fireworks. It's a time for family reunion.",
+      "cn": "问：你怎么过春节？\n答：除夕夜全家聚在一起吃大餐、看春晚、放烟花。这是家人团聚的时刻。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "en": "Q: What do you think of the activity in picture one?\nA: I think the activity in picture one is very interesting. It shows people playing basketball. I like it because it can help us keep fit. What do you think?",
+      "cn": "问：你觉得第一张图里的活动怎么样？\n答：我觉得很有趣，图里的人在打篮球。我喜欢，因为它能帮我们保持健康。你觉得呢？",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "en": "Q: Which activity do you like best? And why?\nA: I like the third one best, because I am fond of reading. Reading can broaden my horizons. Don't you like reading too?",
+      "cn": "问：你最喜欢哪个活动？为什么？\n答：最喜欢第三个，因为我喜欢阅读。阅读能开阔视野。你不也喜欢阅读吗？",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "en": "Q: You're right. But I prefer the second one. What about you?\nA: You're right. And I also think the second one is good. But I still like reading best. Different people have different opinions.",
+      "cn": "问：你说得对，但我更喜欢第二个。你呢？\n答：你说得对，我也觉得第二个不错。但我还是最喜欢阅读。仁者见仁，智者见智。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "en": "Q: I'm sorry. Can you please speak it slowly?\nA: Of course. I said I think the activity in picture one is interesting. What is your opinion?",
+      "cn": "问：抱歉，能说慢一点吗？\n答：当然。我是说我觉得第一张图的活动很有趣。你的看法呢？",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "en": "Q: Excuse me! I'd like to say something about the fourth picture.\nA: Sure, go ahead. I'd love to hear your opinion about it.",
+      "cn": "问：打扰一下，我想说说第四张图。\n答：好的，请说。我很想听听你的看法。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "en": "Q: Please describe the picture.\nA: From the picture, we can see that many people are using smartphones on the subway. It shows the phenomenon that people are becoming more and more dependent on mobile phones.",
+      "cn": "问：请描述这张图片。\n答：从图中可以看到，许多人在地铁上用智能手机。这反映了人们越来越依赖手机的现象。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "en": "Q: What's your opinion about this phenomenon?\nA: In my opinion, the reason why some people use phones too much is that they want to relax. What we should do is to control our screen time and spend more time with family.",
+      "cn": "问：你怎么看这个现象？\n答：我认为有些人过度用手机是因为想放松。我们应该控制屏幕时间，多陪家人。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "en": "Q: Some people think smartphones are good. What about you?\nA: Some people hold that smartphones bring convenience. Other people argue that they make us isolated. As far as I am concerned, smartphones weigh more advantages than disadvantages. Because they help us communicate easily.",
+      "cn": "问：有人认为智能手机好。你呢？\n答：有人认为智能手机带来便利，也有人认为它让我们孤立。在我看来，智能手机利大于弊，因为它让我们沟通更方便。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "en": "Q: I am quite agreed with you. But in addition to what you have mentioned, I think we also should...\nA: That's a good point. I also agree that we should take more measures to solve this problem.",
+      "cn": "问：我很赞同你。除了你说的，我还认为我们应该…\n答：说得很好。我也同意我们应该采取更多措施来解决这个问题。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "en": "Q: What you have stated does make some sense. But in my opinion...\nA: I can't agree with you any more. But I also think we should consider both sides of the issue.",
+      "cn": "问：你说的有道理。但在我看来…\n答：我完全同意。但我也认为我们应该考虑问题的两面性。",
+      "sort_order": 4
+    }
+  ],
+  "questions": [
+    {
+      "level_id": "speaking-l1-1",
+      "blank": null,
+      "question": "考官问 \"Where are you from?\" 以下哪个回答最得体？",
+      "options": ["I from Beijing.", "I am from Beijing, the capital of China.", "Beijing.", "I come."],
+      "answer": 1,
+      "explanation": "完整句 \"I am from...\" 加补充说明最得体，体现礼貌和细节。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "blank": null,
+      "question": "考官问 \"How long have you lived here?\" 最佳回答是？",
+      "options": ["I live here.", "I have been living here for ten years.", "Ten years ago.", "Yes, I live here."],
+      "answer": 1,
+      "explanation": "用现在完成进行时 \"have been living\" 表示持续到现在的居住时长，最准确。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "blank": null,
+      "question": "考官问 \"Can you tell us something about your family?\" 以下哪个回答最完整？",
+      "options": ["Yes, I have a family.", "There are three people: my father, my mother and I. My father is a doctor.", "My family is good.", "I love my family."],
+      "answer": 1,
+      "explanation": "列举家庭成员并补充职业信息，回答完整且具体。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "blank": null,
+      "question": "考官问 \"How do you like it?\" 在谈论家乡时，以下哪个回答最合适？",
+      "options": ["Yes, I like.", "I like it very much. Because the city is clean and the air is fresh.", "It is good.", "No, I don't."],
+      "answer": 1,
+      "explanation": "先表明态度再给原因，逻辑清晰且具体。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-1",
+      "blank": null,
+      "question": "口试 Part A 中自我介绍时，以下哪种做法最合适？",
+      "options": ["只回答姓名", "姓名 + 年龄 + 职业/身份，简短完整", "长篇大论讲人生经历", "只回答 Yes"],
+      "answer": 1,
+      "explanation": "自我介绍应包含基本信息，简短完整即可，避免过长或过短。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "blank": null,
+      "question": "考官问 \"What do you enjoy most about your school?\" 最佳回答结构是？",
+      "options": ["只说 \"I like it.\"", "描述优点 + 强调最喜欢之处 + 原因", "列举所有缺点", "只说学校名字"],
+      "answer": 1,
+      "explanation": "应描述优点、强调最喜欢之处并给出原因，体现层次。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "blank": null,
+      "question": "谈论工作时，以下哪句表达最得体？",
+      "options": ["I am a teacher. I hate it.", "I am a teacher. Although the job is challenging, I can learn many things.", "Teacher. Bad job.", "I work, work, work."],
+      "answer": 1,
+      "explanation": "使用 \"Although...\" 让表达更委婉，体现积极态度。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "blank": null,
+      "question": "考官问 \"What do you dislike about your work?\" 以下哪个回答最合适？",
+      "options": ["I don't know.", "It's far away from my place. I have to spend three hours to commute.", "Everything is bad.", "I dislike everything."],
+      "answer": 1,
+      "explanation": "给出具体不足并说明影响，真实且有理有据。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "blank": null,
+      "question": "考官问 \"Do you have any future plans?\" 最佳回答是？",
+      "options": ["No, I don't.", "Yes, I want to be promoted within two years. So I have been trying to improve myself.", "Maybe yes.", "Future is future."],
+      "answer": 1,
+      "explanation": "明确目标 + 时间 + 行动计划，回答具体且有执行力。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-2",
+      "blank": null,
+      "question": "谈论学习时，以下哪个表达最准确？",
+      "options": ["I major in English. I can do well in English but I can't find a way in math.", "I study English good.", "English easy, math hard.", "I no like math."],
+      "answer": 0,
+      "explanation": "使用 \"major in\"、\"do well in\" 等正确搭配，表达完整。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "blank": null,
+      "question": "考官问 \"Do you have any hobbies?\" 以下哪个回答最得体？",
+      "options": ["Yes, I like.", "Yes. I like reading very much. I usually read novels in my spare time.", "No hobbies.", "Hobby is good."],
+      "answer": 1,
+      "explanation": "肯定回答 + 具体爱好 + 频率，结构完整。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "blank": null,
+      "question": "考官问 \"What do you usually do in your spare time?\" 最佳回答是？",
+      "options": ["Nothing.", "I often go shopping with my friends on weekends.", "Spare time is good.", "Yes, I do."],
+      "answer": 1,
+      "explanation": "给出具体活动 + 同伴 + 时间，回答生动具体。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "blank": null,
+      "question": "考官问 \"How often do you play sports?\" 以下哪个回答最准确？",
+      "options": ["Always.", "I play basketball with my friends twice a week.", "Sometimes yes.", "Sport is good."],
+      "answer": 1,
+      "explanation": "给出具体频率 + 项目 + 同伴，回答完整。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "blank": null,
+      "question": "谈论爱好时，以下哪个表达最能体现词汇多样性？",
+      "options": ["I like reading. I like music. I like sports.", "I am fond of reading, interested in music, and enjoy sports.", "I like, like, like.", "Reading, music, sports."],
+      "answer": 1,
+      "explanation": "使用 be fond of、be interested in、enjoy 替换 like，词汇更丰富。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l1-3",
+      "blank": null,
+      "question": "考官问 \"Do you like traveling?\" 以下哪个回答最得体？",
+      "options": ["Yes.", "Yes, I often travel in other cities during holidays. It can broaden my horizons.", "Travel good.", "No travel."],
+      "answer": 1,
+      "explanation": "肯定 + 频率 + 理由，回答完整且有深度。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "blank": null,
+      "question": "考官问 \"How often do you go shopping?\" 以下哪个回答最完整？",
+      "options": ["Often.", "I go shopping once a week, usually on weekends.", "Shopping good.", "Yes, I go."],
+      "answer": 1,
+      "explanation": "频率 + 时间，回答具体清晰。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "blank": null,
+      "question": "描述食物时，以下哪个表达最具体生动？",
+      "options": ["The food is good.", "The food is tasty and the price is reasonable.", "Food nice.", "I like eat."],
+      "answer": 1,
+      "explanation": "使用 tasty、reasonable 等具体词，比 good 更生动。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "blank": null,
+      "question": "考官问 \"Do you like fast food?\" 最佳回答结构是？",
+      "options": ["只说 \"Yes\" 或 \"No\"", "表态 + 让步 + 理由，如 \"To be honest, I don't like it. Although it's convenient, it's not healthy.\"", "只列举快餐品牌", "说 \"I don't know\""],
+      "answer": 1,
+      "explanation": "表态 + 让步 + 理由，体现思辨能力。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "blank": null,
+      "question": "考官问 \"Have you traveled anywhere interesting?\" 以下哪个回答最完整？",
+      "options": ["Yes, I have.", "I have been to Yunnan. The scenery was amazing and the local people were very friendly.", "Yunnan is good.", "Travel interesting."],
+      "answer": 1,
+      "explanation": "地点 + 感受 + 评价，回答完整生动。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l2-1",
+      "blank": null,
+      "question": "比较购物方式时，以下哪个表达最得体？",
+      "options": ["Online shopping bad, store good.", "Compared with online shopping, I prefer going to physical stores because I can try things on.", "I no like online.", "Store better than online."],
+      "answer": 1,
+      "explanation": "使用 \"Compared with...\" 比较句型，表达委婉有理。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "blank": null,
+      "question": "考官问 \"What's the weather like in your city?\" 以下哪个回答最具体？",
+      "options": ["Good weather.", "The weather is comfortable. Spring is warm and flowers are blooming. But summer is a bit too hot.", "Weather nice.", "I like weather."],
+      "answer": 1,
+      "explanation": "总体评价 + 季节细节 + 转折，描述具体生动。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "blank": null,
+      "question": "考官问 \"How do you keep healthy?\" 最佳回答是？",
+      "options": ["I am healthy.", "I exercise three times a week and have a balanced diet with more vegetables.", "Health good.", "Yes, I keep healthy."],
+      "answer": 1,
+      "explanation": "运动频率 + 饮食习惯，回答具体可操作。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "blank": null,
+      "question": "考官问 \"Do you think weather affects your mood?\" 以下哪个回答最有逻辑？",
+      "options": ["Yes, affects.", "Yes, definitely. On sunny days I feel energetic. But on rainy days I often feel down.", "Weather mood.", "I don't know."],
+      "answer": 1,
+      "explanation": "肯定 + 两种情况对比，逻辑清晰有层次。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "blank": null,
+      "question": "考官问 \"What's your favorite festival?\" 以下哪个回答最完整？",
+      "options": ["Spring Festival.", "My favorite festival is Spring Festival. It's the most important traditional festival in China.", "I like festival.", "Festival good."],
+      "answer": 1,
+      "explanation": "节日 + 文化背景介绍，回答完整有深度。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l2-2",
+      "blank": null,
+      "question": "描述节日习俗时，以下哪个表达最准确？",
+      "options": ["We eat and play.", "We usually have a big family dinner and give red envelopes to children.", "Family together.", "Festival fun."],
+      "answer": 1,
+      "explanation": "具体习俗 + 文化细节，描述准确生动。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "blank": null,
+      "question": "在 Part B 协作对话中，没听清对方时应如何礼貌请求重述？",
+      "options": ["What? Say again.", "I'm sorry. Can you please speak it slowly?", "I don't understand.", "Repeat it."],
+      "answer": 1,
+      "explanation": "礼貌致歉 + 委婉请求，符合口试礼仪。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "blank": null,
+      "question": "在 Part B 中，对对方观点有不同看法时应如何回应？",
+      "options": ["You are wrong.", "You're right. But I think...", "No, I disagree.", "I don't think so."],
+      "answer": 1,
+      "explanation": "先肯定再委婉转折，体现礼貌和思辨。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "blank": null,
+      "question": "在 Part B 中，对方不停说话你想插话时，应如何礼貌打断？",
+      "options": ["Stop!", "Excuse me! I'd like to say something about...", "Be quiet.", "Let me speak."],
+      "answer": 1,
+      "explanation": "使用 \"Excuse me!\" 致歉 + 委婉请求，礼貌得体。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "blank": null,
+      "question": "Part B 协作对话结束时，以下哪个表达最合适？",
+      "options": ["Goodbye.", "Different people have different opinions.", "The end.", "I am done."],
+      "answer": 1,
+      "explanation": "总结性表达 \"Different people have different opinions\" 自然收尾。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l3-1",
+      "blank": null,
+      "question": "Part B 中引出自己观点时，以下哪个句型最规范？",
+      "options": ["I think... Because...", "Me think.", "My opinion is.", "I say..."],
+      "answer": 0,
+      "explanation": "I think... Because... 是规范的引出观点 + 理由的句型。",
+      "sort_order": 4
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "blank": null,
+      "question": "Part C 图片描述时，以下哪个句型用于开头最规范？",
+      "options": ["Picture is good.", "From the picture, we can see that...", "I see picture.", "Look at picture."],
+      "answer": 1,
+      "explanation": "From the picture, we can see that... 是描述图片的标准开头句型。",
+      "sort_order": 0
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "blank": null,
+      "question": "Part C 中引申社会现象时，以下哪个表达最规范？",
+      "options": ["It shows phenomenon.", "It shows the phenomenon that...", "Phenomenon is.", "I see phenomenon."],
+      "answer": 1,
+      "explanation": "It shows the phenomenon that... 是引申社会现象的标准句型。",
+      "sort_order": 1
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "blank": null,
+      "question": "Part C 中表达模棱两可现象时，以下哪个句型最完整？",
+      "options": ["Some people think A. Other people think B.", "Some people hold that +观点. Other people argue that +另一观点.", "A or B.", "People different."],
+      "answer": 1,
+      "explanation": "使用 hold that... argue that... 体现对立观点，结构完整。",
+      "sort_order": 2
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "blank": null,
+      "question": "Part C 中作为次陈述者赞同对方时，以下哪个表达最得体？",
+      "options": ["I agree.", "I am quite agreed with you. But in addition to what you have mentioned, I think we also should...", "Same.", "Me too."],
+      "answer": 1,
+      "explanation": "先肯定 + 补充观点，体现协作和深度思考。",
+      "sort_order": 3
+    },
+    {
+      "level_id": "speaking-l3-2",
+      "blank": null,
+      "question": "Part C 中表达个人立场时，以下哪个句型最规范？",
+      "options": ["I think good.", "As far as I am concerned, the phenomenon weighs more advantages than disadvantages. Because...", "Good bad.", "Me think this."],
+      "answer": 1,
+      "explanation": "As far as I am concerned... 是规范表达个人立场的句型，加 Because 给理由。",
+      "sort_order": 4
+    }
+  ]
+}

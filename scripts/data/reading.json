@@ -1,0 +1,488 @@
+{
+  "levels": [
+    {
+      "id": "reading-l1-1",
+      "section": "reading",
+      "level_no": 1,
+      "difficulty": "l1",
+      "title": "图书馆通知",
+      "description": "短通知与告示类阅读",
+      "icon": "📄",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "Notice: The City Library will be closed on Monday, September 5th, for the Labor Day holiday. The library will reopen on Tuesday, September 6th, at 9:00 a.m. During the closure, the online booking service will remain available. You may renew books on our website or through the mobile app. Books that are due on Monday will not be charged a late fee. Please return them on Tuesday instead. For any questions, please call 555-0123 during business hours. We thank you for your understanding and wish you a happy holiday.",
+      "passage_cn": "通知：城市图书馆将于9月5日周一因劳动节假期闭馆。图书馆将于9月6日周二上午9:00重新开放。闭馆期间，在线预约服务仍可使用。您可以在我们的网站或通过移动应用程序续借图书。周一到期的图书不会收取滞纳金，请改在周二归还。如有任何问题，请在营业时间致电555-0123。感谢您的理解，祝您节日快乐。",
+      "sort_order": 1
+    },
+    {
+      "id": "reading-l1-2",
+      "section": "reading",
+      "level_no": 2,
+      "difficulty": "l1",
+      "title": "我的一天",
+      "description": "日常生活短文阅读",
+      "icon": "📄",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "I'm Sarah, a college student. I usually wake up at 7 a.m. every weekday. After a quick breakfast, I take the subway to school. My first class begins at 8:30. I have three classes in the morning and two in the afternoon. At noon, I have lunch with my friends at the school cafeteria. My favorite food is the chicken rice. After class, I usually go to the library to do my homework for about two hours. Then I go home and cook dinner. In the evening, I like to read novels or watch a movie before going to bed at 11 p.m. On weekends, I often go shopping or visit my grandparents.",
+      "passage_cn": "我是萨拉，一名大学生。我每个工作日通常早上7点起床。匆匆吃完早餐后，我乘地铁去上学。我的第一节课8:30开始。我上午有三节课，下午有两节课。中午，我和朋友在学校食堂吃午饭。我最喜欢的食物是鸡肉饭。下课后，我通常去图书馆做大约两个小时的作业。然后我回家做晚饭。晚上，我喜欢在晚上11点上床睡觉前读小说或看电影。周末，我经常去购物或看望我的祖父母。",
+      "sort_order": 2
+    },
+    {
+      "id": "reading-l1-3",
+      "section": "reading",
+      "level_no": 3,
+      "difficulty": "l1",
+      "title": "会议邮件",
+      "description": "便条与邮件类实用文阅读",
+      "icon": "📄",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "Dear Tom, I'm writing to remind you about our team meeting this Friday. The meeting will be held in Room 302 at 2:30 p.m. We will discuss the new marketing plan for the spring product launch. Please bring your sales report and any ideas you have. The meeting should last about one hour. If you cannot attend, please let me know in advance so I can share the materials with you afterwards. Also, don't forget that the project deadline is next Wednesday, October 15th. We need to submit the final report to the manager by 5 p.m. that day. Please reply to confirm your attendance. Best regards, Lisa",
+      "passage_cn": "亲爱的汤姆：我写信提醒你本周五的团队会议。会议将于下午2:30在302室举行。我们将讨论春季产品发布的新营销计划。请带上你的销售报告和你有的任何想法。会议大约持续一个小时。如果你不能参加，请提前告诉我，以便我之后把材料分享给你。另外，别忘了项目截止日期是下周三，10月15日。我们需要在当天下午5点前向经理提交最终报告。请回复确认你的出席。致以最诚挚的问候，丽莎",
+      "sort_order": 3
+    },
+    {
+      "id": "reading-l2-1",
+      "section": "reading",
+      "level_no": 1,
+      "difficulty": "l2",
+      "title": "改善睡眠",
+      "description": "科普说明文：睡眠习惯与健康",
+      "icon": "📰",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "Many people complain that they cannot fall asleep at night and feel tired all day. Often, the real cause is a long nap after dinner. If you sleep for several hours in the early evening, your body will not be ready for sleep at bedtime. As a result, you stay up late and may even take a sleeping pill to fall asleep. The pill keeps working in your body the next morning, which explains why you still feel tired when you wake up.\n\nTo solve this problem, you should break the habit of napping after dinner. Right after your evening meal, try doing some physical activity, such as taking a walk or playing a sport. You can also meet friends for a chat or play cards. Then go to bed at your usual time or a little earlier. You will find that you can sleep well without any medicine.\n\nAt first, it may be difficult to fall asleep without a pill. If this happens, get up and read a book or listen to soft music until you feel sleepy. If you wake up in the middle of the night, do not take a sleeping pill. Instead, read for a while or listen to the radio. You will soon form a healthier habit, and the next night you will fall asleep more easily at an earlier hour. The most important rule is simple: avoid the after-dinner nap and avoid sleeping pills.",
+      "passage_cn": "许多人抱怨他们晚上睡不着，白天又很累。通常，真正的原因是晚饭后长时间的小睡。如果你在傍晚早些时候睡上几个小时，你的身体在就寝时间就不会准备好入睡。结果，你熬夜，甚至可能吃安眠药来入睡。药片在第二天早上仍会在你体内发挥作用，这就解释了为什么你醒来时仍然感到疲倦。\n\n要解决这个问题，你应该改掉晚饭后小睡的习惯。晚餐后，立即尝试做一些身体活动，比如散步或做运动。你也可以和朋友见面聊天或打牌。然后在平常的时间或稍早一些上床睡觉。你会发现无需任何药物就能睡得很好。\n\n起初，不服药片可能很难入睡。如果发生这种情况，起来读书或听轻柔的音乐，直到你感到困倦。如果你在半夜醒来，不要吃安眠药。相反，读一会儿书或听听广播。你很快就会养成更健康的习惯，第二天晚上你会在更早的时间更容易入睡。最重要的规则很简单：避免饭后小睡和避免服用安眠药。",
+      "sort_order": 4
+    },
+    {
+      "id": "reading-l2-2",
+      "section": "reading",
+      "level_no": 2,
+      "difficulty": "l2",
+      "title": "英国家庭",
+      "description": "社会文化：英国家庭与婚姻观念",
+      "icon": "📰",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "The word \"family\" has different meanings in different countries. However, when British people say their society is based on family life, they are thinking of \"family\" in a narrow sense: a mother, a father, and their children living together as an economic and social unit. Therefore, every marriage in Britain marks the beginning of a new and independent family. This is why marriage is so important in British life.\n\nFor both husband and wife, marriage means leaving their parents and starting their own life. The husband's first duty is to his wife, and the wife's first duty is to her husband. He is responsible for the financial support of the family, while she takes care of the new home. Their children are their shared responsibility alone. Neither set of parents, nor brothers, sisters, aunts, or uncles, has any right to interfere. The couple are their own masters.\n\nThings were very different in the past. Readers of Jane Austen's Pride and Prejudice will know that, in former times, marriages among wealthy families were arranged by the girl's parents. They would find a suitable husband for their daughter, preferably a rich one. Until then, the girl lived under her parents' protection. When she married, the parents gave the new couple a sum of money called a dowry.\n\nToday, things have changed. Most girls leave school and find a job, becoming financially independent before marriage. As a result, they choose their own husbands and receive no dowry. This independence has raised their social status. They are no longer subordinate to their parents or husbands, and many people see this as a positive change.",
+      "passage_cn": "\"家庭\"这个词在不同的国家有不同的含义。然而，当英国人说他们的社会建立在家庭生活之上时，他们是从狭义上理解\"家庭\"的：父亲、母亲和他们的孩子作为经济和社会单位生活在一起。因此，英国的每一段婚姻都标志着一个新的、独立家庭的开始。这就是为什么婚姻在英国人生活中如此重要。\n\n对于丈夫和妻子来说，婚姻意味着离开父母，开始自己的生活。丈夫的首要责任是对妻子，妻子的首要责任是对丈夫。他负责家庭的经济支持，而她照顾新家。他们的孩子是他们共同的责任。双方的父母、兄弟姐妹、姑姑叔叔都没有权利干涉。夫妻是自己的主人。\n\n过去的情况大不相同。读过简·奥斯汀《傲慢与偏见》的人都知道，从前富裕家庭的婚姻是由女孩的父母安排的。他们会为女儿找到一个合适的丈夫，最好是有钱的。在那之前，女孩生活在父母的保护下。当她结婚时，父母会给新婚夫妇一笔钱，称为嫁妆。\n\n如今，情况已经改变。大多数女孩离开学校后找到工作，在婚前实现经济独立。结果，她们自己选择丈夫，也没有嫁妆。这种独立提高了她们的社会地位。她们不再是父母或丈夫的附属品，许多人认为这是一个积极的改变。",
+      "sort_order": 5
+    },
+    {
+      "id": "reading-l2-3",
+      "section": "reading",
+      "level_no": 3,
+      "difficulty": "l2",
+      "title": "创业故事",
+      "description": "人物故事：互联网创业 Building Blocks",
+      "icon": "📰",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "In the early 1990s, the writer knew little about computers, but he could feel that something huge was happening. The Internet was stirring economies and imaginations in ways never seen before. The world was changing, and old assumptions no longer held true. He had dreams he had not yet fulfilled, but he did not know how to realize them until he met his old friend, Rolly Rouse.\n\nRolly was full of ideas. He called the writer every day with new plans. Soon, they were talking about starting an online company together. Rolly had a plan: they would give people whole electronic houses on a CD-ROM. Customers could try different windows, doors, paint colors, and furnishings. When they were satisfied, they could go online to make the project happen, getting products, financing, and professional help.\n\nRolly named the company \"Building Blocks.\" He took the plunge first, leaving his profitable energy-consulting business to work on it full time. The writer soon joined him after quitting his well-paid job at a newspaper. Together, they developed a demo called \"The New American Dream Home\" and took it to a big convention in Boston, where many large companies showed off their latest products.\n\nTo their delight, nearly everyone was eager to see what they had. Even top executives from enormous companies invited them to visit their offices. That was the beginning of the writer's real lifetime dream, and Building Blocks has been prospering ever since. The story shows that taking a risk, combined with friendship and creativity, can turn a simple idea into a successful business.",
+      "passage_cn": "在20世纪90年代初，作者对电脑知之甚少，但他能感觉到正在发生一些巨大的事情。互联网正在以前所未有的方式激发经济和想象力。世界正在变化，旧的假设不再成立。他有一些尚未实现的梦想，但他不知道如何实现，直到他遇到了他的老朋友罗利·劳斯。\n\n罗利充满了想法。他每天都给作者打电话，提出新的计划。很快，他们开始讨论一起创办一家在线公司。罗利有一个计划：他们将在CD-ROM上为人们提供完整的电子房屋。客户可以尝试不同的窗户、门、油漆颜色和家具。当他们满意时，他们可以上网使项目实现，获得产品、融资和专业帮助。\n\n罗利将公司命名为\"Building Blocks\"。他率先冒险，离开了利润丰厚的能源咨询业务，全职投入其中。作者在辞去报社高薪工作后也很快加入了他。他们共同开发了一个名为\"新美国梦之家\"的演示，并将其带到波士顿的一个大型展览会上，许多大公司在那里展示他们的最新产品。\n\n令他们高兴的是，几乎每个人都渴望看到他们的产品。甚至一些大公司的高管也邀请他们去办公室访问。那是作者真正人生梦想的开始，从那以后，Building Blocks一直在蓬勃发展。这个故事表明，冒险精神加上友谊和创造力，可以将一个简单的想法变成一个成功的企业。",
+      "sort_order": 6
+    },
+    {
+      "id": "reading-l3-1",
+      "section": "reading",
+      "level_no": 1,
+      "difficulty": "l3",
+      "title": "成绩通胀",
+      "description": "PETS-3 真题议论文：大学成绩通胀与压缩",
+      "icon": "📑",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "Recently, presidents of several American universities have added \"inflation\" to their list of worries. They are not concerned about the inflation of prices, but of academic grades. Larry Summers, then president of Harvard, once caused a storm by telling a professor that he disliked grade inflation.\n\nInsiders say that nearly half the grades Harvard awards are now A or A-minus, far more than in the 1980s. Is this trend really a bad thing? And is it truly \"inflation\"? Taking the second question first, the answer is no, not strictly speaking. True grade \"inflation\" would mean that work of a fixed standard receives an ever higher grade year after year. The highest possible grade would have to keep rising in an endless process. Since the top grade is fixed, what is happening is not so much inflation as \"compression.\" Compression is actually worse, because it squeezes information out of the grading system.\n\nBut is grade inflation necessarily bad? The answer depends on who you are. When students leave Harvard, they carry their grades as a kind of currency—a pocketful of intellectual capital to bid for jobs or places in graduate schools against graduates from other universities. Employers and graduate schools must decide on the \"exchange rate\" between a Harvard C student and an A student from a less famous school.\n\nOverall grade inflation, or the uniform devaluation of students' capital, would be relatively easy to handle. Recruiters would simply adjust the exchange rate. Compression, however, has distributional consequences. The best Harvard students see their grades devalued relative to those of second-rate Harvard students. This is harmful because it removes the incentive for top students to work harder. When everyone gets an A, the outstanding student no longer stands out, and the lazy student no longer fears failure. In the long run, this weakens the value of a university degree and damages the reputation of the institution itself.",
+      "passage_cn": "最近，几所美国大学的校长将\"通胀\"列入了他们的担忧清单。他们关心的不是物价通胀，而是学术成绩通胀。时任哈佛校长拉里·萨默斯曾因告诉一位教授他不喜欢成绩通胀而引发了一场风波。\n\n知情人士透露，哈佛现在授予的成绩中近一半是A或A-，远高于20世纪80年代。这种趋势真的是坏事吗？它真的是\"通胀\"吗？先回答第二个问题，答案是严格来说不是。真正的成绩\"通胀\"意味着固定标准的作业年复一年地获得越来越高的分数。最高分必须在一个无止境的过程中不断上升。由于最高分是固定的，正在发生的与其说是通胀，不如说是\"压缩\"。压缩实际上更糟，因为它把信息从评分系统中挤出。\n\n但是成绩通胀必然是坏事吗？答案取决于你是谁。当学生离开哈佛时，他们把成绩当作一种货币——一口袋智力资本，用来与其他大学的毕业生竞争工作或研究生院的席位。雇主和研究生院必须决定哈佛C等学生和不知名学校A等学生之间的\"汇率\"。\n\n整体成绩通胀，即学生资本的统一贬值，相对容易处理。招聘者只需调整汇率。然而，压缩会产生分配后果。最优秀的哈佛学生看到自己的成绩相对于二流哈佛学生的成绩被贬值。这是有害的，因为它消除了顶尖学生更努力学习的动力。当每个人都得到A时，杰出的学生不再突出，懒惰的学生不再害怕失败。从长远来看，这削弱了大学学位的价值，并损害了机构本身的声誉。",
+      "sort_order": 7
+    },
+    {
+      "id": "reading-l3-2",
+      "section": "reading",
+      "level_no": 2,
+      "difficulty": "l3",
+      "title": "全球渔业危机",
+      "description": "综合题材：全球渔业危机的多方观点",
+      "icon": "📑",
+      "color": "#ff9600",
+      "type": null,
+      "lesson": null,
+      "passage": "The global fish crisis has drawn attention from people around the world. Five readers shared their views on a magazine article about this issue, and their opinions reveal how complex the problem really is.\n\nTom, a commercial fisherman in Alaska, was shocked by the destruction and waste in the world's fishery. He points out that the Alaska salmon fishery is well managed, and local fishermen do not see the destruction occurring elsewhere. Although many local people complain about restrictive laws, Tom now supports even stricter regulation. He believes that the sea is the basis for life on Earth and must be protected.\n\nJimmy, another fisherman, argues that the article ignored fishing in the United States. American fishermen work under the harshest regulations and strictest equipment rules in the world, fishing in a way that is environmentally friendly. However, the U.S. keeps importing fish from countries with no equipment requirements. American fishermen cannot compete with foreign prices, and their numbers have been reduced.\n\nTiffany is shocked by the fishing industry's lack of regard for its own resources. She asks the fishermen who claim they cannot make a living under current catch limits: how will they make a living when all the fish are gone? Nathan points out that the real cause of the crisis is not new technology but the explosion of the world population. There are simply not enough fish to feed everyone, and no management system can stop overfishing unless human demand is controlled.\n\nFinally, Peter, after 35 years in conservation groups, has reached a sad conclusion. Despite thousands of emails, letters, and protests, nothing he did seemed to matter. He warns that when the catch drops below the cost of operating, the industry will die, taking the health of the ocean with it. We will then stand back and wonder why we let it happen. These different voices show that solving the fish crisis requires action on regulation, trade, population, and personal responsibility all at once.",
+      "passage_cn": "全球鱼类危机引起了世界各地人们的关注。五位读者就一本杂志上关于这一问题的文章分享了他们的观点，他们的观点揭示了问题实际上有多复杂。\n\n汤姆是阿拉斯加的一名商业渔民，他对世界渔业的破坏和浪费感到震惊。他指出，阿拉斯加鲑鱼渔业管理良好，当地渔民没有看到其他地方发生的破坏。尽管许多当地人抱怨限制性法律，但汤姆现在支持更严格的监管。他认为海洋是地球生命的基础，必须得到保护。\n\n另一位渔民吉米认为，文章忽视了美国的捕鱼业。美国渔民在世界上最严格的规定和设备限制下工作，以环保的方式捕鱼。然而，美国不断从没有设备要求的国家进口鱼类。美国渔民无法与外国价格竞争，他们的数量已经减少。\n\n蒂芙尼对捕鱼业对自身资源的缺乏关心感到震惊。她问那些声称在当前捕捞限制下无法谋生的渔民：当所有的鱼都消失时，他们将如何谋生？内森指出，危机的真正原因不是新技术，而是世界人口的激增。根本没有足够的鱼来养活所有人，除非控制人类需求，否则任何管理系统都无法阻止过度捕捞。\n\n最后，彼得在环保组织中工作了35年，得出了一个悲伤的结论。尽管写了成千上万的电子邮件、信件和抗议，他所做的一切似乎都无济于事。他警告说，当捕捞量降到运营成本以下时，该行业将消亡，海洋的健康也将随之而去。我们那时只能袖手旁观，想知道为什么我们任其发生。这些不同的声音表明，解决鱼类危机需要同时在监管、贸易、人口和个人责任方面采取行动。",
+      "sort_order": 8
+    }
+  ],
+  "words": [],
+  "examples": [],
+  "questions": [
+    {
+      "level_id": "reading-l1-1",
+      "blank": null,
+      "question": "When will the library be closed?",
+      "options": ["Monday, September 5th", "Tuesday, September 6th", "Friday, September 9th", "Sunday, September 4th"],
+      "answer": 0,
+      "explanation": "文中明确提到 The City Library will be closed on Monday, September 5th",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l1-1",
+      "blank": null,
+      "question": "When will the library reopen?",
+      "options": ["Monday at 9:00 a.m.", "Tuesday at 9:00 a.m.", "Tuesday at 2:00 p.m.", "Monday at 5:00 p.m."],
+      "answer": 1,
+      "explanation": "文中提到 The library will reopen on Tuesday, September 6th, at 9:00 a.m.",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l1-1",
+      "blank": null,
+      "question": "What can you do during the closure?",
+      "options": ["Visit the library in person", "Renew books online or via the app", "Return books without any limit", "Call the library at night"],
+      "answer": 1,
+      "explanation": "文中提到 the online booking service will remain available. You may renew books on our website or through the mobile app",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l1-1",
+      "blank": null,
+      "question": "What happens to books due on Monday?",
+      "options": ["They must be returned before Monday", "They will be charged double late fee", "No late fee; return them on Tuesday", "They are automatically renewed for a month"],
+      "answer": 2,
+      "explanation": "文中提到 Books that are due on Monday will not be charged a late fee. Please return them on Tuesday instead",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l1-1",
+      "blank": null,
+      "question": "What should you do if you have questions?",
+      "options": ["Call 555-0123 during business hours", "Visit the library on Monday", "Send an email to the manager", "Wait until Tuesday morning"],
+      "answer": 0,
+      "explanation": "文中提到 For any questions, please call 555-0123 during business hours",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l1-2",
+      "blank": null,
+      "question": "What time does Sarah wake up on weekdays?",
+      "options": ["6:00 a.m.", "7:00 a.m.", "8:30 a.m.", "11:00 p.m."],
+      "answer": 1,
+      "explanation": "文中提到 I usually wake up at 7 a.m. every weekday",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l1-2",
+      "blank": null,
+      "question": "How does Sarah go to school?",
+      "options": ["By bus", "By bike", "By subway", "On foot"],
+      "answer": 2,
+      "explanation": "文中提到 I take the subway to school",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l1-2",
+      "blank": null,
+      "question": "How many classes does Sarah have each weekday?",
+      "options": ["Five", "Three", "Two", "Four"],
+      "answer": 0,
+      "explanation": "文中提到 I have three classes in the morning and two in the afternoon，共5节",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l1-2",
+      "blank": null,
+      "question": "Where does Sarah do her homework?",
+      "options": ["In the library", "At home", "In the cafeteria", "In the classroom"],
+      "answer": 0,
+      "explanation": "文中提到 I usually go to the library to do my homework",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l1-2",
+      "blank": null,
+      "question": "What does Sarah usually do on weekends?",
+      "options": ["Do homework in the library", "Cook dinner at home", "Watch movies all day", "Go shopping or visit her grandparents"],
+      "answer": 3,
+      "explanation": "文中提到 On weekends, I often go shopping or visit my grandparents",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l1-3",
+      "blank": null,
+      "question": "When is the team meeting?",
+      "options": ["Friday at 2:30 p.m.", "Friday at 5:00 p.m.", "Wednesday at 2:30 p.m.", "Thursday at 2:30 p.m."],
+      "answer": 0,
+      "explanation": "文中提到 our team meeting this Friday ... The meeting will be held in Room 302 at 2:30 p.m.",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l1-3",
+      "blank": null,
+      "question": "Where will the meeting be held?",
+      "options": ["Room 201", "Room 302", "The manager's office", "The cafeteria"],
+      "answer": 1,
+      "explanation": "文中提到 The meeting will be held in Room 302",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l1-3",
+      "blank": null,
+      "question": "What should Tom bring to the meeting?",
+      "options": ["The final report", "Lunch", "Only his ideas", "His sales report and ideas"],
+      "answer": 3,
+      "explanation": "文中提到 Please bring your sales report and any ideas you have",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l1-3",
+      "blank": null,
+      "question": "When is the project deadline?",
+      "options": ["Next Wednesday, October 15th", "This Friday, October 10th", "Next Monday, October 13th", "Next Friday, October 17th"],
+      "answer": 0,
+      "explanation": "文中提到 the project deadline is next Wednesday, October 15th",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l1-3",
+      "blank": null,
+      "question": "What does Lisa ask Tom to do at the end of the email?",
+      "options": ["Submit the final report", "Bring lunch to the meeting", "Reply to confirm his attendance", "Call the manager"],
+      "answer": 2,
+      "explanation": "文中提到 Please reply to confirm your attendance",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l2-1",
+      "blank": null,
+      "question": "According to the writer, what is the main cause of sleep problems?",
+      "options": ["Eating too much at dinner", "A long nap after dinner", "Working too hard", "Drinking coffee at night"],
+      "answer": 1,
+      "explanation": "文中提到 the real cause is a long nap after dinner",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l2-1",
+      "blank": null,
+      "question": "Why does the person feel tired in the morning?",
+      "options": ["Because of waking up too early", "Because of staying up too late", "Because the sleeping pill is still working", "Because of eating too much"],
+      "answer": 2,
+      "explanation": "文中提到 The pill keeps working in your body the next morning, which explains why you still feel tired",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l2-1",
+      "blank": null,
+      "question": "What does the writer suggest doing right after dinner?",
+      "options": ["Taking a nap", "Doing physical activity like walking", "Taking a sleeping pill", "Watching TV in bed"],
+      "answer": 1,
+      "explanation": "文中提到 Right after your evening meal, try doing some physical activity, such as taking a walk or playing a sport",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l2-1",
+      "blank": null,
+      "question": "What should you do if you wake up in the middle of the night?",
+      "options": ["Take another sleeping pill", "Eat some food", "Go back to bed immediately", "Read a book or listen to the radio"],
+      "answer": 3,
+      "explanation": "文中提到 read for a while or listen to the radio，并明确说不要吃安眠药",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l2-1",
+      "blank": null,
+      "question": "What is the most important rule according to the passage?",
+      "options": ["Always take a nap after dinner", "Take sleeping pills every night", "Sleep as early as possible", "Avoid the after-dinner nap and sleeping pills"],
+      "answer": 3,
+      "explanation": "文中提到 The most important rule is simple: avoid the after-dinner nap and avoid sleeping pills",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l2-2",
+      "blank": null,
+      "question": "What does \"family\" mean to British people in this passage?",
+      "options": ["All relatives including aunts and uncles", "Only the parents", "Mother, father, and children as a unit", "Anyone living in the same house"],
+      "answer": 2,
+      "explanation": "文中提到 a mother, a father, and their children living together as an economic and social unit",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l2-2",
+      "blank": null,
+      "question": "What is the husband's responsibility according to the passage?",
+      "options": ["Taking care of the home", "Financial support of the family", "Raising the children alone", "Arranging marriages"],
+      "answer": 1,
+      "explanation": "文中提到 He is responsible for the financial support of the family",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l2-2",
+      "blank": null,
+      "question": "Who has the right to interfere with a British couple's decisions?",
+      "options": ["The husband's parents", "The wife's parents", "Brothers and sisters", "No one; they are their own masters"],
+      "answer": 3,
+      "explanation": "文中提到 Neither set of parents, nor brothers, sisters, aunts, or uncles, has any right to interfere. The couple are their own masters",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l2-2",
+      "blank": null,
+      "question": "What is a \"dowry\" according to the passage?",
+      "options": ["Money given by parents to the new couple", "A gift from the husband to the wife", "A wedding ceremony", "A promise to marry"],
+      "answer": 0,
+      "explanation": "文中提到 the parents gave the new couple a sum of money called a dowry",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l2-2",
+      "blank": null,
+      "question": "What is the main difference between past and present British girls?",
+      "options": ["Past girls chose their own husbands", "Present girls receive a dowry", "Present girls are financially independent before marriage", "Past girls worked before marriage"],
+      "answer": 2,
+      "explanation": "文中提到 Most girls leave school and find a job, becoming financially independent before marriage",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l2-3",
+      "blank": null,
+      "question": "What did the writer feel was happening in the 1990s?",
+      "options": ["A new type of energy", "A global economic crisis", "The Internet was changing the world", "A new kind of newspaper"],
+      "answer": 2,
+      "explanation": "文中提到 The Internet was stirring economies and imaginations in ways never seen before",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l2-3",
+      "blank": null,
+      "question": "What was Rolly's plan for the company?",
+      "options": ["Electronic houses on a CD-ROM", "A new energy-consulting service", "A daily newspaper online", "A chain of coffee shops"],
+      "answer": 0,
+      "explanation": "文中提到 they would give people whole electronic houses on a CD-ROM",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l2-3",
+      "blank": null,
+      "question": "What did Rolly do before starting Building Blocks?",
+      "options": ["He worked at a newspaper", "He ran an energy-consulting business", "He was a teacher", "He was unemployed"],
+      "answer": 1,
+      "explanation": "文中提到 leaving his profitable energy-consulting business to work on it full time",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l2-3",
+      "blank": null,
+      "question": "Why were they happy at the Boston convention?",
+      "options": ["People were interested in their product", "They sold the company", "They won an award", "They met the President"],
+      "answer": 0,
+      "explanation": "文中提到 nearly everyone was eager to see what they had，以及大公司高管邀请他们去办公室",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l2-3",
+      "blank": null,
+      "question": "What is the main lesson of the story?",
+      "options": ["Always keep your old job", "Newspaper jobs are the best", "CD-ROMs are out of date", "Risk, friendship, and creativity lead to success"],
+      "answer": 3,
+      "explanation": "文中结尾提到 taking a risk, combined with friendship and creativity, can turn a simple idea into a successful business",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l3-1",
+      "blank": null,
+      "question": "What kind of \"inflation\" are university presidents worried about?",
+      "options": ["Price inflation", "Grade inflation", "Salary inflation", "Population inflation"],
+      "answer": 1,
+      "explanation": "文中提到 They are not concerned about the inflation of prices, but of academic grades",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l3-1",
+      "blank": null,
+      "question": "According to the writer, why is the trend NOT truly \"inflation\"?",
+      "options": ["Because grades are going down", "Because the top grade is fixed", "Because students work harder", "Because there are fewer A grades"],
+      "answer": 1,
+      "explanation": "文中提到 Since the top grade is fixed, what is happening is not so much inflation as \"compression\"",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l3-1",
+      "blank": null,
+      "question": "What does the writer mean by grades as \"currency\"?",
+      "options": ["Grades can be exchanged for money", "Grades help students compete for jobs and schools", "Grades are printed on banknotes", "Grades lose value over time"],
+      "answer": 1,
+      "explanation": "文中提到 they carry their grades as a kind of currency—a pocketful of intellectual capital to bid for jobs or places in graduate schools",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l3-1",
+      "blank": null,
+      "question": "Who is most harmed by grade compression?",
+      "options": ["The best students", "The worst students", "The teachers", "The employers"],
+      "answer": 0,
+      "explanation": "文中提到 The best Harvard students see their grades devalued relative to those of second-rate Harvard students",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l3-1",
+      "blank": null,
+      "question": "What is the main idea of the passage?",
+      "options": ["Harvard is the best university in the world", "Grade inflation helps poor students succeed", "Grade compression has no real effect", "Grade compression harms top students and weakens degrees"],
+      "answer": 3,
+      "explanation": "文章最后指出压缩消除了顶尖学生的动力，削弱了学位价值并损害了学校声誉",
+      "sort_order": 4
+    },
+    {
+      "level_id": "reading-l3-2",
+      "blank": null,
+      "question": "What is Tom's attitude toward stricter fishing regulation?",
+      "options": ["He supports it", "He opposes it", "He is unsure", "He ignores it"],
+      "answer": 0,
+      "explanation": "文中提到 Tom now supports even stricter regulation",
+      "sort_order": 0
+    },
+    {
+      "level_id": "reading-l3-2",
+      "blank": null,
+      "question": "Why can't American fishermen compete with foreign prices?",
+      "options": ["Because American fish are smaller", "Because foreign countries have no equipment requirements", "Because American fishermen are lazy", "Because foreign fish are fresher"],
+      "answer": 1,
+      "explanation": "文中提到 The U.S. keeps importing fish from countries with no equipment requirements. American fishermen cannot compete with foreign prices",
+      "sort_order": 1
+    },
+    {
+      "level_id": "reading-l3-2",
+      "blank": null,
+      "question": "According to Nathan, what is the real root cause of the fish crisis?",
+      "options": ["New technology", "World population explosion", "Pollution", "Climate change"],
+      "answer": 1,
+      "explanation": "文中提到 the real cause of the crisis is not new technology but the explosion of the world population",
+      "sort_order": 2
+    },
+    {
+      "level_id": "reading-l3-2",
+      "blank": null,
+      "question": "What is Peter's conclusion after 35 years of conservation work?",
+      "options": ["His work changed the world", "The ocean is now healthy", "Nothing he did seemed to matter", "The fishing industry is growing"],
+      "answer": 2,
+      "explanation": "文中提到 Despite thousands of emails, letters, and protests, nothing he did seemed to matter",
+      "sort_order": 3
+    },
+    {
+      "level_id": "reading-l3-2",
+      "blank": null,
+      "question": "What is the main idea of the passage?",
+      "options": ["Alaska has the best fishery in the world", "Foreign fish are always better than American fish", "The fish crisis is simple to solve", "The fish crisis is complex and requires action on many fronts"],
+      "answer": 3,
+      "explanation": "文章结尾提到 solving the fish crisis requires action on regulation, trade, population, and personal responsibility all at once",
+      "sort_order": 4
+    }
+  ]
+}

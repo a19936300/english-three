@@ -1,0 +1,551 @@
+{
+  "levels": [
+    {
+      "id": "listening-l1-1",
+      "section": "listening",
+      "level_no": 1,
+      "difficulty": "l1",
+      "title": "数字与时间",
+      "description": "听力中的数字和时间表达",
+      "icon": "👂",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 数字时间听力策略\n\n数字与时间是 PETS-3 听力 A 节短对话的高频考点，常见题型包括时间计算、电话号码、价格数量、年代日期等。\n\n### 解题策略\n\n1. **听前预读选项**：若选项都是时间或数字，立刻预判为数字题，集中注意力抓听数字表达。\n2. **熟记时间表达**：half past three（三点半）、a quarter to ten（差一刻十点）、a quarter past four（四点一刻）。\n3. **注意时间运算**：提前 / 推迟常用 early / late、ahead of schedule、delayed、postpone 表示，听到需做加减。\n4. **区分易混数字**：thirteen / thirty、fourteen / forty、fifteen / fifty。-teen 重音在词尾，-ty 重音在词首。\n5. **价格表达**：on sale（打折）、20% off（打八折）、discount、two for one（买二送一），听到要换算。\n6. **数量单位**：dozen（一打=12）、score（20）、decade（十年）、century（百年）。\n\n### 技巧提醒\n\n短对话遵循“所听非所得”原则：听到的原始数字常需运算才是答案。务必做简单笔记，避免被干扰项迷惑。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 1
+    },
+    {
+      "id": "listening-l1-2",
+      "section": "listening",
+      "level_no": 2,
+      "difficulty": "l1",
+      "title": "人物身份",
+      "description": "判断对话者的职业与关系",
+      "icon": "👂",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 人物身份听力策略\n\n人物身份题考查对话者之间的职业关系。PETS-3 常见关系：师生、医患、老板与秘书、服务员与顾客、司机与乘客等。\n\n### 解题策略\n\n1. **听前看选项**：若选项都是职业或关系词，预判为身份题，重点抓职业关键词。\n2. **抓职业关键词**：\n   - 师生：course、grade、assignment、scholarship、campus\n   - 医患：fever、prescription、medicine、injection、blood pressure\n   - 老板秘书：report、appointment、timetable、typing、document\n   - 服务员顾客：menu、order、steak、bill、tip\n3. **注意称呼与语气**：formal（正式）多为上下级或服务关系；informal（随意）多为亲友。\n4. **“重女轻男”原则**：男生提出的观点女生常反驳或修正，女生观点男生多赞同，女生的话往往是答案线索。\n5. **注意转折词**：but、however、actually 后的信息常是真实身份或关系。\n6. **推理原则**：所听非所得，需结合语境关键词推断，不能只听字面。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 2
+    },
+    {
+      "id": "listening-l1-3",
+      "section": "listening",
+      "level_no": 3,
+      "difficulty": "l1",
+      "title": "地点方向",
+      "description": "判断对话发生场所与人物去向",
+      "icon": "👂",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 地点方向听力策略\n\n地点方向题考查对话发生场所或人物去向。常见地点：学校、医院、饭店、商店、银行、机场、火车站、图书馆等。\n\n### 解题策略\n\n1. **听前预读选项**：若选项都是地点名词（常带介词 in / at / on），预判为地点题。\n2. **抓场景关键词判断地点**：\n   - 学校：course、professor、exam、assignment、campus、library\n   - 医院：doctor、nurse、prescription、medicine、temperature\n   - 饭店：menu、order、steak、bill、tip、dessert\n   - 银行：deposit、withdraw、account、balance、ID card\n   - 机场：flight、boarding pass、take off、gate、passport\n3. **注意方向介词**：turn left / right、go straight、next to、opposite、on the corner。\n4. **注意转折**：but 后的地点常是真正答案，前面是干扰。\n5. **推理原则**：对话通常不直接说出地点，靠关键词推断，因此熟记场景词汇是关键。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 3
+    },
+    {
+      "id": "listening-l2-1",
+      "section": "listening",
+      "level_no": 1,
+      "difficulty": "l2",
+      "title": "日常交流长对话",
+      "description": "工作安排与旅行计划等长对话",
+      "icon": "🎧",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 长对话听力策略\n\n长对话是 PETS-3 听力 B 节重点，每段约 200 词，含 3-5 轮对话。常见话题：旅行计划、工作安排、购物咨询、约会邀请、商务出行等。\n\n### 解题策略\n\n1. **听前快速浏览所有选项**，预测对话主题和设问角度，做到有的放矢。\n2. **“视听一致”原则**：长对话中反复听到、明确提到的词常是正确选项（与短对话“所听非所得”相反）。\n3. **“顺序出题”原则**：题目顺序与对话展开顺序基本一致，做完一题立即看下一题。\n4. **“重复原则”**：反复出现的词揭示对话主题，是主旨题的答案来源。\n5. **重点听回答方**（第二说话人）的内容，重要信息多藏于此。\n6. **注意同义替换**：原文常用同义词替换选项关键词，如 buy = purchase、cheap = inexpensive。\n7. **边听边做**，不纠结未听清的细节，果断往下。\n8. **适当做笔记**：人名、时间、地点、数字需速记，避免混淆。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 4
+    },
+    {
+      "id": "listening-l2-2",
+      "section": "listening",
+      "level_no": 2,
+      "difficulty": "l2",
+      "title": "故事叙述",
+      "description": "短文故事的细节与主旨理解",
+      "icon": "🎧",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 故事叙述听力策略\n\n故事叙述是 B 节短文题型，考查对一段独白或故事的理解，需把握主旨、细节与人物情感。\n\n### 解题策略\n\n1. **听前读题预测**：根据选项预测故事主题和设问角度（人物、事件、结局）。\n2. **抓故事开头**：独白开头往往交代背景和主题，是主旨题的关键。\n3. **“顺序出题”原则**：题目按故事发展顺序排列，边听边对应。\n4. **细节题**：注意 When / Where / Who / Why / How 等特殊疑问，做简单笔记。\n5. **概括主旨题**：抓重复出现的词和首尾句，归纳中心思想。\n6. **推理判断题**：基于故事内容合理推断，不超范围加入个人理解。\n7. **适当做笔记**：人名、时间、地点、数字、因果关系需速记，避免混淆。\n8. **注意作者态度与故事结局的转折**：结局常出人意表，需听完整。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 5
+    },
+    {
+      "id": "listening-l2-3",
+      "section": "listening",
+      "level_no": 3,
+      "difficulty": "l2",
+      "title": "通知播报",
+      "description": "广播通知与信息播报理解",
+      "icon": "🎧",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 通知播报听力策略\n\n通知播报是 B 节常见独白题型，包括广播通知、航班 / 火车信息、活动安排、天气预报、图书馆通告等。\n\n### 解题策略\n\n1. **听前读选项**：若选项是时间、地点、活动名称，多为通知题，预判通知类型。\n2. **抓通知开头**：通常开门见山说明事项，如 Attention please...、May I have your attention...\n3. **重点记录**：时间、地点、活动名称、注意事项四类信息。\n4. **“视听一致”原则**：通知中听到的具体信息常是答案，无需推理。\n5. **注意变更信息**：原计划 vs 现计划，关键词 delayed、changed、cancelled、moved to、rescheduled。\n6. **注意指示性动词**：please、remember、make sure、don't forget 后常是考点。\n7. **概括主旨**：抓首句和反复出现的主题词。\n8. **数字题做笔记**：时间、门牌、站台、温度等需速记。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 6
+    },
+    {
+      "id": "listening-l3-1",
+      "section": "listening",
+      "level_no": 1,
+      "difficulty": "l3",
+      "title": "观点态度题",
+      "description": "推断说话者的观点与态度",
+      "icon": "🎙️",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## 观点态度听力策略\n\n观点态度题是 PETS-3 听力难点，考查说话人对某人某事的态度。态度往往含而不露，需通过关键词、语气、语调推断。\n\n### 常见表达模式\n\n1. **间接表达**：不明说赞成或反对，用语气暗示。\n2. **反问否定**：用反问句表示质疑和反对。\n3. **委婉谢绝**：先肯定后转折，如 I'd love to, but...\n4. **看似否定实为肯定**：why not、I can't agree more、you can say that again。\n\n### 解题策略\n\n1. **抓态度词**：positive / negative、interesting / boring、reasonable / questionable、reliable / doubtful。\n2. **注意转折词后才是真实态度**：but、however、actually、in fact、to be honest 之后的内容是答案。\n3. **“重女轻男”原则**：女生观点常是答案，男生观点常被修正。\n4. **注意语气语调**：升调表怀疑或反问，降调表肯定。\n5. **区分事实与观点**：观点题问的是态度，不是事实细节。\n6. **常见提问**：How does the man / woman feel about...? What does the man / woman think of...?",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 7
+    },
+    {
+      "id": "listening-l3-2",
+      "section": "listening",
+      "level_no": 2,
+      "difficulty": "l3",
+      "title": "PETS-3 真题综合",
+      "description": "PETS-3 真题难度综合训练",
+      "icon": "🎙️",
+      "color": "#ff4b4b",
+      "type": null,
+      "lesson": "## PETS-3 真题综合策略\n\n本关为 PETS-3 真题难度综合训练，融合短对话、长对话、短文多种题型，考查综合听力能力：事实细节、主旨大意、推理判断、观点态度。\n\n### 综合解题策略\n\n1. **听前快速浏览所有选项**，预判题型（细节 / 主旨 / 推理 / 态度）和主题。\n2. **短对话用“所听非所得”原则**，需推理运算；**长对话用“视听一致”原则**，听到的多是答案。\n3. **主旨题**：抓首尾句和重复出现的主题词。\n4. **细节题**：注意 When / Where / Who / Why / How 等特殊疑问，做笔记。\n5. **推理题**：基于材料合理推断，不超范围加入个人理解。\n6. **适当做笔记**：人名、时间、地点、数字、因果关系需速记。\n7. **边听边答**，做完一题立即看下一题，不纠结。\n8. **注意同义替换与转折词**：but、however 后常是考点；buy = purchase、cheap = inexpensive。",
+      "passage": null,
+      "passage_cn": null,
+      "sort_order": 8
+    }
+  ],
+  "words": [],
+  "examples": [
+    { "level_id": "listening-l1-1", "en": "half past three", "cn": "三点半", "sort_order": 0 },
+    { "level_id": "listening-l1-1", "en": "a quarter to ten", "cn": "差一刻十点", "sort_order": 1 },
+    { "level_id": "listening-l1-1", "en": "out of stock", "cn": "缺货", "sort_order": 2 },
+    { "level_id": "listening-l1-1", "en": "on sale", "cn": "打折出售", "sort_order": 3 },
+    { "level_id": "listening-l1-1", "en": "ahead of schedule", "cn": "提前", "sort_order": 4 },
+    { "level_id": "listening-l1-1", "en": "20% off", "cn": "打八折", "sort_order": 5 },
+
+    { "level_id": "listening-l1-2", "en": "doctor and patient", "cn": "医生与病人", "sort_order": 0 },
+    { "level_id": "listening-l1-2", "en": "teacher and student", "cn": "老师与学生", "sort_order": 1 },
+    { "level_id": "listening-l1-2", "en": "boss and secretary", "cn": "老板与秘书", "sort_order": 2 },
+    { "level_id": "listening-l1-2", "en": "waiter and customer", "cn": "服务员与顾客", "sort_order": 3 },
+    { "level_id": "listening-l1-2", "en": "make an appointment", "cn": "预约", "sort_order": 4 },
+    { "level_id": "listening-l1-2", "en": "take one's temperature", "cn": "量体温", "sort_order": 5 },
+
+    { "level_id": "listening-l1-3", "en": "railway station", "cn": "火车站", "sort_order": 0 },
+    { "level_id": "listening-l1-3", "en": "boarding pass", "cn": "登机牌", "sort_order": 1 },
+    { "level_id": "listening-l1-3", "en": "take off", "cn": "起飞", "sort_order": 2 },
+    { "level_id": "listening-l1-3", "en": "turn left", "cn": "左转", "sort_order": 3 },
+    { "level_id": "listening-l1-3", "en": "next to", "cn": "紧邻", "sort_order": 4 },
+    { "level_id": "listening-l1-3", "en": "at the airport", "cn": "在机场", "sort_order": 5 },
+
+    { "level_id": "listening-l2-1", "en": "sales conference", "cn": "销售会议", "sort_order": 0 },
+    { "level_id": "listening-l2-1", "en": "make a booking", "cn": "预订", "sort_order": 1 },
+    { "level_id": "listening-l2-1", "en": "reception", "cn": "招待会", "sort_order": 2 },
+    { "level_id": "listening-l2-1", "en": "European operation", "cn": "欧洲业务", "sort_order": 3 },
+    { "level_id": "listening-l2-1", "en": "double room", "cn": "双人间", "sort_order": 4 },
+    { "level_id": "listening-l2-1", "en": "first flight", "cn": "头班机", "sort_order": 5 },
+
+    { "level_id": "listening-l2-2", "en": "lucky customer", "cn": "幸运顾客", "sort_order": 0 },
+    { "level_id": "listening-l2-2", "en": "free groceries", "cn": "免费食品", "sort_order": 1 },
+    { "level_id": "listening-l2-2", "en": "shopping basket", "cn": "购物篮", "sort_order": 2 },
+    { "level_id": "listening-l2-2", "en": "cash desk", "cn": "收银台", "sort_order": 3 },
+    { "level_id": "listening-l2-2", "en": "approach", "cn": "接近", "sort_order": 4 },
+    { "level_id": "listening-l2-2", "en": "congratulate", "cn": "祝贺", "sort_order": 5 },
+
+    { "level_id": "listening-l2-3", "en": "attention please", "cn": "请注意", "sort_order": 0 },
+    { "level_id": "listening-l2-3", "en": "flight CA123", "cn": "航班 CA123", "sort_order": 1 },
+    { "level_id": "listening-l2-3", "en": "boarding gate", "cn": "登机口", "sort_order": 2 },
+    { "level_id": "listening-l2-3", "en": "delayed", "cn": "延误", "sort_order": 3 },
+    { "level_id": "listening-l2-3", "en": "departure time", "cn": "出发时间", "sort_order": 4 },
+    { "level_id": "listening-l2-3", "en": "due to", "cn": "由于", "sort_order": 5 },
+
+    { "level_id": "listening-l3-1", "en": "I can't agree more", "cn": "我完全同意", "sort_order": 0 },
+    { "level_id": "listening-l3-1", "en": "why not", "cn": "为什么不呢（表赞同）", "sort_order": 1 },
+    { "level_id": "listening-l3-1", "en": "I doubt it", "cn": "我怀疑", "sort_order": 2 },
+    { "level_id": "listening-l3-1", "en": "questionable", "cn": "可疑的", "sort_order": 3 },
+    { "level_id": "listening-l3-1", "en": "reliable", "cn": "可靠的", "sort_order": 4 },
+    { "level_id": "listening-l3-1", "en": "to be honest", "cn": "老实说", "sort_order": 5 },
+
+    { "level_id": "listening-l3-2", "en": "give up smoking", "cn": "戒烟", "sort_order": 0 },
+    { "level_id": "listening-l3-2", "en": "nicotine", "cn": "尼古丁", "sort_order": 1 },
+    { "level_id": "listening-l3-2", "en": "tar", "cn": "焦油", "sort_order": 2 },
+    { "level_id": "listening-l3-2", "en": "cause cancer", "cn": "致癌", "sort_order": 3 },
+    { "level_id": "listening-l3-2", "en": "be dependent on", "cn": "依赖", "sort_order": 4 },
+    { "level_id": "listening-l3-2", "en": "health expert", "cn": "健康专家", "sort_order": 5 }
+  ],
+  "questions": [
+    {
+      "level_id": "listening-l1-1",
+      "blank": null,
+      "question": "W: Excuse me, what time is it now?\nM: It's half past three.\nQ: What time is it now?",
+      "options": ["3:00", "3:30", "4:00", "4:30"],
+      "answer": 1,
+      "explanation": "对话中明确提到 It's half past three，即三点半，对应 3:30",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l1-1",
+      "blank": null,
+      "question": "W: When does the train leave?\nM: It leaves at a quarter to ten.\nQ: When does the train leave?",
+      "options": ["9:15", "9:45", "10:15", "10:45"],
+      "answer": 1,
+      "explanation": "a quarter to ten 意为“差一刻到十点”，即 9:45",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l1-1",
+      "blank": null,
+      "question": "M: How much is this shirt?\nW: It's 50 dollars. But today it's on sale, 20% off.\nQ: How much does the man pay for the shirt today?",
+      "options": ["$40", "$50", "$60", "$30"],
+      "answer": 0,
+      "explanation": "原价 50 美元，打八折（20% off），50 × 0.8 = 40 美元",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l1-1",
+      "blank": null,
+      "question": "W: I'd like to book a room for three nights.\nM: That will be 120 dollars per night.\nQ: How much will the woman pay in total?",
+      "options": ["$120", "$240", "$360", "$480"],
+      "answer": 2,
+      "explanation": "每晚 120 美元，住 3 晚，120 × 3 = 360 美元",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l1-1",
+      "blank": null,
+      "question": "M: Were you born in 1990?\nW: No, I was born in 1919... sorry, 1989.\nQ: When was the woman born?",
+      "options": ["1919", "1989", "1990", "1999"],
+      "answer": 1,
+      "explanation": "女士先说 1919 后立即更正为 1989，故出生年份是 1989",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l1-2",
+      "blank": null,
+      "question": "W: What seems to be the problem?\nM: I have a bad headache and a sore throat.\nW: Let me take your temperature first.\nQ: What is the probable relationship between the two speakers?",
+      "options": ["Teacher and student", "Doctor and patient", "Boss and secretary", "Waiter and customer"],
+      "answer": 1,
+      "explanation": "出现 headache、sore throat、take your temperature 等医疗关键词，是医生与病人的关系",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l1-2",
+      "blank": null,
+      "question": "M: Did you finish the report I asked for?\nW: Not yet, Mr. Smith. I'll have it on your desk by noon.\nQ: What is the probable relationship between the speakers?",
+      "options": ["Husband and wife", "Doctor and patient", "Boss and secretary", "Teacher and student"],
+      "answer": 2,
+      "explanation": "提到 report、放到 desk 上、称呼 Mr. Smith，体现上下级关系，是老板与秘书",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l1-2",
+      "blank": null,
+      "question": "W: Are you ready to order?\nM: Yes, I'd like a steak and a salad, please.\nQ: Where does the conversation most likely take place?",
+      "options": ["In a hospital", "In a restaurant", "In a school", "In an office"],
+      "answer": 1,
+      "explanation": "出现 order、steak、salad 等餐饮关键词，发生在餐厅，是服务员与顾客",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l1-2",
+      "blank": null,
+      "question": "M: Professor Lee, may I ask a question about the assignment?\nW: Of course. Please come to my office after class.\nQ: Who is the woman most probably?",
+      "options": ["A doctor", "A secretary", "A teacher", "A waitress"],
+      "answer": 2,
+      "explanation": "女士被称为 Professor，提到 assignment（作业）、after class，是老师",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l1-2",
+      "blank": null,
+      "question": "W: Where to, sir?\nM: The railway station, please. How much is the fare?\nQ: What is the probable relationship between the speakers?",
+      "options": ["Driver and passenger", "Doctor and patient", "Teacher and student", "Boss and secretary"],
+      "answer": 0,
+      "explanation": "出现 where to、railway station、fare（车费）等关键词，是司机与乘客",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l1-3",
+      "blank": null,
+      "question": "W: Good morning. I'd like to check in.\nM: May I see your passport and ticket, please?\nQ: Where does the conversation most likely take place?",
+      "options": ["At a bank", "At a hotel", "At an airport", "At a restaurant"],
+      "answer": 2,
+      "explanation": "出现 check in、passport、ticket 等关键词，且查验护照和机票，发生在机场",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l1-3",
+      "blank": null,
+      "question": "M: I'd like to deposit some money.\nW: Please fill in this form and show me your ID card.\nQ: Where is the man?",
+      "options": ["In a bank", "In a hospital", "In a school", "In a shop"],
+      "answer": 0,
+      "explanation": "出现 deposit money（存钱）、fill in form、ID card，发生在银行",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l1-3",
+      "blank": null,
+      "question": "W: Excuse me, how can I get to the post office?\nM: Go straight ahead and turn left at the second crossing.\nQ: Where does the woman want to go?",
+      "options": ["To a bank", "To a post office", "To a hospital", "To a school"],
+      "answer": 1,
+      "explanation": "女士明确问 how can I get to the post office，目的地是邮局",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l1-3",
+      "blank": null,
+      "question": "M: Could you tell me where the computer lab is?\nW: It's on the second floor, next to the library.\nQ: Where is the computer lab?",
+      "options": ["On the first floor", "On the second floor", "Next to the canteen", "Opposite the library"],
+      "answer": 1,
+      "explanation": "女士说 It's on the second floor，且 next to the library，在二楼",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l1-3",
+      "blank": null,
+      "question": "W: Has the flight to Paris taken off yet?\nM: No, it's delayed by 30 minutes due to bad weather.\nQ: Where does the conversation take place?",
+      "options": ["At a railway station", "At an airport", "At a bus stop", "At a hotel"],
+      "answer": 1,
+      "explanation": "提到 flight（航班）、take off（起飞）、delayed，发生在机场",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l2-1",
+      "blank": null,
+      "question": "M: I think we'd better go over my schedule, Irene. I'm going to London next Tuesday for a sales conference.\nW: Right, Mr. Buck. How long will it last?\nM: It runs through Wednesday and Thursday.\nQ: How long will the sales conference in London last?",
+      "options": ["One day", "Two days", "Three days", "Four days"],
+      "answer": 1,
+      "explanation": "会议 runs through Wednesday and Thursday，即周三到周四，共两天",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l2-1",
+      "blank": null,
+      "question": "W: So when are you leaving for Paris?\nM: First flight on Saturday morning. I'm planning to meet my wife there.\nW: How long are you going to stay in Paris?\nM: Only till Monday evening.\nQ: When is Mr. Buck leaving for Paris?",
+      "options": ["On Friday morning", "On Saturday morning", "On Sunday evening", "On Monday evening"],
+      "answer": 1,
+      "explanation": "男士说 First flight on Saturday morning，即周六早上的航班去巴黎",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l2-1",
+      "blank": null,
+      "question": "W: Why are you so upset, David?\nM: My boss warned me not to spend all day chatting online, but I didn't. He just didn't believe me.\nW: You must have forgotten to close your email page again.\nQ: What does the woman think the man did wrong?",
+      "options": ["He chatted all day", "He left his email page open", "He quarreled with his boss", "He forgot the meeting"],
+      "answer": 1,
+      "explanation": "女士说 You must have forgotten to close your email page again，认为他没关邮箱页面",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l2-1",
+      "blank": null,
+      "question": "W: These skirts are just what I've been looking for. Have you got the medium sizes?\nM: I'm afraid not, Madam. They are temporarily out of stock.\nW: How disappointing. When will you have some in?\nM: We should be getting some next Monday.\nQ: What can we learn about the skirts?",
+      "options": ["They are on sale", "They are out of stock", "They are too expensive", "They are the wrong color"],
+      "answer": 1,
+      "explanation": "男士说 temporarily out of stock（暂时缺货），体现短对话“挫折原则”",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l2-1",
+      "blank": null,
+      "question": "M: How long have you been in this country?\nW: Two months, exactly.\nM: Is it hard for you to study at the college?\nW: Yes, I find it very difficult, especially when I cannot follow the professor's lectures.\nQ: What is the woman's main problem?",
+      "options": ["Financial support", "Language ability", "Social contacts", "Cultural differences"],
+      "answer": 1,
+      "explanation": "女士说无法跟上教授的讲座（cannot follow the professor's lectures），是语言能力问题",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l2-2",
+      "blank": null,
+      "question": "All the housewives who went to the supermarket had one ambition: to be the lucky customer who did not have to pay for her shopping. The notice at the entrance promised: \"Once a week, one of our customers gets free groceries.\"\nQ: How did the housewives learn about the offer of free groceries?",
+      "options": ["On the radio", "At the supermarket", "From the manager", "From their friends"],
+      "answer": 1,
+      "explanation": "原文说 The notice at the entrance promised，即超市入口的告示，在超市得知",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l2-2",
+      "blank": null,
+      "question": "For several weeks Mrs. Edwards hoped to be the lucky customer. Unlike her friends, she never gave up hope. The cupboards in her kitchen were full of things which she did not need.\nQ: What did Mrs. Edwards want very much?",
+      "options": ["To meet the manager", "To get free goods", "To fill her cupboards", "To buy cheap things"],
+      "answer": 1,
+      "explanation": "她一直希望成为 lucky customer，得到 free groceries（免费商品）",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l2-2",
+      "blank": null,
+      "question": "One Friday morning, after she had finished her shopping and taken it to her car, she found she had forgotten to buy tea. She dashed back to the supermarket, got the tea and went towards the cash desk.\nQ: Why did Mrs. Edwards go back to the supermarket?",
+      "options": ["To meet the manager", "To buy one more thing", "To find her shopping", "To pay for her shopping"],
+      "answer": 1,
+      "explanation": "她发现 forgot to buy tea，回去是为了再买一样东西（茶叶）",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l2-2",
+      "blank": null,
+      "question": "As she did so, she saw the manager approach her. \"Madam,\" he said, \"You are the lucky customer and everything in your basket is free!\"\nQ: How did Mrs. Edwards feel at the end of the story?",
+      "options": ["Embarrassed", "Disappointed", "Delighted", "Proud"],
+      "answer": 2,
+      "explanation": "成为幸运顾客、购物全免，心情应是 delighted（高兴的）",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l2-2",
+      "blank": null,
+      "question": "Unlike her friends, she never gave up hope. In vain her husband tried to dissuade her. She dreamed of the day when the manager would say: \"Everything in your basket is free.\"\nQ: What can we infer about Mrs. Edwards?",
+      "options": ["She was easily discouraged", "She was determined and hopeful", "She didn't like shopping", "She was angry with her husband"],
+      "answer": 1,
+      "explanation": "她从不放弃希望（never gave up hope），丈夫劝阻也无用，体现 determined and hopeful",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l2-3",
+      "blank": null,
+      "question": "Attention please. Flight CA123 to Shanghai will be delayed by 40 minutes due to bad weather. The new departure time is 3:20 p.m. Passengers please wait at Gate 12.\nQ: What is the new departure time of Flight CA123?",
+      "options": ["2:40 p.m.", "3:20 p.m.", "3:40 p.m.", "4:00 p.m."],
+      "answer": 1,
+      "explanation": "通知明确说 The new departure time is 3:20 p.m.",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l2-3",
+      "blank": null,
+      "question": "May I have your attention, please. The library will be closed this Saturday for cleaning. It will reopen on Monday morning. Please return all borrowed books before Friday.\nQ: When will the library reopen?",
+      "options": ["On Saturday", "On Sunday", "On Monday", "On Friday"],
+      "answer": 2,
+      "explanation": "通知说 It will reopen on Monday morning，周一重新开放",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l2-3",
+      "blank": null,
+      "question": "Attention all students. The school sports meeting, originally scheduled for Friday, has been moved to next Monday because of the rain. Please gather at the playground at 8:00 a.m.\nQ: When will the sports meeting be held?",
+      "options": ["This Friday", "This Sunday", "Next Monday", "Next Friday"],
+      "answer": 2,
+      "explanation": "原定周五，因雨 moved to next Monday，改到下周一",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l2-3",
+      "blank": null,
+      "question": "Good morning, everyone. The weather forecast for tomorrow: it will be cloudy in the morning with light rain in the afternoon. The temperature will range from 15 to 22 degrees. Please bring an umbrella.\nQ: What will the weather be like tomorrow afternoon?",
+      "options": ["Sunny", "Cloudy", "Rainy", "Snowy"],
+      "answer": 2,
+      "explanation": "预报说 light rain in the afternoon，下午有小雨",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l2-3",
+      "blank": null,
+      "question": "Attention passengers. The train to Beijing is now boarding at Platform 5. Please have your tickets ready. The train will depart in 15 minutes.\nQ: Where should passengers board the train to Beijing?",
+      "options": ["At Platform 3", "At Platform 4", "At Platform 5", "At Platform 6"],
+      "answer": 2,
+      "explanation": "通知说 boarding at Platform 5，在 5 号站台上车",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l3-1",
+      "blank": null,
+      "question": "M: Do you believe it, Mary? Long-term use of mobile phones could increase the risk of cancer.\nW: Well, I read that article too. But I doubt it. There are huge question marks over the reliability of the data.\nQ: What does the woman think of the data in the article?",
+      "options": ["It is original", "It is reliable", "It is questionable", "It is authoritative"],
+      "answer": 2,
+      "explanation": "女士说 I doubt it，并指出 question marks over the reliability，认为数据可疑",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l3-1",
+      "blank": null,
+      "question": "M: What do you think of my new suit?\nW: Not bad. Did you get it at the big shopping center?\nM: No, I got it there. It cost me only 150 dollars.\nW: Well, I don't think it's a good bargain.\nQ: What does the woman think of the suit?",
+      "options": ["It is expensive", "It is fashionable", "It is a good bargain", "It is not worth the price"],
+      "answer": 3,
+      "explanation": "女士说 I don't think it's a good bargain，认为不划算、不值这个价",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l3-1",
+      "blank": null,
+      "question": "M: Oh, just look at these people! They are really enjoying the music. It's driving me mad.\nW: Can't you see this is the real communication between the musician and the audience?\nQ: How does the man feel about the music?",
+      "options": ["He loves it", "He finds it relaxing", "He can't stand it", "He thinks it's inspiring"],
+      "answer": 2,
+      "explanation": "男士说 It's driving me mad（快把我逼疯了），无法忍受",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l3-1",
+      "blank": null,
+      "question": "W: I was shocked when I heard you finished your research project a whole month early.\nM: How I managed to do it is still a mystery to me.\nQ: What does the man mean?",
+      "options": ["He planned to finish early", "He's surprised he finished early", "He's not satisfied with the result", "He wants more time"],
+      "answer": 1,
+      "explanation": "男士说 How I managed to do it is still a mystery，对自己能提前完成也感到惊讶",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l3-1",
+      "blank": null,
+      "question": "M: Sally says she has given up smoking.\nW: I can't agree more. It's really a wise decision.\nQ: What does the woman think of Sally's decision?",
+      "options": ["She doubts it", "She fully supports it", "She thinks it's unwise", "She has no opinion"],
+      "answer": 1,
+      "explanation": "女士说 I can't agree more（完全同意），并称赞 a wise decision，全力支持",
+      "sort_order": 4
+    },
+
+    {
+      "level_id": "listening-l3-2",
+      "blank": null,
+      "question": "Why do people smoke? One reason is that people become dependent on cigarettes. The substance which people cannot resist is nicotine. When people smoke, the nicotine goes directly into the blood stream and makes people feel relaxed.\nQ: Why are many people dependent on cigarettes?",
+      "options": ["They like the taste of tar", "Smoking makes them feel relaxed", "Smoking is funny", "Smoking cures disease"],
+      "answer": 1,
+      "explanation": "原文说 nicotine makes people feel relaxed，尼古丁让人放松，故产生依赖",
+      "sort_order": 0
+    },
+    {
+      "level_id": "listening-l3-2",
+      "blank": null,
+      "question": "Many people also like the taste of tar in cigarettes. However, it is the tar that causes cancer. While governments and health experts have tried to make people give up smoking entirely, cigarette manufacturers produce cigarettes with less tar.\nQ: Which substance in cigarette causes cancer?",
+      "options": ["Cigarette ashes", "Nicotine", "Tar", "Not mentioned"],
+      "answer": 2,
+      "explanation": "原文明确说 it is the tar that causes cancer，焦油致癌",
+      "sort_order": 1
+    },
+    {
+      "level_id": "listening-l3-2",
+      "blank": null,
+      "question": "Many people in western countries have welcomed cigarettes with less tar since they find it difficult to stop smoking but want to reduce its risk.\nQ: Why do smokers like low tar cigarettes?",
+      "options": ["They are less harmful", "They cost less", "They taste better", "They last longer"],
+      "answer": 0,
+      "explanation": "原文说 want to reduce its risk，低焦油香烟危害更小",
+      "sort_order": 2
+    },
+    {
+      "level_id": "listening-l3-2",
+      "blank": null,
+      "question": "M: I've been worried that Richard is unhappy.\nW: What seems to be the problem?\nM: Well, he has trouble concentrating when playing with other children. I was wondering if there might be some problem at home.\nQ: What is the possible relationship between the two speakers?",
+      "options": ["Husband and wife", "Doctor and patient", "Teacher and parent", "Boss and secretary"],
+      "answer": 2,
+      "explanation": "讨论 Richard 在校表现（concentrating、playing with other children），像是老师与家长",
+      "sort_order": 3
+    },
+    {
+      "level_id": "listening-l3-2",
+      "blank": null,
+      "question": "W: Oh, we are going away to the seaside for a few days. Can you keep an eye on my home while I'm away?\nM: Certainly, Jackie. Make sure you lock the doors and shut all the windows.\nW: Thanks. It's very kind of you.\nQ: What does the woman ask the man to do?",
+      "options": ["Repair her window", "Take care of her house", "Take a rest for a few days", "Go to the seaside with her"],
+      "answer": 1,
+      "explanation": "女士说 Can you keep an eye on my home，即请他照看房子",
+      "sort_order": 4
+    }
+  ]
+}
