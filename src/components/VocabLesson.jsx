@@ -11,6 +11,7 @@ const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
 export default function VocabLesson({ level, gameState, maxLevels, onComplete, onExit }) {
   const { words } = level;
+  const { setPresence } = useTutor();
   const [phase, setPhase] = useState('learn');
   const [currentIdx, setCurrentIdx] = useState(0);
   const [flipped, setFlipped] = useState(false);

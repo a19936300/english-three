@@ -1,7 +1,10 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { ArrowLeft, Check, X, Heart, Volume2, ChevronRight } from 'lucide-react';
 import ProgressBar from './ProgressBar';
 import DuolingoButton from './ui/DuolingoButton';
+import { useTutor } from '../context/TutorContext';
+import { buildPresenceScene } from '../lib/tutorScene';
+import { reportAnswer } from '../lib/reportAnswer';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
@@ -63,7 +66,73 @@ export default function QuizLesson({ level, section, gameState, maxLevels, onCom
       setHearts((h) => Math.max(0, h - 1));
       gameState.loseHeart();
     }
+    void reportAnswer({
+      questionId: q.id || `${level.id}-q-${currentIdx}`,
+      levelId: level.id,
+      section,
+      isCorrect: correct,
+    });
   };
+
+  useEffect(() => {
+    if (phase === 'lesson') {
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section,
+          levelId: level.id,
+          levelTitle: level.title,
+          phase: 'lesson',
+          content: { type: 'lesson', lesson: level.lesson, examples: level.examples },
+        }),
+      );
+    } else if (phase === 'passage') {
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section,
+          levelId: level.id,
+          levelTitle: level.title,
+          phase: 'passage',
+          content: {
+            type: 'passage',
+            passage_excerpt: (level.passage || '').slice(0, 400),
+            hasFullPassage: true,
+          },
+        }),
+      );
+    } else if (phase === 'quiz' && questions[currentIdx]) {
+      const q = questions[currentIdx];
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section,
+          levelId: level.id,
+          levelTitle: level.title,
+          phase: 'quiz',
+          itemIndex: currentIdx,
+          itemTotal: questions.length,
+          answerState:
+            feedback === 'correct'
+              ? 'answered_correct'
+              : feedback === 'wrong'
+                ? 'answered_wrong'
+                : 'unanswered',
+          content: {
+            type: 'quiz',
+            question: q.question || `选择填入第${q.blank}空的正确答案`,
+            options: q.options,
+            ...(feedback
+              ? {
+                  answer: q.answer,
+                  explanation: q.explanation,
+                }
+              : {}),
+          },
+        }),
+      );
+    }
+  }, [phase, currentIdx, feedback, questions, level, section, setPresence]);
 
   const nextQuestion = () => {
     if (currentIdx + 1 < questions.length) {
