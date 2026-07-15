@@ -4,7 +4,9 @@ const SECTION_CONFIG = {
   vocabulary: { title: '单词闯关', subtitle: 'Vocabulary', color: 'var(--skill-vocab)' },
   grammar: { title: '语法闯关', subtitle: 'Grammar', color: 'var(--skill-grammar)' },
   reading: { title: '阅读闯关', subtitle: 'Reading', color: 'var(--skill-reading)' },
-  exam: { title: '真题闯关', subtitle: 'Exam', color: 'var(--skill-exam)' },
+  listening: { title: '听力闯关', subtitle: 'Listening', color: 'var(--skill-listening)' },
+  writing: { title: '写作闯关', subtitle: 'Writing', color: 'var(--skill-writing)' },
+  speaking: { title: '口试闯关', subtitle: 'Speaking', color: 'var(--skill-speaking)' },
 };
 
 export default function PathMap({ section, levels, gameState, onSelectLevel, onBack }) {

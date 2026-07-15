@@ -9,14 +9,18 @@ const SECTION_COLOR_VAR = {
   vocabulary: 'var(--skill-vocab)',
   grammar: 'var(--skill-grammar)',
   reading: 'var(--skill-reading)',
-  exam: 'var(--skill-exam)',
+  listening: 'var(--skill-listening)',
+  writing: 'var(--skill-writing)',
+  speaking: 'var(--skill-speaking)',
 };
 
 const SECTION_SHADOW_VAR = {
   vocabulary: 'var(--skill-vocab-shadow)',
   grammar: 'var(--skill-grammar-shadow)',
   reading: 'var(--skill-reading-shadow)',
-  exam: 'var(--skill-exam-shadow)',
+  listening: 'var(--skill-listening-shadow)',
+  writing: 'var(--skill-writing-shadow)',
+  speaking: 'var(--skill-speaking-shadow)',
 };
 
 export default function QuizLesson({ level, section, gameState, maxLevels, onComplete, onExit }) {
