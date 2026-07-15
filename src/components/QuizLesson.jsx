@@ -27,6 +27,7 @@ export default function QuizLesson({ level, section, gameState, maxLevels, onCom
   const hasLesson = !!level.lesson;
   const hasPassage = !!level.passage;
   const questions = level.quiz || level.questions || [];
+  const { setPresence } = useTutor();
 
   const [phase, setPhase] = useState(hasLesson ? 'lesson' : hasPassage ? 'passage' : 'quiz');
   const [currentIdx, setCurrentIdx] = useState(0);

@@ -1,8 +1,11 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { ArrowLeft, Volume2, Check, X, Heart, ChevronRight, RotateCw } from 'lucide-react';
 import ProgressBar from './ProgressBar';
 import Flashcard from './ui/Flashcard';
 import DuolingoButton from './ui/DuolingoButton';
+import { useTutor } from '../context/TutorContext';
+import { buildPresenceScene } from '../lib/tutorScene';
+import { reportAnswer } from '../lib/reportAnswer';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
@@ -63,7 +66,64 @@ export default function VocabLesson({ level, gameState, maxLevels, onComplete, o
       setHearts((h) => Math.max(0, h - 1));
       gameState.loseHeart();
     }
+    void reportAnswer({
+      questionId: `${level.id}-vocab-${quizIdx}`,
+      levelId: level.id,
+      section: 'vocabulary',
+      isCorrect: correct,
+    });
   };
+
+  useEffect(() => {
+    if (phase === 'learn' && words[currentIdx]) {
+      const word = words[currentIdx];
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section: 'vocabulary',
+          levelId: level.id,
+          levelTitle: level.title,
+          phase: 'learn',
+          itemIndex: currentIdx,
+          itemTotal: words.length,
+          answerState: 'unanswered',
+          content: {
+            type: 'word',
+            en: word.en,
+            cn: word.cn,
+            phonetic: word.phonetic,
+            example: word.example,
+            example_cn: word.exampleCn,
+          },
+        }),
+      );
+    } else if (phase === 'quiz' && quizQuestions[quizIdx]) {
+      const q = quizQuestions[quizIdx];
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section: 'vocabulary',
+          levelId: level.id,
+          levelTitle: level.title,
+          phase: 'quiz',
+          itemIndex: quizIdx,
+          itemTotal: quizQuestions.length,
+          answerState:
+            feedback === 'correct'
+              ? 'answered_correct'
+              : feedback === 'wrong'
+                ? 'answered_wrong'
+                : 'unanswered',
+          content: {
+            type: 'vocab_quiz',
+            word: q.word,
+            options: q.options,
+            ...(feedback ? { answer: q.correctAnswer } : {}),
+          },
+        }),
+      );
+    }
+  }, [phase, currentIdx, quizIdx, feedback, words, quizQuestions, level, setPresence]);
 
   const nextQuestion = () => {
     if (quizIdx + 1 < quizQuestions.length) {

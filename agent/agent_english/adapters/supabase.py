@@ -104,3 +104,64 @@ class SupabaseAdapter:
             .execute()
         )
         return resp.data[0] if resp.data else None
+
+    # ---------- Tutor: learning profile & memory ----------
+
+    def fetch_learning_profile(self, user_id: str, section: str | None = None) -> dict:
+        answers = self.fetch_user_answers(user_id)
+        if section:
+            answers = [a for a in answers if a.get("section") == section]
+        total = len(answers)
+        correct = sum(1 for a in answers if a.get("is_correct"))
+        weak = [a.get("question_id") for a in answers if not a.get("is_correct")][-10:]
+        by_section: dict[str, list] = {}
+        for a in answers:
+            by_section.setdefault(a.get("section") or "unknown", []).append(a)
+        section_rates = {
+            s: (sum(1 for x in rows if x.get("is_correct")) / len(rows) if rows else 0.0)
+            for s, rows in by_section.items()
+        }
+        return {
+            "user_id": user_id,
+            "total_answers": total,
+            "correct_rate": (correct / total) if total else 0.0,
+            "section_rates": section_rates,
+            "recent_weak_question_ids": weak,
+        }
+
+    def fetch_memories(self, user_id: str, limit: int = 10) -> list[dict]:
+        resp = (
+            self.client.table("tutor_memory")
+            .select("*")
+            .eq("user_id", user_id)
+            .is_("expired_at", "null")
+            .order("importance", desc=True)
+            .order("updated_at", desc=True)
+            .limit(limit)
+            .execute()
+        )
+        return resp.data or []
+
+    def upsert_memory(
+        self,
+        *,
+        user_id: str,
+        kind: str,
+        content: str,
+        importance: int = 1,
+        meta: dict | None = None,
+        source: str = "agent",
+    ) -> dict | None:
+        resp = (
+            self.client.table("tutor_memory")
+            .insert({
+                "user_id": user_id,
+                "kind": kind,
+                "content": content,
+                "importance": importance,
+                "meta": meta,
+                "source": source,
+            })
+            .execute()
+        )
+        return resp.data[0] if resp.data else None

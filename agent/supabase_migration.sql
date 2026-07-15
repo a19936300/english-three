@@ -35,3 +35,5 @@ DELETE FROM levels    WHERE section = 'exam';
 ALTER TABLE levels DROP CONSTRAINT IF EXISTS levels_section_check;
 ALTER TABLE levels ADD CONSTRAINT levels_section_check
   CHECK (section IN ('vocabulary','grammar','reading','listening','writing','speaking'));
+
+-- Tutor 扩展见 supabase_migration_tutor.sql

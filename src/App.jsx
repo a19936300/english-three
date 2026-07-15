@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 import { useGameState } from './hooks/useGameState';
 import { useLevelData } from './hooks/useLevelData';
 import Header from './components/Header';
@@ -7,8 +7,47 @@ import PathMap from './components/PathMap';
 import VocabLesson from './components/VocabLesson';
 import QuizLesson from './components/QuizLesson';
 import ResultScreen from './components/ResultScreen';
+import TutorChat from './components/TutorChat';
+import { TutorProvider, useTutor } from './context/TutorContext';
+import { buildPresenceScene } from './lib/tutorScene';
 
-export default function App() {
+function AppPresenceSync({ view, section, currentLevel, result }) {
+  const { setPresence } = useTutor();
+  useEffect(() => {
+    if (view === 'home') {
+      setPresence(buildPresenceScene({ surface: 'home' }));
+    } else if (view === 'path') {
+      setPresence(buildPresenceScene({ surface: 'path', section }));
+    } else if (view === 'lesson' && currentLevel) {
+      setPresence(
+        buildPresenceScene({
+          surface: 'lesson',
+          section,
+          levelId: currentLevel.id,
+          levelTitle: currentLevel.title,
+        }),
+      );
+    } else if (view === 'result' && result) {
+      setPresence(
+        buildPresenceScene({
+          surface: 'result',
+          section,
+          levelId: currentLevel?.id,
+          levelTitle: currentLevel?.title,
+          content: {
+            type: 'result',
+            correct: result.correctCount,
+            total: result.total,
+            wrong: result.wrongCount,
+          },
+        }),
+      );
+    }
+  }, [view, section, currentLevel, result, setPresence]);
+  return null;
+}
+
+function AppShell() {
   const gameState = useGameState();
   const { levelsBySection, loading, error } = useLevelData();
   const [view, setView] = useState('home');
@@ -38,7 +77,7 @@ export default function App() {
       return;
     }
     const levels = levelsBySection[section] || [];
-    const nextLevel = levels.find(l => l.id === currentLevel.id + 1);
+    const nextLevel = levels.find((l) => l.id === currentLevel.id + 1);
     if (nextLevel) {
       setCurrentLevel(nextLevel);
       setResult(null);
@@ -93,12 +132,16 @@ export default function App() {
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--color-bg)' }}>
-      {/* Header - hidden during lesson and result */}
+      <AppPresenceSync
+        view={view}
+        section={section}
+        currentLevel={currentLevel}
+        result={result}
+      />
       {view !== 'lesson' && view !== 'result' && (
         <Header gameState={gameState} onReset={handleHome} />
       )}
 
-      {/* Simple conditional rendering - no AnimatePresence to avoid blank page issues */}
       {view === 'home' && (
         <Home gameState={gameState} onSelectSection={handleSelectSection} />
       )}
@@ -146,6 +189,16 @@ export default function App() {
           onHome={handleHome}
         />
       )}
+
+      {(view === 'lesson' || view === 'result') && <TutorChat />}
     </div>
+  );
+}
+
+export default function App() {
+  return (
+    <TutorProvider>
+      <AppShell />
+    </TutorProvider>
   );
 }
