@@ -33,3 +33,5 @@ __pycache__/
 # Browser-harness debug artifacts
 _bh_*
 _bh_shots/
+
+.worktrees/
