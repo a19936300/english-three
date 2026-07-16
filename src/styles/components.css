@@ -936,6 +936,8 @@
    ============================================ */
 .results-view {
   padding: var(--space-lg) var(--space-md);
+  /* 抽屉打开时让底部操作按钮上移到抽屉之上 */
+  padding-bottom: var(--tutor-drawer-height, var(--space-lg));
   max-width: 480px;
   margin: 0 auto;
   text-align: center;
@@ -1127,6 +1129,8 @@
   background: var(--color-bg);
   display: flex;
   flex-direction: column;
+  /* 抽屉打开时让 footer（翻页/答题按钮）上移到抽屉之上，避免被遮挡 */
+  padding-bottom: var(--tutor-drawer-height, 0px);
 }
 
 .lesson-shell__header {

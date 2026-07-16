@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import logging
 import os
 
 from fastapi import FastAPI, HTTPException
@@ -10,12 +11,19 @@ from agent_english.tutor.models import TutorChatRequest, TutorChatResponse
 from agent_english.tutor.service import TutorError, handle_chat
 from agent_english.tutor.session_store import InMemorySessionStore
 
+logger = logging.getLogger("tutor_api")
+
 
 def build_store():
     if os.getenv("TUTOR_SESSION_BACKEND", "memory") == "supabase":
-        from agent_english.tutor.supabase_session_store import SupabaseSessionStore
+        try:
+            from agent_english.tutor.supabase_session_store import SupabaseSessionStore
 
-        return SupabaseSessionStore()
+            return SupabaseSessionStore()
+        except Exception as e:
+            logger.warning(
+                "SupabaseSessionStore 初始化失败，降级到 InMemorySessionStore: %s", e
+            )
     return InMemorySessionStore()
 
 
@@ -46,8 +54,16 @@ def tutor_chat(req: TutorChatRequest):
         raise HTTPException(e.status, e.message) from e
     except RuntimeError as e:
         if str(e).startswith("llm_failed"):
+            logger.warning("LLM 调用失败: %s", e)
             raise HTTPException(502, "LLM unavailable") from e
-        raise
+        logger.exception("tutor_chat RuntimeError")
+        raise HTTPException(500, f"server error: {e}") from e
+    except Exception as e:
+        # 捕获 supabase 表缺失、网络异常等，避免前端只看到无信息的 500
+        logger.exception("tutor_chat 未知异常")
+        raise HTTPException(
+            500, f"server error: {type(e).__name__}: {e}"
+        ) from e
 
 
 def main():

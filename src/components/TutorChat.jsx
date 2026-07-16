@@ -113,7 +113,7 @@ export default function TutorChat() {
     <div
       className="fixed inset-x-0 bottom-0 z-50 flex flex-col"
       style={{
-        maxHeight: '70vh',
+        maxHeight: '45vh',
         background: 'var(--color-surface, #fff)',
         borderTopLeftRadius: 16,
         borderTopRightRadius: 16,

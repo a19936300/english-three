@@ -50,6 +50,7 @@ function AppPresenceSync({ view, section, currentLevel, result }) {
 function AppShell() {
   const gameState = useGameState();
   const { levelsBySection, loading, error } = useLevelData();
+  const { open: tutorOpen } = useTutor();
   const [view, setView] = useState('home');
   const [section, setSection] = useState(null);
   const [currentLevel, setCurrentLevel] = useState(null);
@@ -131,7 +132,15 @@ function AppShell() {
   if (!levelsBySection) return null;
 
   return (
-    <div className="min-h-screen" style={{ background: 'var(--color-bg)' }}>
+    <div
+      className="min-h-screen"
+      style={{
+        background: 'var(--color-bg)',
+        // 抽屉打开时，给底层 fixed 全屏的 lesson-shell 留出底部空间，
+        // 让 footer（翻页/开始测试按钮）可见可点击；其他视图同理。
+        '--tutor-drawer-height': tutorOpen ? '45vh' : '0px',
+      }}
+    >
       <AppPresenceSync
         view={view}
         section={section}
@@ -190,7 +199,7 @@ function AppShell() {
         />
       )}
 
-      {(view === 'lesson' || view === 'result') && <TutorChat />}
+      <TutorChat />
     </div>
   );
 }

@@ -1,11 +1,14 @@
 from __future__ import annotations
 
+import logging
 from copy import deepcopy
 from typing import Any, Protocol
 
 from agent_english.tutor.models import TutorChatRequest, TutorChatResponse
 from agent_english.tutor.prompt import build_system_prompt, build_user_payload
 from agent_english.tutor.session_store import InMemorySessionStore, apply_discussion
+
+logger = logging.getLogger("tutor_service")
 
 
 class LLM(Protocol):
@@ -47,7 +50,10 @@ def _profile_and_memory_suffix(user_id: str) -> str:
             + "\n"
             + format_memories_for_prompt(mems)
         )
-    except Exception:
+    except Exception as e:
+        # 降级：user_answers / tutor_memory 表缺失或 Supabase 未配置时，
+        # 不影响主对话流程，仅记录日志便于排查。
+        logger.debug("profile/memory 降级（user_id=%s）: %s: %s", user_id, type(e).__name__, e)
         return "\n学习画像：暂无（未配置或冷启动）。\n教学记忆：无。"
 
 
