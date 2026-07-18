@@ -1,10 +1,20 @@
 from __future__ import annotations
 
+import os
 import traceback
 from pathlib import Path
 
-# agent/config.yaml — always load this project's DeerFlow config
-_CONFIG_PATH = Path(__file__).resolve().parents[2] / "config.yaml"
+# Default: agent/config.yaml (local). Production entrypoint sets DEER_FLOW_CONFIG_PATH.
+_DEFAULT_CONFIG = Path(__file__).resolve().parents[2] / "config.yaml"
+
+
+def _resolve_config_path(config_path: str | Path | None = None) -> str:
+    if config_path:
+        return str(config_path)
+    env = os.getenv("DEER_FLOW_CONFIG_PATH", "").strip()
+    if env:
+        return env
+    return str(_DEFAULT_CONFIG)
 
 
 class DeerFlowLLM:
@@ -12,7 +22,7 @@ class DeerFlowLLM:
 
     def __init__(self, config_path: str | Path | None = None) -> None:
         self._client = None
-        self._config_path = str(config_path or _CONFIG_PATH)
+        self._config_path = _resolve_config_path(config_path)
 
     def _get(self):
         if self._client is None:
@@ -32,10 +42,13 @@ class DeerFlowLLM:
         try:
             result = client.chat(prompt)
         except Exception as e2:
-            import traceback
             err = traceback.format_exc()
-            with open(r'e:\workspace2\english-three\agent\llm_error.log', 'w', encoding='utf-8') as f:
-                f.write(f"chat failed: {e2}\n{err}\n")
+            # Prefer /tmp in containers; fall back next to package-local log.
+            log_path = Path(os.getenv("TUTOR_LLM_ERROR_LOG", "/tmp/tutor_llm_error.log"))
+            try:
+                log_path.write_text(f"chat failed: {e2}\n{err}\n", encoding="utf-8")
+            except OSError:
+                pass
             raise RuntimeError(f"llm_failed: {e2}") from e2
         if isinstance(result, str):
             return result.strip()

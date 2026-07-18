@@ -108,4 +108,65 @@ git -c core.sshCommand="ssh -o ProxyCommand='nc -X connect -x 127.0.0.1:6468 %h 
 **Q: 想绑定自定义域名？**
 Vercel 项目 → Settings → Domains → 添加域名并按提示配置 DNS。
 
+---
+
+## Tutor API（Python agent）— Render
+
+前端在 Vercel；**Tutor 后端**部署在 Render（Docker）。相关文件：
+
+| 文件 | 说明 |
+|------|------|
+| [render.yaml](../render.yaml) | Render Blueprint |
+| [agent/Dockerfile](../agent/Dockerfile) | 生产镜像 |
+| [agent/docker-entrypoint.sh](../agent/docker-entrypoint.sh) | 启动时用环境变量生成 `config.yaml` |
+| [agent/docker_gen_config.py](../agent/docker_gen_config.py) | 配置生成脚本 |
+
+### 部署步骤
+
+1. 将含上述文件的提交推送到 GitHub `main`
+2. 打开 [Render Dashboard](https://dashboard.render.com/) → **New → Blueprint** → 选择 `english-three` 仓库
+3. 按提示填写密钥环境变量（Blueprint 中 `sync: false` 的项）：
+
+| 变量 | 说明 |
+|------|------|
+| `SUPABASE_URL` | Supabase 项目 URL |
+| `SUPABASE_SERVICE_ROLE_KEY` | service_role（仅服务端） |
+| `MODEL_API_KEY` | LLM API Key |
+| `MODEL_NAME` | 模型名，如 `deepseek-v4-flash` / `gpt-4o-mini` |
+| `MODEL_BASE_URL` | 兼容 OpenAI 的 base URL（可空） |
+
+4. 等待构建完成，记下服务地址，例如 `https://english-three-tutor.onrender.com`
+5. 在 **Vercel** 项目环境变量中设置并重新部署前端：
+
+```
+VITE_TUTOR_API_URL=https://english-three-tutor.onrender.com
+```
+
+6. 验证：
+
+```bash
+curl https://english-three-tutor.onrender.com/health
+# {"ok":true}
+```
+
+### Free 实例注意
+
+- 约 **15 分钟无流量会休眠**，下次请求冷启动可能需 30s–2min
+- `deerflow-harness` 从 GitHub 安装，**首次构建较慢**，且依赖较重，若 Free 构建 OOM，可改为 Starter 计划
+- 密钥勿写入仓库中的 `agent/config.yaml`（生产由 entrypoint 生成）
+
+### 本地构建镜像（可选）
+
+```bash
+cd agent
+docker build -t english-three-tutor .
+docker run --rm -p 10000:10000 \
+  -e MODEL_API_KEY=xxx \
+  -e MODEL_NAME=gpt-4o-mini \
+  -e SUPABASE_URL=https://xxx.supabase.co \
+  -e SUPABASE_SERVICE_ROLE_KEY=xxx \
+  -e TUTOR_SESSION_BACKEND=memory \
+  english-three-tutor
+```
+
 

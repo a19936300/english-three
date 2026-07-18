@@ -1,0 +1,52 @@
+# Render Blueprint — PETS-3 Tutor API (Python FastAPI + DeerFlow)
+# Docs: https://render.com/docs/blueprint-spec
+#
+# Deploy:
+#   1. Push this repo to GitHub
+#   2. Render Dashboard → New → Blueprint → select this repo
+#   3. Fill in secret env vars when prompted (sync: false)
+#   4. After deploy, set Vercel env VITE_TUTOR_API_URL=https://<service>.onrender.com
+#
+# Free tier note: web service spins down after ~15 min idle; first request cold-starts.
+
+services:
+  - type: web
+    name: english-three-tutor
+    runtime: docker
+    plan: free
+    # Free instances are widely available in oregon; change if you prefer APAC.
+    region: oregon
+    rootDir: agent
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    # Health check used by Render (must return 2xx)
+    healthCheckPath: /health
+    # Auto-deploy on push to this branch
+    branch: main
+    autoDeployTrigger: commit
+    envVars:
+      # --- Supabase (required for session backend + tools) ---
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+
+      # --- LLM (required; written into config.yaml at container start) ---
+      - key: MODEL_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        sync: false
+      - key: MODEL_BASE_URL
+        sync: false
+      - key: MODEL_USE
+        value: langchain_openai:ChatOpenAI
+      - key: MODEL_DISPLAY_NAME
+        value: Tutor LLM
+      - key: MODEL_MAX_TOKENS
+        value: "8192"
+
+      # --- Tutor API ---
+      - key: TUTOR_SESSION_BACKEND
+        value: supabase
+      - key: DEER_FLOW_CONFIG_PATH
+        value: /app/config.yaml
