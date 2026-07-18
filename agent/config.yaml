@@ -3,11 +3,11 @@ config_version: 5
 
 models:
   - name: cc
-    display_name: Custom Claude
-    use: deerflow.models.claude_provider:ClaudeChatModel
-    model: gpt-4o
-    anthropic_api_key: sk-FnSkIhmI7SL3Wj6f785oqJXu89feO6rMeMMrIJtX8lBlMKuT
-    anthropic_api_url: http://127.0.0.1:15721
+    display_name: DeepSeek V4 Flash
+    use: langchain_openai:ChatOpenAI
+    model: deepseek-v4-flash
+    api_key: sk-xkhb8oIDiFDYA70zKSCz7Gwc3LpQ7RSaBmjBAKLltYyqs7a1EB0rwa81PKGgOilh
+    base_url: https://opencode.ai/zen/go/v1
     max_tokens: 128000
     max_retries: 2
 

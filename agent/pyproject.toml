@@ -20,6 +20,9 @@ deerflow-harness = { path = "../../deer-flow/backend/packages/harness" }
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
+[tool.hatch.build.targets.wheel]
+packages = ["agent_english"]
+
 [dependency-groups]
 dev = [
     "pytest>=9.1.1",
