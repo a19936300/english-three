@@ -47,6 +47,8 @@ function AppPresenceSync({ view, section, currentLevel, result }) {
   return null;
 }
 
+const ENABLE_TUTOR = false; // 问老师功能开关，改为 true 恢复
+
 function AppShell() {
   const gameState = useGameState();
   const { levelsBySection, loading, error } = useLevelData();
@@ -199,7 +201,7 @@ function AppShell() {
         />
       )}
 
-      <TutorChat />
+      {ENABLE_TUTOR && <TutorChat />}
     </div>
   );
 }
